@@ -256,8 +256,11 @@ async def download_report(req: ReportRequest):
 
     content = result["content"]
     filename = result["filename"]
-    filepath = f"./{filename}"
-
+    
+    dirs= "outputs"
+    os.makedirs(dirs,exist_ok=True)
+    filepath = os.path.join(dirs,filename)
+    
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(content)
 
@@ -283,6 +286,9 @@ async def download_overleaf(req: ReportRequest):
 
     tex_content = result["content"]
 
+    dirs="outputs"
+    os.makedirs(dirs,exist_ok=True)
+    
     temp_dir = tempfile.mkdtemp()
 
     main_tex_path = os.path.join(temp_dir, "main.tex")
@@ -303,7 +309,7 @@ async def download_overleaf(req: ReportRequest):
         f.write("% Auto bibliography\n")
 
     zip_name = f"{req.topic.replace(' ', '_')}_overleaf.zip"
-    zip_path = os.path.join(temp_dir, zip_name)
+    zip_path = os.path.join(dirs, zip_name)
 
     with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as zipf:
         zipf.write(main_tex_path, "main.tex")

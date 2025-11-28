@@ -1,4 +1,8 @@
 fastapi
 uvicorn
+pydantic
+python-dotenv
 google-adk
 google-generativeai
+streamlit
+requests
