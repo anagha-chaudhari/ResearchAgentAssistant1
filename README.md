@@ -107,7 +107,7 @@ All generated reports are saved and displayed under Previous Reports for future 
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/8dabc21b-52d8-4944-895c-9a94a074d7bb"
-    width="400"
+    width="200"
   />
 </p>
 
