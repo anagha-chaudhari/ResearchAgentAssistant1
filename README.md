@@ -104,7 +104,12 @@ The system sequentially activates:
 **Persistent History** : 
 All generated reports are saved and displayed under Previous Reports for future access.
 
-![Untitled diagram-2025-11-30-181351](https://github.com/user-attachments/assets/8dabc21b-52d8-4944-895c-9a94a074d7bb)
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/8dabc21b-52d8-4944-895c-9a94a074d7bb"
+    width="400"
+  />
+</p>
 
 ## How to Clone & Run the Project
 1️⃣ Clone the Repository
