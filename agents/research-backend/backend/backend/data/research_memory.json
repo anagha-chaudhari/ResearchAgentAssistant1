@@ -1,0 +1,1635 @@
+{
+  "sessions": [
+    {
+      "session_id": "session-1764241008",
+      "query": "Crew Module Thermal Protection System (TPS)",
+      "timestamp": "2025-11-27T16:26:55.585614",
+      "paper_count": 10,
+      "paper_ids": [
+        "985b019c82766037b02deaa3dd2626961ee9091d",
+        "99d1ba66e5c625d9be1dbbb2050ed8121d1660de",
+        "139ba0191341d186828db5e23f405fcb43ee84ca",
+        "921f974eb45b3edf4746764e89fe8a9867ac16c3",
+        "6798afdae0d411d54e23577bec00623ec96785ac",
+        "e6ff39dcd8fc36e4d883a9814d27a862b3ca4cab",
+        "c6333d456fcfc3cca00555ea0a20280300151ebb",
+        "a9f1e1c1d5102160b0f6ac74a1b477dc4863acba",
+        "01c50efa55458eef77f1c2cf72b43a8de9bfa934",
+        "fd52b8e135aa45d6775cf742bb807cde9c60a059"
+      ]
+    },
+    {
+      "session_id": "session-1764244637",
+      "query": "Crew Module Thermal Protection System (TPS)",
+      "timestamp": "2025-11-27T17:27:24.453501",
+      "paper_count": 10,
+      "paper_ids": [
+        "985b019c82766037b02deaa3dd2626961ee9091d",
+        "99d1ba66e5c625d9be1dbbb2050ed8121d1660de",
+        "139ba0191341d186828db5e23f405fcb43ee84ca",
+        "921f974eb45b3edf4746764e89fe8a9867ac16c3",
+        "6798afdae0d411d54e23577bec00623ec96785ac",
+        "e6ff39dcd8fc36e4d883a9814d27a862b3ca4cab",
+        "a9f1e1c1d5102160b0f6ac74a1b477dc4863acba",
+        "c6333d456fcfc3cca00555ea0a20280300151ebb",
+        "01c50efa55458eef77f1c2cf72b43a8de9bfa934",
+        "fd52b8e135aa45d6775cf742bb807cde9c60a059"
+      ]
+    },
+    {
+      "session_id": "session-1764244955",
+      "query": "Crew Module Thermal Protection System (TPS)",
+      "timestamp": "2025-11-27T17:32:42.904320",
+      "paper_count": 10,
+      "paper_ids": [
+        "985b019c82766037b02deaa3dd2626961ee9091d",
+        "99d1ba66e5c625d9be1dbbb2050ed8121d1660de",
+        "139ba0191341d186828db5e23f405fcb43ee84ca",
+        "921f974eb45b3edf4746764e89fe8a9867ac16c3",
+        "6798afdae0d411d54e23577bec00623ec96785ac",
+        "e6ff39dcd8fc36e4d883a9814d27a862b3ca4cab",
+        "fd52b8e135aa45d6775cf742bb807cde9c60a059",
+        "a9f1e1c1d5102160b0f6ac74a1b477dc4863acba",
+        "c6333d456fcfc3cca00555ea0a20280300151ebb",
+        "01c50efa55458eef77f1c2cf72b43a8de9bfa934"
+      ]
+    },
+    {
+      "session_id": "session-1764252319",
+      "query": "Crew Module Thermal Protection System (TPS)",
+      "timestamp": "2025-11-27T19:35:26.110296",
+      "paper_count": 10,
+      "paper_ids": [
+        "985b019c82766037b02deaa3dd2626961ee9091d",
+        "99d1ba66e5c625d9be1dbbb2050ed8121d1660de",
+        "139ba0191341d186828db5e23f405fcb43ee84ca",
+        "921f974eb45b3edf4746764e89fe8a9867ac16c3",
+        "6798afdae0d411d54e23577bec00623ec96785ac",
+        "e6ff39dcd8fc36e4d883a9814d27a862b3ca4cab",
+        "a9f1e1c1d5102160b0f6ac74a1b477dc4863acba",
+        "c6333d456fcfc3cca00555ea0a20280300151ebb",
+        "01c50efa55458eef77f1c2cf72b43a8de9bfa934",
+        "fd52b8e135aa45d6775cf742bb807cde9c60a059"
+      ]
+    },
+    {
+      "session_id": "session-1764261332",
+      "query": "Crew Module Thermal Protection System(TPS)",
+      "timestamp": "2025-11-27T22:05:39.830094",
+      "paper_count": 10,
+      "paper_ids": [
+        "985b019c82766037b02deaa3dd2626961ee9091d",
+        "99d1ba66e5c625d9be1dbbb2050ed8121d1660de",
+        "139ba0191341d186828db5e23f405fcb43ee84ca",
+        "e6ff39dcd8fc36e4d883a9814d27a862b3ca4cab",
+        "921f974eb45b3edf4746764e89fe8a9867ac16c3",
+        "6798afdae0d411d54e23577bec00623ec96785ac",
+        "01c50efa55458eef77f1c2cf72b43a8de9bfa934",
+        "c6333d456fcfc3cca00555ea0a20280300151ebb",
+        "fd52b8e135aa45d6775cf742bb807cde9c60a059",
+        "a9f1e1c1d5102160b0f6ac74a1b477dc4863acba"
+      ]
+    },
+    {
+      "session_id": "session-1764261908",
+      "query": "Digital Twin-Based Thermal Protection System Design for Crew Module Re-entry",
+      "timestamp": "2025-11-27T22:15:15.472084",
+      "paper_count": 1,
+      "paper_ids": [
+        "5172d99c8173aa08b280886f8ff7ba5bd16f4c9d"
+      ]
+    },
+    {
+      "session_id": "session-1764262110",
+      "query": "Digital Twin-Based Thermal Protection System Design for Crew Module Re-entry",
+      "timestamp": "2025-11-27T22:18:35.898636",
+      "paper_count": 1,
+      "paper_ids": [
+        "5172d99c8173aa08b280886f8ff7ba5bd16f4c9d"
+      ]
+    },
+    {
+      "session_id": "session-1764262313",
+      "query": "Advanced Carbon-Based Ablative Materials for Spacecraft Thermal Protection",
+      "timestamp": "2025-11-27T22:22:04.699499",
+      "paper_count": 6,
+      "paper_ids": [
+        "fac3364245526d43a5c77499eaa6013a42f5e6f5",
+        "a8c7a94bb6f645fcc03bf15315f2fd1bf25ed540",
+        "8149581d323b06a7b5f2e7897bdcfce78564c9fc",
+        "9ee1e49ce9b3987d25a69684688607e9a5f93a00",
+        "badad291feb45ddadcd3cd8597c61c92f451a42d",
+        "daa9829cfec5f3237469366941fc10f96cb1a4eb"
+      ]
+    },
+    {
+      "session_id": "session-1764264797",
+      "query": "Crew Module Thermal Protection System(TPS)",
+      "timestamp": "2025-11-27T23:03:25.152299",
+      "paper_count": 10,
+      "paper_ids": [
+        "985b019c82766037b02deaa3dd2626961ee9091d",
+        "99d1ba66e5c625d9be1dbbb2050ed8121d1660de",
+        "139ba0191341d186828db5e23f405fcb43ee84ca",
+        "6798afdae0d411d54e23577bec00623ec96785ac",
+        "921f974eb45b3edf4746764e89fe8a9867ac16c3",
+        "e6ff39dcd8fc36e4d883a9814d27a862b3ca4cab",
+        "01c50efa55458eef77f1c2cf72b43a8de9bfa934",
+        "c6333d456fcfc3cca00555ea0a20280300151ebb",
+        "fd52b8e135aa45d6775cf742bb807cde9c60a059",
+        "a9f1e1c1d5102160b0f6ac74a1b477dc4863acba"
+      ]
+    },
+    {
+      "session_id": "session-1764264947",
+      "query": "Crew Module Thermal Protection System(TPS)",
+      "timestamp": "2025-11-27T23:05:54.428269",
+      "paper_count": 10,
+      "paper_ids": [
+        "985b019c82766037b02deaa3dd2626961ee9091d",
+        "99d1ba66e5c625d9be1dbbb2050ed8121d1660de",
+        "139ba0191341d186828db5e23f405fcb43ee84ca",
+        "6798afdae0d411d54e23577bec00623ec96785ac",
+        "921f974eb45b3edf4746764e89fe8a9867ac16c3",
+        "e6ff39dcd8fc36e4d883a9814d27a862b3ca4cab",
+        "01c50efa55458eef77f1c2cf72b43a8de9bfa934",
+        "c6333d456fcfc3cca00555ea0a20280300151ebb",
+        "fd52b8e135aa45d6775cf742bb807cde9c60a059",
+        "a9f1e1c1d5102160b0f6ac74a1b477dc4863acba"
+      ]
+    },
+    {
+      "session_id": "session-1764265547",
+      "query": "transformers",
+      "timestamp": "2025-11-27T23:15:55.723923",
+      "paper_count": 10,
+      "paper_ids": [
+        "41a66997ce0a366bba3becf7c3f37c9aebb13fbd",
+        "afeeb8f5018eebb1a1d334b94dbbfc48d167efef",
+        "ca9f5b3bf0f54ad97513e6175b30497873670fed",
+        "4a111f7a3b56d0468f13104999844885157ef17d",
+        "f5ac95fa58815a35622a60f42a5729f518e57cdf",
+        "5a20aa49b81b4e14fdb36814e557b3da60259ce9",
+        "c0f9315d8175b76097eadff3a2686ef203e6ee6b",
+        "53e9cf17eb4e54c80cfc5c5b20809527fbabd94b",
+        "189fde3f4dfa105bb51472a8945618f395919560",
+        "9ffc8d59270b01def8bde81a8ec1d759a2029dbb"
+      ]
+    },
+    {
+      "session_id": "session-1764322328",
+      "query": "transformers",
+      "timestamp": "2025-11-28T15:02:16.223095",
+      "paper_count": 10,
+      "paper_ids": [
+        "41a66997ce0a366bba3becf7c3f37c9aebb13fbd",
+        "afeeb8f5018eebb1a1d334b94dbbfc48d167efef",
+        "ca9f5b3bf0f54ad97513e6175b30497873670fed",
+        "4a111f7a3b56d0468f13104999844885157ef17d",
+        "f5ac95fa58815a35622a60f42a5729f518e57cdf",
+        "5a20aa49b81b4e14fdb36814e557b3da60259ce9",
+        "53e9cf17eb4e54c80cfc5c5b20809527fbabd94b",
+        "c0f9315d8175b76097eadff3a2686ef203e6ee6b",
+        "189fde3f4dfa105bb51472a8945618f395919560",
+        "9ffc8d59270b01def8bde81a8ec1d759a2029dbb"
+      ]
+    },
+    {
+      "session_id": "session-1764325847",
+      "query": "transformers",
+      "timestamp": "2025-11-28T16:00:58.017378",
+      "paper_count": 10,
+      "paper_ids": [
+        "41a66997ce0a366bba3becf7c3f37c9aebb13fbd",
+        "afeeb8f5018eebb1a1d334b94dbbfc48d167efef",
+        "ca9f5b3bf0f54ad97513e6175b30497873670fed",
+        "4a111f7a3b56d0468f13104999844885157ef17d",
+        "f5ac95fa58815a35622a60f42a5729f518e57cdf",
+        "5a20aa49b81b4e14fdb36814e557b3da60259ce9",
+        "53e9cf17eb4e54c80cfc5c5b20809527fbabd94b",
+        "c0f9315d8175b76097eadff3a2686ef203e6ee6b",
+        "189fde3f4dfa105bb51472a8945618f395919560",
+        "9ffc8d59270b01def8bde81a8ec1d759a2029dbb"
+      ]
+    },
+    {
+      "session_id": "session-1764325913",
+      "query": "transformers",
+      "timestamp": "2025-11-28T16:02:03.155279",
+      "paper_count": 10,
+      "paper_ids": [
+        "41a66997ce0a366bba3becf7c3f37c9aebb13fbd",
+        "afeeb8f5018eebb1a1d334b94dbbfc48d167efef",
+        "ca9f5b3bf0f54ad97513e6175b30497873670fed",
+        "4a111f7a3b56d0468f13104999844885157ef17d",
+        "f5ac95fa58815a35622a60f42a5729f518e57cdf",
+        "5a20aa49b81b4e14fdb36814e557b3da60259ce9",
+        "53e9cf17eb4e54c80cfc5c5b20809527fbabd94b",
+        "c0f9315d8175b76097eadff3a2686ef203e6ee6b",
+        "189fde3f4dfa105bb51472a8945618f395919560",
+        "9ffc8d59270b01def8bde81a8ec1d759a2029dbb"
+      ]
+    },
+    {
+      "session_id": "session-1764326029",
+      "query": "rotation of planets",
+      "timestamp": "2025-11-28T16:04:06.132362",
+      "paper_count": 3,
+      "paper_ids": [
+        "9ed73069cb53ab2f87fd5bbdfb1b4865ea1a2d2c",
+        "29069f50e5a41cf21ebf59c5111e82ed0c05a53f",
+        "42d4b1b67f026f1d55d41a182fe1408832a8f71e"
+      ]
+    },
+    {
+      "session_id": "session-1764329694",
+      "query": "marketing analysis trends in indian markets",
+      "timestamp": "2025-11-28T17:05:15.031535",
+      "paper_count": 4,
+      "paper_ids": [
+        "e265739d0626a8f827f6d8de0c37e39e0d761990",
+        "573b186495818e6017e990d5be596099ac661618",
+        "c798b0303f329dccf46ace19cff1a9e2fe0f69ae",
+        "98bd416c46f7a662a40ed7f7a29dffb88aa7b3bb"
+      ]
+    },
+    {
+      "session_id": "session-1764330713",
+      "query": "cotton market trends in india",
+      "timestamp": "2025-11-28T17:22:06.817773",
+      "paper_count": 6,
+      "paper_ids": [
+        "0457e7fd7b7b10e735158b38ef389985b9811f19",
+        "a425982103bf5e11d0839b5e66bf3f925043bed7",
+        "19d817c93b020cb9e9e8ecbd0999079cc00b315c",
+        "ebda61dc583175c7e44ed9ebdd36408f58109e99",
+        "6a85d650d7715b4c7a94d793aeb8cfb100c92c68",
+        "47f41004a3bd341abd6e32be8dafe988a4b2db6e"
+      ]
+    },
+    {
+      "session_id": "session-1764349146",
+      "query": "Early Detection Of Dyslexia",
+      "timestamp": "2025-11-28T22:29:17.085954",
+      "paper_count": 10,
+      "paper_ids": [
+        "6e82ac7198d0d3c8d01510f45a2902276a1fa5f4",
+        "779c2109a9dcb41804f7127cf9433ba5c1985dbd",
+        "d9d91ad316cd865fae52c9ed18f178763ff9b17d",
+        "8edd96aa43b6125c1b0215bb7f347c94e0130fa9",
+        "dfdb316cf788e99fdc69498192a4b66b132e24a7",
+        "2a801cf4af87701ee571248887ceb45b0b6d07da",
+        "a86af4ee706bd5d5c0d5f1d7f108fe5b3fb05d10",
+        "f2c51d91258fdcf18c1fcde85169b8c6dbb6f5da",
+        "ae367d8075c8f122146766b43b99529260dfe44b",
+        "9efcd0f2feebc247f168d1c05b14461ec089b12f"
+      ]
+    }
+  ],
+  "papers": {
+    "985b019c82766037b02deaa3dd2626961ee9091d": {
+      "paper_id": "985b019c82766037b02deaa3dd2626961ee9091d",
+      "title": "Analysis and Optimization of CP Antenna Covered by Thermal Protection System for Broadband Applications",
+      "url": "https://www.semanticscholar.org/paper/985b019c82766037b02deaa3dd2626961ee9091d",
+      "authors": [
+        "X. Liu",
+        "Dongliang Zhang",
+        "Qi Wu"
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-09-01",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "doi": "10.1109/TAP.2023.3292465",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "Installed antenna on a hypersonic vehicle is protected by thermal protection system (TPS), but it may deteriorate the antenna’s performance. This article analyzes electromagnetic interactions between a circularly polarized (CP) antenna and TPS through multilayer Green’s function and reciprocity theorem. Two orthogonally placed Hertzian diploes represent an equivalent CP antenna. Radiation pattern and axial ratio (AR) are rigorously calculated. With TPS, the AR beamwidth is compromised and the main lobe splits. An impedance ground (IG) is proposed to replace metallic ground for alleviating the negative effects of TPS. An Archimedean spiral antenna is fabricated and measured for verification. The AR beamwidth is widened by 32° on average in the frequency range of 3–8 GHz. Additionally, the split of the main lobe existing in the frequency range of 4.6–5.4 GHz is repaired and the realized gain in the broadside is improved by ~1.8 dBi. As a price, the radiation efficiency of the spiral antenna is reduced by ~14% since partial radiation is absorbed by IG. High-temperature (HT) heating experiment reaching up to 800 °C is conducted to verify the thermal protection performance. The proposed method does not change the structure of TPS or increase the antenna profile, and hence it is potentially useful for broadband systems on hypersonic vehicles.",
+      "tldr": "",
+      "citation_count": 3,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.1109/TAP.2023.3292465",
+      "retrieved_at": "2025-11-27T16:26:55.585194"
+    },
+    "99d1ba66e5c625d9be1dbbb2050ed8121d1660de": {
+      "paper_id": "99d1ba66e5c625d9be1dbbb2050ed8121d1660de",
+      "title": "Design of Planar and Curved Spiral Antennas Covered by 2-D Conformal Thermal Protection System",
+      "url": "https://www.semanticscholar.org/paper/99d1ba66e5c625d9be1dbbb2050ed8121d1660de",
+      "authors": [
+        "Haoqing Wen",
+        "Qi Wu"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-12-01",
+      "journal": "IEEE Transactions on Antennas and Propagation",
+      "doi": "10.1109/TAP.2024.3473023",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "The conformal thermal protection system (TPS) is widely used to protect embedded antennas of hypersonic vehicles in high-temperature environments. An equivalent analytical equation for the radiation performance of a general circularly polarized (CP) antenna loaded with the conformal TPS is presented. Compared with planar TPS, conformal TPS leads to more complicated impacts on the antenna’s radiation performance, mainly manifested by main lobe splitting, gain reduction, and axial ratio (AR) deterioration. The extent of this effect is related to the curvature radius of the conformal TPS. A method to design a nonuniform impedance ground (IG) replacing the PEC ground to repair the degradation of the radiation performance by the conformal TPS is proposed. A broadband Archimedean spiral antenna loaded with a conformal TPS and a nonuniform IG is fabricated and measured to verify the proposed theoretical method. According to the simulation and measurement results, the antenna has an AR of less than 3 dB from 3 to 12 GHz and an AR beamwidth of 60° on average by loading the nonuniform IG. The main lobe splitting at 4 GHz is repaired, and the gain is improved by ~2.5 dB. A fully conformal model is proposed and fabricated with a conformal Archimedean spiral antenna and a conformal IG, which significantly reduces the antenna profile while using an asymmetric Archimedean spiral antenna resulting in a gain improvement of ~1 dB from 10 to 12 GHz.",
+      "tldr": "",
+      "citation_count": 2,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.1109/TAP.2024.3473023",
+      "retrieved_at": "2025-11-27T16:26:55.585226"
+    },
+    "139ba0191341d186828db5e23f405fcb43ee84ca": {
+      "paper_id": "139ba0191341d186828db5e23f405fcb43ee84ca",
+      "title": "Interval finite element analysis of thermal protection system under thermomechanical coupling",
+      "url": "https://www.semanticscholar.org/paper/139ba0191341d186828db5e23f405fcb43ee84ca",
+      "authors": [
+        "Xuelei Feng",
+        "Zhiyu Shi",
+        "Feiyang He"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-07-09",
+      "journal": "Journal of Thermal Stresses",
+      "doi": "10.1080/01495739.2024.2361828",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "Abstract The uncertainty of thermal protection system (TPS) is inevitable in practical engineering. In this article, the interval finite element model of TPS is established by taking the uncertainties of TPS in thermomechanical coupling analysis as interval parameters. The perturbed-based interval finite element method (PIFEM) and affine-based interval finite element method (AIFEM) are proposed to study the displacement response of uncertain TPS under thermomechanical coupling. Two numerical examples are given and compared with Monte Carlo method (MCM) to verify the effectiveness and accuracy of the PIFEM and AIFEM proposed in this article. The results show that compared with the MCM, the computational efficiency of PIFEM and AIFEM is improved by more than three orders of magnitude, and the computational efficiency of PIFEM and AIFEM is similar. In the case of considering uncertain parameters, the conservative AIFEM is more suitable for the thermomechanical coupled uncertainty analysis of TPS. The numerical results provide useful guidance for TPS design.",
+      "tldr": "",
+      "citation_count": 1,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.1080/01495739.2024.2361828",
+      "retrieved_at": "2025-11-27T16:26:55.585239"
+    },
+    "921f974eb45b3edf4746764e89fe8a9867ac16c3": {
+      "paper_id": "921f974eb45b3edf4746764e89fe8a9867ac16c3",
+      "title": "Internal Gas Flow Effects on Porous Thermal Protection System Thermal Conductivity: Stardust Case",
+      "url": "https://www.semanticscholar.org/paper/921f974eb45b3edf4746764e89fe8a9867ac16c3",
+      "authors": [
+        "Jérémy Chevalier",
+        "Bruno Dubroca",
+        "Antonio Cosculluela",
+        "A. Ahmadi-Sénichault",
+        "Jean Lachaud"
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-09-15",
+      "journal": "Journal of Spacecraft and Rockets",
+      "doi": "10.2514/1.a36307",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "Porous carbon fiber preforms, such as Calcarb and FiberForm, are used as reinforcements in thermal protection system (TPS) materials. In the state-of-the-art material response models, the thermal conductivity of ablative materials is typically tabulated as a function of temperature and pressure. The theory of homogenization in porous media predicts that the apparent conductivity also depends on the internal gas flow velocity—in this case caused by the flow of pyrolysis or boundary-layer gases within the material. This study aims to quantify this effect, known as thermal dispersion. Pore-scale numerical simulations are used to evaluate dispersion as a function of the Péclet number (the convection-to-diffusion ratio) for ideal structures and a 3D tomography of Calcarb, the carbon fiber preform of ASTERM. This is achieved by deriving and implementing a closure problem in the Porous Material Analysis Toolbox based on OpenFOAM (PATO). The results obtained on Calcarb are introduced to quantify the impact of dispersion during Stardust’s atmospheric reentry at the stagnation point, demonstrating a negligible effect. This work shall be extended to other materials and conditions to inform design margin policies.",
+      "tldr": "",
+      "citation_count": 0,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.2514/1.a36307",
+      "retrieved_at": "2025-11-27T16:26:55.585249"
+    },
+    "6798afdae0d411d54e23577bec00623ec96785ac": {
+      "paper_id": "6798afdae0d411d54e23577bec00623ec96785ac",
+      "title": "A novel digital twin-based evaluation method of clearance and step-off for thermal protection system",
+      "url": "https://www.semanticscholar.org/paper/6798afdae0d411d54e23577bec00623ec96785ac",
+      "authors": [
+        "Jiaming Shi",
+        "Xiang Huang",
+        "Guoyi Hou",
+        "Shuanggao Li",
+        "Jincheng Jiang",
+        "Shurong Zhang",
+        "Tailong Cao"
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-04-24",
+      "journal": "Measurement Science and Technology",
+      "doi": "10.1088/1361-6501/add03c",
+      "arxiv_id": "N/A",
+      "keywords": [
+        "Physics"
+      ],
+      "abstract": "The thermal protection tile system is one of the most critical structures of reusable launch vehicles, and its assembly quality directly affects the flight performance of the aircraft. The assembly clearance and step-off of thermal protection tiles are essential parameters for assessing the assembly quality of the thermal protection system (TPS). Additionally, digital twin technology provides real-time feedback and the ability to control physical processes virtually. Therefore, this paper proposes a novel digital twin-based evaluation method of clearance and step-off for TPSs. The paper first introduces the automated assembly system for thermal protection tiles used in this study, which consists of three assembly stages. Based on this system, a digital twin model of thermal protection tiles is constructed using a theoretical model and physical entity as inputs through three layers: theoretical data layer, actual measurement data layer, and reconstruction of data layer. This twin model is coupled with the assembly pose dataset of the thermal protection tiles to create an assembly deviation model, which is then used to calculate the assembly clearance and step-off. Finally, the paper also experimentally verifies the proposed measurement method by building an experimental platform using seven thermal protection tile test pieces. The standard values of the clearance and step-off are measured using a laser tracker, and these standard values are compared with the measurements obtained from the proposed method. The results indicate that this method significantly enhances measurement efficiency and realizes the real-time measurement while maintaining accuracy within ±0.027 mm.",
+      "tldr": "",
+      "citation_count": 0,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.1088/1361-6501/add03c",
+      "retrieved_at": "2025-11-27T16:26:55.585259"
+    },
+    "e6ff39dcd8fc36e4d883a9814d27a862b3ca4cab": {
+      "paper_id": "e6ff39dcd8fc36e4d883a9814d27a862b3ca4cab",
+      "title": "Investigation on guided wave dispersion in thermal protection system for debonding detection",
+      "url": "https://www.semanticscholar.org/paper/e6ff39dcd8fc36e4d883a9814d27a862b3ca4cab",
+      "authors": [
+        "Hongyuan Wang",
+        "Delin Wu",
+        "Hengda Zhang",
+        "Shenping Gao",
+        "Xiaobo Wang",
+        "Pian Jin",
+        "Xing-yan Yu",
+        "Lei Yao"
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-06-01",
+      "journal": "Journal of Physics: Conference Series",
+      "doi": "10.1088/1742-6596/3026/1/012063",
+      "arxiv_id": "N/A",
+      "keywords": [
+        "Physics"
+      ],
+      "abstract": "In this paper, the dispersion properties of guided waves in multi-layered thermal protection system (TPS) are studied in complex-valued wavenumber domain. Due to the damping property of the bonded insulation tile, the semi-analytical finite element (SAFE) method is utilized to simulate the three-dimensional eigenvalue loci and eigenvector shapes of coupling equation in TPS with bonded insulation tile. Compared with the dispersion loci and wave structures of the existed waves in the aluminum base panel, those in the intact TPS have different dispersion characteristics because of the influence of bonded insulation tile. This research indicates that the existed wave modes close to the coupling region are feasible to evaluate bonding status between the metal substrate and the insulation tile. Accordingly, guided wave properties under multiple bonding conditions are compared. The results can give fundamental understanding to select feasible wave modes for the evaluation of TPS bonding status.",
+      "tldr": "",
+      "citation_count": 0,
+      "publication_types": [
+        "JournalArticle",
+        "Conference"
+      ],
+      "pdf_url": "https://doi.org/10.1088/1742-6596/3026/1/012063",
+      "retrieved_at": "2025-11-27T16:26:55.585268"
+    },
+    "c6333d456fcfc3cca00555ea0a20280300151ebb": {
+      "paper_id": "c6333d456fcfc3cca00555ea0a20280300151ebb",
+      "title": "Coupled Flow-Thermal Analysis of a Rocket Nozzle with Charring Ablative Thermal Protection System",
+      "url": "https://www.semanticscholar.org/paper/c6333d456fcfc3cca00555ea0a20280300151ebb",
+      "authors": [
+        "Basit G. Sheikh",
+        "Rakesh Kumar",
+        "S. SusheelKumar"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-11-29",
+      "journal": "N/A",
+      "doi": "N/A",
+      "arxiv_id": "2411.19792",
+      "keywords": [
+        "Physics"
+      ],
+      "abstract": "This paper presents a conjugate flow-thermal analysis of a rocket nozzle protected by a charring ablative thermal protection system (TPS). The study employs a coupled approach, integrating a CFD solver with an in-house transient material response code through the exchange of boundary conditions at the fluid-solid interface. The nozzle incorporates an AVCOAT TPS and is subjected to high-temperature compressible flow. Results identify the nozzle throat as the critical location, exhibiting the highest convective loading, early attainment of the material ablation temperature, and progressive surface recession. Temporal analysis of the coupled simulations reveals an initial peak in wall heat flux followed by a transient reduction and a subsequent resurgence as viscous dissipation and evolving surface conditions modify the near-wall thermal field. At 120 s of simulated operation, the maximum surface recession at the throat is approximately 2.5 mm. This research provides a methodology for predicting the thermal and ablative response of rocket nozzles equipped with charring TPS materials. The proposed framework offers valuable insights into the design and optimization of high-performance nozzles for extreme environments.",
+      "tldr": "",
+      "citation_count": 0,
+      "publication_types": null,
+      "pdf_url": "https://arxiv.org/pdf/2411.19792.pdf",
+      "retrieved_at": "2025-11-27T16:26:55.585277"
+    },
+    "a9f1e1c1d5102160b0f6ac74a1b477dc4863acba": {
+      "paper_id": "a9f1e1c1d5102160b0f6ac74a1b477dc4863acba",
+      "title": "Parameterized Reduced-Order Models for Probabilistic Analysis of Thermal Protection System Based on Proper Orthogonal Decomposition",
+      "url": "https://www.semanticscholar.org/paper/a9f1e1c1d5102160b0f6ac74a1b477dc4863acba",
+      "authors": [
+        "Kun Zhang",
+        "Jianyao Yao",
+        "Wenxiang Zhu",
+        "Zhifu Cao",
+        "Teng Li",
+        "Jianqiang Xin"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-03-29",
+      "journal": "Aerospace",
+      "doi": "10.3390/aerospace11040269",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "The thermal protection system (TPS) represents one of the most critical subsystems for vehicle re-entry. However, due to uncertainties in thermal loads, material properties, and manufacturing deviations, the thermal response of the TPS exhibits significant randomness, posing considerable challenges in engineering design and reliability assessment. Given that uncertain aerodynamic heating loads manifest as a stochastic field over time, conventional surrogate models, typically accepting scalar random variables as inputs, face limitations in modeling them. Consequently, this paper introduces an effective characterization approach utilizing proper orthogonal decomposition (POD) to represent the uncertainties of aerodynamic heating. The augmented snapshots matrix is used to reduce the dimension of the random field by the decoupling method of independently spatial and temporal bases. The random variables describing material properties and geometric thickness are also employed as inputs for probabilistic analyses. An uncoupled POD Gaussian process regression (UPOD-GPR) model is then established to achieve highly accurate solutions for transient heat conduction. The model takes random heat flux fields as inputs and thermal response fields as outputs. Using a typical multi-layer TPS and thermal structure as two examples, probabilistic analyses are conducted. The mean square relative error of a typical multi-layer TPS is less than 4%. For the thermal structure, the averaged absolute error of the radiation and insulation layer is less than 25 ∘C and 6 ∘C when the maximum reaches 1200 ∘C and 150 ∘C, respectively. This approach can provide accurate and rapid predictions of thermal responses for TPS and thermal structures throughout their entire operating time when furnished with input heat flux fields and structural parameters.",
+      "tldr": "",
+      "citation_count": 0,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.3390/aerospace11040269",
+      "retrieved_at": "2025-11-27T16:26:55.585286"
+    },
+    "01c50efa55458eef77f1c2cf72b43a8de9bfa934": {
+      "paper_id": "01c50efa55458eef77f1c2cf72b43a8de9bfa934",
+      "title": "Experimental and analytical evaluation of an aerospace thermal protection system: Carbon monolith ablator",
+      "url": "https://www.semanticscholar.org/paper/01c50efa55458eef77f1c2cf72b43a8de9bfa934",
+      "authors": [
+        "Rina Ono",
+        "Kenjiro Tsukamoto",
+        "Y. Arai",
+        "Yasuo Kogo"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-04-18",
+      "journal": "MRS Advances",
+      "doi": "10.1557/s43580-024-00850-z",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "A porous carbon material with a three-dimensional (3D) networked structure (carbon monolith) was prepared as a substrate for an ablator, which is a thermal protection system (TPS) for re-entry vehicles. A carbon monolith ablator (CMA) was fabricated by impregnating acrylic resin into the carbon monolith. To evaluate the thermal insulation effect of the CMA, arc wind tunnel tests for the carbon monolith and CMA were conducted to simulate atmospheric re-entry. The results indicated that the surface temperature of the CMA was lower than that of the carbon monolith, and the decomposition of the acrylic resin was effective in preventing an increase in surface temperature, as the decomposition of the resin is an endothermic process. Thermal conduction and stress analyses using the finite element method revealed that the tensile stress that evolved during exposure reached those of typical porous carbon materials, and tensile stress relaxation was required to apply the CMA as a TPS.",
+      "tldr": "",
+      "citation_count": 0,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.1557/s43580-024-00850-z",
+      "retrieved_at": "2025-11-27T16:26:55.585294"
+    },
+    "fd52b8e135aa45d6775cf742bb807cde9c60a059": {
+      "paper_id": "fd52b8e135aa45d6775cf742bb807cde9c60a059",
+      "title": "Optimization of a Hybrid Thermal Protection System for Space Vehicles",
+      "url": "https://www.semanticscholar.org/paper/fd52b8e135aa45d6775cf742bb807cde9c60a059",
+      "authors": [
+        "Syed Arafun Nabi",
+        "Hamidreza Najafi"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-07-15",
+      "journal": "ASME 2024 Heat Transfer Summer Conference",
+      "doi": "10.1115/ht2024-131509",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "\n Thermal protection system (TPS) plays a pivotal role in safeguarding space vehicles from extreme aerothermal heating during atmospheric entry. To ensure effective thermal management, Hybrid Thermal Protection seamlessly integrating both active and passive TPS is an innovative solution. The passive TPS consists of an insulative layer on vehicle skin to counteract the aerothermal heat. Although a thicker layer enhances insulation, a trade-off arises between the thickness of the passive layer and the spacecraft’s weight. Beneath the passive TPS layer lies the active TPS functioning as a heat exchanger where the vehicle fuel liquid is considered as coolant. The effectiveness of the active TPS is influenced by parameters such as the coolant flowrate and the design of the flow channel. In this paper, two potential designs for the active TPS are considered and the resulting hybrid systems are studied through parametric analysis and optimization using multi-objective optimization through genetic algorithm. Two objective functions including the total weight of the system as well as the required pumping power are considered and parameters including coolant velocity, thickness of passive TPS layer and thickness of gyroid are used as the optimization variables. The methodology used and results produced from this study provide insights regarding the design and optimization of hybrid TPS and the potentials for using triply periodic minimal surfaces to achieve enhanced heat transfer performance.",
+      "tldr": "",
+      "citation_count": 0,
+      "publication_types": [
+        "Conference"
+      ],
+      "pdf_url": "https://doi.org/10.1115/ht2024-131509",
+      "retrieved_at": "2025-11-27T16:26:55.585302"
+    },
+    "5172d99c8173aa08b280886f8ff7ba5bd16f4c9d": {
+      "paper_id": "5172d99c8173aa08b280886f8ff7ba5bd16f4c9d",
+      "title": "Thermal Protection Systems Technology Transfer from Apollo and Space Shuttle to the Orion Program",
+      "url": "https://www.semanticscholar.org/paper/5172d99c8173aa08b280886f8ff7ba5bd16f4c9d",
+      "authors": [
+        "M. Stewart",
+        "W. Koenig",
+        "Richard F. Harris"
+      ],
+      "publication_year": 2018,
+      "publication_date": "2018-09-15",
+      "journal": "2018 AIAA SPACE and Astronautics Forum and Exposition",
+      "doi": "10.2514/6.2018-5134",
+      "arxiv_id": "N/A",
+      "keywords": [
+        "Environmental Science"
+      ],
+      "abstract": "This paper describes how the Orion program is utilizing the Thermal Protection System (TPS) experience from the Apollo and Space Shuttle programs to reduce program risk and improve affordability to meet NASA’s future manned exploration missions. The Orion program successfully completed the Exploration Flight Test (EFT-1) mission in 2014 and is currently assembling, integrating, and testing the next spacecraft for the Exploration Mission (EM-1) to meet the flight test objectives of an unmanned orbital mission to the moon and return to earth in 2019. The Orion spacecraft production operations are located in the Neil Armstrong Operations and Checkout (O&C) facility at the Kennedy Space Center (KSC) providing an affordable and seamless delivery approach of vehicles directly to the launch site eliminating spacecraft transportation and additional checkout testing. Innovative vehicle design, manufacturing and test operations approaches are maturing and evolving with each Orion vehicle build to support the challenging NASA exploration mission requirements beyond Low Earth Orbit (LEO) while reducing program cost and schedule impacts. An example of Orion’s evolution is the incorporation of an improved heat shield design, assembly and testing approach to meet the higher re-entry velocities for a lunar return for the EM-1 mission. The EFT1 heat shield was based on the Apollo heat shield manufacturing processes and was assembled at a supplier location and then transported to KSC for final integration. The EM-1 heat shield is now manufactured, assembled, tested, and installed into the spacecraft at the O&C facility reducing program cost and production schedules. The transition of the Space Shuttle TPS capabilities has enabled Orion to provide a human rated capsule design using proven materials and processes established over years of orbiter re-entry missions. The Orion Crew Module (CM) TPS configuration is derived from the Apollo CM approach utilizing improved materials and processes developed from the Space Shuttle program. The Orion EFT-1 heat shield utilized the Avcoat ablative material from Apollo which was injected into a honeycomb substrate and has been updated for EM-1 incorporating a block configuration bonded to a composite shell structure. This approach utilizes the proven Avcoat material for the heat shield ablator and is utilizing derived bonding and inspection methods and techniques from the Space Shuttle tile experience. The Orion back shell TPS configuration is based on Space Shuttle tile designs using proven tile materials and coatings. The Orion forward bay cover utilizes the high temperature tiles similar to the back shell tiles and low temperature blankets derived from the Space Shuttle program reducing weight impacts. Space Shuttle Multi-Layer Insulation (MLI) is installed in the Orion capsule to control the interior temperature environment providing a light weight design. These TPS design approaches have performed successfully on the Orion first flight test on EFT-1 and are incorporated in the configuration for the next flight test for EM-1. Completion of these two flight tests will certify the TPS for the Orion program for human rated exploration missions and has reduced the development cost to the Orion program. In addition to transitioning the Space Shuttle TPS design configurations to Orion, the supporting manufacturing infrastructure, manufacturing processes, and",
+      "tldr": "",
+      "citation_count": 11,
+      "publication_types": null,
+      "pdf_url": "https://doi.org/10.2514/6.2018-5134",
+      "retrieved_at": "2025-11-27T22:15:15.471945"
+    },
+    "fac3364245526d43a5c77499eaa6013a42f5e6f5": {
+      "paper_id": "fac3364245526d43a5c77499eaa6013a42f5e6f5",
+      "title": "A Comprehensive Review on the Thermal Stability Assessment of Polymers and Composites for Aeronautics and Space Applications",
+      "url": "https://www.semanticscholar.org/paper/fac3364245526d43a5c77499eaa6013a42f5e6f5",
+      "authors": [
+        "G. Barra",
+        "L. Guadagno",
+        "M. Raimondo",
+        "M. Santonicola",
+        "Elisa Toto",
+        "Stefano Vecchio Ciprioti"
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-09-01",
+      "journal": "Polymers",
+      "doi": "10.3390/polym15183786",
+      "arxiv_id": "N/A",
+      "keywords": [
+        "Medicine"
+      ],
+      "abstract": "This review article provides an exhaustive survey on experimental investigations regarding the thermal stability assessment of polymers and polymer-based composites intended for applications in the aeronautical and space fields. This review aims to: (1) come up with a systematic and critical overview of the state-of-the-art knowledge and research on the thermal stability of various polymers and composites, such as polyimides, epoxy composites, and carbon-filled composites; (2) identify the key factors, mechanisms, methods, and challenges that affect the thermal stability of polymers and composites, such as the temperature, radiation, oxygen, and degradation; (3) highlight the current and potential applications, benefits, limitations, and opportunities of polymers and composites with high thermal stability, such as thermal control, structural reinforcement, protection, and energy conversion; (4) give a glimpse of future research directions by providing indications for improving the thermal stability of polymers and composites, such as novel materials, hybrid composites, smart materials, and advanced processing methods. In this context, thermal analysis plays a crucial role in the development of polyimide-based materials for the radiation shielding of space solar cells or spacecraft components. The main strategies that have been explored to improve the processability, optical transparency, and radiation resistance of polyimide-based materials without compromising their thermal stability are highlighted. The combination of different types of polyimides, such as linear and hyperbranched, as well as the incorporation of bulky pendant groups, are reported as routes for improving the mechanical behavior and optical transparency while retaining the thermal stability and radiation shielding properties. Furthermore, the thermal stability of polymer/carbon nanocomposites is discussed with particular reference to the role of the filler in radiation monitoring systems and electromagnetic interference shielding in the space environment. Finally, the thermal stability of epoxy-based composites and how it is influenced by the type and content of epoxy resin, curing agent, degree of cross-linking, and the addition of fillers or modifiers are critically reviewed. Some studies have reported that incorporating mesoporous silica micro-filler or microencapsulated phase change materials (MPCM) into epoxy resin can enhance its thermal stability and mechanical properties. The mesoporous silica composite exhibited the highest glass transition temperature and activation energy for thermal degradation among all the epoxy-silica nano/micro-composites. Indeed, an average activation energy value of 148.86 kJ/mol was recorded for the thermal degradation of unfilled epoxy resin. The maximum activation energy range was instead recorded for composites loaded with mesoporous microsilica. The EMC-5p50 sample showed the highest mean value of 217.6 kJ/mol. This remarkable enhancement was ascribed to the polymer invading the silica pores and forging formidable interfacial bonds.",
+      "tldr": "",
+      "citation_count": 84,
+      "publication_types": [
+        "Review",
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.3390/polym15183786",
+      "retrieved_at": "2025-11-27T22:22:04.699170"
+    },
+    "a8c7a94bb6f645fcc03bf15315f2fd1bf25ed540": {
+      "paper_id": "a8c7a94bb6f645fcc03bf15315f2fd1bf25ed540",
+      "title": "An open carbon–phenolic ablator for scientific exploration",
+      "url": "https://www.semanticscholar.org/paper/a8c7a94bb6f645fcc03bf15315f2fd1bf25ed540",
+      "authors": [
+        "Erik Poloni",
+        "Felix Grigat",
+        "M. Eberhart",
+        "D. Leiser",
+        "Quentin Sautière",
+        "Ranjith Ravichandran",
+        "Sara Delahaie",
+        "Christian Duernhofer",
+        "I. Hoerner",
+        "Fabian Hufgard",
+        "S. Loehle"
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-08-12",
+      "journal": "Scientific Reports",
+      "doi": "10.1038/s41598-023-40351-x",
+      "arxiv_id": "N/A",
+      "keywords": [
+        "Medicine"
+      ],
+      "abstract": "Space exploration missions rely on ablative heat shields for the thermal protection of spacecraft during atmospheric entry flights. While dedicated research is needed for future missions, the scientific community has limited access to ablative materials typically used in aerospace. In this paper, we report the development of the HEFDiG Ablation-Research Laboratory Experiment Material (HARLEM), a carbon–phenolic ablator designed to supply the need for ablative materials in laboratory experiments. HARLEM is manufactured using polyacrylonitrile-based carbon fiber preforms and a simplified processing route for phenolic impregnation. We characterized the thermal protection performance of HARLEM in arcjet experiments conducted in the plasma wind tunnel PWK1 of the Institute of Space Systems at the University of Stuttgart. We assessed the performance of the new material by measuring surface recession rate and temperature using photogrammetry and thermography setups during the experiments, respectively. Our results show that HARLEM’s thermal protection performance is comparable to legacy carbon–phenolic ablators that have been validated in different arcjet facilities or in-flight, as demonstrated by calculations of the effective heat of ablation and scanning electron microscopy of as-produced samples. In-house manufacturing of carbon–phenolic ablators enables the addition of embedded diagnostics to ablators, allowing for the acquisition of data on internal pressure and more sophisticated pyrolysis analysis techniques.",
+      "tldr": "",
+      "citation_count": 5,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.1038/s41598-023-40351-x",
+      "retrieved_at": "2025-11-27T22:22:04.699201"
+    },
+    "8149581d323b06a7b5f2e7897bdcfce78564c9fc": {
+      "paper_id": "8149581d323b06a7b5f2e7897bdcfce78564c9fc",
+      "title": "Thermo-mechanical characterization of carbon-based ceramic foams for high temperature space application",
+      "url": "https://www.semanticscholar.org/paper/8149581d323b06a7b5f2e7897bdcfce78564c9fc",
+      "authors": [
+        "M. Albano",
+        "A. Nenarokomov",
+        "R. Pastore",
+        "S. Budnik",
+        "A. Delfini",
+        "O. Alifanov",
+        "M. Marchetti",
+        "A. Morzhukhina",
+        "Dmitry M. Titov",
+        "F. Santoni",
+        "F. Piergentili",
+        "A. Netelev"
+      ],
+      "publication_year": 2022,
+      "publication_date": null,
+      "journal": "High Temperatures-High Pressures",
+      "doi": "10.32908/hthp.v51.1003",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "The successful development of aerospace reusable launch vehicles (RLV) require to realize effective thermal protection systems (TPS) for preserving spacecraft integrity from the severe thermal loads during re-entry phase. To such an aim, due to the need of reducing payload transportation costs, applied research is driven towards lightweight materials with advanced thermo-mechanical properties. Space TPS are often based on sandwich structures, where the core material has the main function of thermal insulation. Ceramic porous materials, as carbon (C) and silicon carbide (SiC) foams, represent ideal candidates for application as structural TPS component, thanks to both low density and significant thermal stability at very high temperatures. The paper presents a joint experimental study of carbon-based ceramic foams proposed as sandwich’s core for TPS design. A full thermal characterization of commercial C- and SiC-foam materials is reported, including measurements of thermo-mechanical combined stress, temperature-induced outgassing behavior and heat transfer properties. These latter, in particular, are studied by means of a robust numerical technique, known as the inverse method, which allows to evaluate materials thermal conductivity and heat capacity over a wide range of temperatures, thus establishing the required material behavior for potential use in spacecraft TPS.",
+      "tldr": "",
+      "citation_count": 3,
+      "publication_types": null,
+      "pdf_url": "https://doi.org/10.32908/hthp.v51.1003",
+      "retrieved_at": "2025-11-27T22:22:04.699215"
+    },
+    "9ee1e49ce9b3987d25a69684688607e9a5f93a00": {
+      "paper_id": "9ee1e49ce9b3987d25a69684688607e9a5f93a00",
+      "title": "Bayesian identification of pyrolysis model parameters for thermal protection materials using an adaptive gradient-informed sampling algorithm with application to a Mars atmospheric entry",
+      "url": "https://www.semanticscholar.org/paper/9ee1e49ce9b3987d25a69684688607e9a5f93a00",
+      "authors": [
+        "J. Coheur",
+        "T. Magin",
+        "P. Chatelain",
+        "M. Arnst"
+      ],
+      "publication_year": 2022,
+      "publication_date": null,
+      "journal": "International Journal for Uncertainty Quantification",
+      "doi": "10.1615/int.j.uncertaintyquantification.2022042928",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "For space missions involving atmospheric entry, a thermal protection system is essential to shield the spacecraft and its payload from the severe aerothermal loads. Carbon/phenolic composite materials have gained renewed interest to serve as ablative thermal protection materials (TPMs). New experimental data relevant to the pyrolytic decomposition of the phenolic resin used in such carbon/phenolic composite TPMs have recently been published in the literature. In this paper, we infer from these new experimental data an uncertainty-quantiﬁed pyrolysis model. We adopt a Bayesian probabilistic approach to account for uncertainties in the model identiﬁcation. We use an approximate likelihood function involving a weighted distance between the model predictions and the time-dependent experimental data. To sample from the posterior, we use a gradient-informed Markov chain Monte Carlo method, namely, a method based on an Itô stochastic differential equation, with an adaptive selection of the numerical parameters. To select the decomposition mechanisms to be represented in the pyrolysis model, we proceed by progressively increasing the complexity of the pyrolysis model until a satisfactory ﬁt to the data is ultimately obtained. The pyrolysis model thus obtained involves six reactions and has 48 parameters. We demonstrate the use of the identiﬁed pyrolysis model in a numerical simulation of heat shield surface recession in a Martian entry.",
+      "tldr": "",
+      "citation_count": 1,
+      "publication_types": null,
+      "pdf_url": "https://doi.org/10.1615/int.j.uncertaintyquantification.2022042928",
+      "retrieved_at": "2025-11-27T22:22:04.699224"
+    },
+    "badad291feb45ddadcd3cd8597c61c92f451a42d": {
+      "paper_id": "badad291feb45ddadcd3cd8597c61c92f451a42d",
+      "title": "Fractal modeling and numerical simulation of ablative surfaces under non-uniform diffusion in carbon fiber materials",
+      "url": "https://www.semanticscholar.org/paper/badad291feb45ddadcd3cd8597c61c92f451a42d",
+      "authors": [
+        "Liangzhong Fan",
+        "Qingyong Zhu",
+        "Zhihui Li"
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-09-01",
+      "journal": "Physics of Fluids",
+      "doi": "10.1063/5.0283609",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "During atmospheric reentry, spacecrafts are subjected to intense aerodynamic heating, necessitating ablative thermal protection systems (TPS) as a primary safeguard. Although severe ablation typically occurs in continuum or near-continuum flow regimes, many advanced TPS materials under development feature carbon fiber-based porous microstructures. In such cases, gas diffusion can still be dominated by Knudsen diffusion, where the diffusion coefficient depends strongly on the pore diameter. Traditional models often neglect the non-uniformity of pore distribution within fiber preforms, leading to errors in ablation rate prediction. In this study, fractal theory is employed to characterize the mesoscale pore structure of random carbon fiber materials, and a fractal-based diffusion model is developed that accounts for the non-uniform distribution of pores. Analysis reveals that the pore distribution plays a critical role in accurate diffusion modeling. Assuming uniform pore distribution can severely overestimate the diffusion coefficient—by up to 1.8 times compared to the fractal model. Furthermore, the Weierstrass–Mandelbrot function is employed to reconstruct the rough ablation surface induced by non-uniform diffusion in a fractal manner, and an analytical expression for the surface area is derived. Based on the reconstructed surface, the ablation process of a reentry spacecraft with a rough wall is simulated using the direct simulation Monte Carlo (DSMC) method. This approach provides an efficient means of incorporating mesoscale roughness into DSMC simulations, avoiding the excessive computational cost associated with mesh refinement down to the roughness scale.",
+      "tldr": "",
+      "citation_count": 0,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.1063/5.0283609",
+      "retrieved_at": "2025-11-27T22:22:04.699231"
+    },
+    "daa9829cfec5f3237469366941fc10f96cb1a4eb": {
+      "paper_id": "daa9829cfec5f3237469366941fc10f96cb1a4eb",
+      "title": "Heat Shield Properties of Lightweight Ablator Series for Transfer Vehicle Systems with Different Laminated Structures Under High Enthalpy Flow Environments",
+      "url": "https://www.semanticscholar.org/paper/daa9829cfec5f3237469366941fc10f96cb1a4eb",
+      "authors": [
+        "Masayuki Ohkage",
+        "Kei-ichi Okuyama",
+        "Soichiro Hori",
+        "Tsumugi Ishida"
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-03-27",
+      "journal": "Aerospace",
+      "doi": "10.3390/aerospace12040281",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "The thermal protection system of a re-entry vehicle requires a high-heat-resistant heat shield to protect the spacecraft. Most of the ablative materials developed so far have high heat resistance but have technical issues such as long production times. In this study, we propose a new ablative material (LATS/PEEK) consisting of PEEK and carbon felt as a material that can solve these problems. PEEK has excellent properties such as a short production time and its ability to be produced using 3D printer technology. In addition, PEEK can be molded with a variety of fusion bonding methods, so it is possible to mold the heat shield and structural components as a single structure. However, heating tests conducted in previous research have confirmed the expansion phenomenon of CF/PEEK produced by 3D printers. The expansion of the ablative material is undesirable because it changes the aerodynamic characteristics during re-entry flight. Therefore, the purpose of this research is to clarify the mechanism of the expansion phenomenon of the ablative material based on PEEK resin. Therefore, we conducted thermal gravimetric analysis (TGA) and thermomechanical analysis (TMA) and concluded that the expansion phenomenon during the heating test was caused by the pressure increase inside the ablative material due to pyrolysis gas. Based on this mechanism, we developed a new 3D LATS/PEEK with a structure that can actively release pyrolysis gas, and we conducted a heating test using an arc-heating wind tunnel. As a result, it was found that 3D LATS/PEEK had less expansion and deformation during the heating test than CF/PEEK manufactured using a 3D printer.",
+      "tldr": "",
+      "citation_count": 0,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.3390/aerospace12040281",
+      "retrieved_at": "2025-11-27T22:22:04.699239"
+    },
+    "41a66997ce0a366bba3becf7c3f37c9aebb13fbd": {
+      "paper_id": "41a66997ce0a366bba3becf7c3f37c9aebb13fbd",
+      "title": "Scaling Rectified Flow Transformers for High-Resolution Image Synthesis",
+      "url": "https://www.semanticscholar.org/paper/41a66997ce0a366bba3becf7c3f37c9aebb13fbd",
+      "authors": [
+        "Patrick Esser",
+        "Sumith Kulal",
+        "A. Blattmann",
+        "Rahim Entezari",
+        "Jonas Muller",
+        "Harry Saini",
+        "Yam Levi",
+        "Dominik Lorenz",
+        "Axel Sauer",
+        "Frederic Boesel",
+        "Dustin Podell",
+        "Tim Dockhorn",
+        "Zion English",
+        "Kyle Lacey",
+        "Alex Goodwin",
+        "Yannik Marek",
+        "Robin Rombach"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-03-05",
+      "journal": "ArXiv",
+      "doi": "10.48550/arXiv.2403.03206",
+      "arxiv_id": "2403.03206",
+      "keywords": [
+        "Computer Science"
+      ],
+      "abstract": "Diffusion models create data from noise by inverting the forward paths of data towards noise and have emerged as a powerful generative modeling technique for high-dimensional, perceptual data such as images and videos. Rectified flow is a recent generative model formulation that connects data and noise in a straight line. Despite its better theoretical properties and conceptual simplicity, it is not yet decisively established as standard practice. In this work, we improve existing noise sampling techniques for training rectified flow models by biasing them towards perceptually relevant scales. Through a large-scale study, we demonstrate the superior performance of this approach compared to established diffusion formulations for high-resolution text-to-image synthesis. Additionally, we present a novel transformer-based architecture for text-to-image generation that uses separate weights for the two modalities and enables a bidirectional flow of information between image and text tokens, improving text comprehension, typography, and human preference ratings. We demonstrate that this architecture follows predictable scaling trends and correlates lower validation loss to improved text-to-image synthesis as measured by various metrics and human evaluations. Our largest models outperform state-of-the-art models, and we will make our experimental data, code, and model weights publicly available.",
+      "tldr": "This work improves existing noise sampling techniques for training rectified flow models by biasing them towards perceptually relevant scales and presents a novel transformer-based architecture for text-to-image generation that uses separate weights for the two modalities and enables a bidirectional flow of information between image and text tokens.",
+      "citation_count": 2380,
+      "publication_types": [
+        "JournalArticle",
+        "Conference"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2403.03206.pdf",
+      "retrieved_at": "2025-11-27T23:15:55.723571"
+    },
+    "afeeb8f5018eebb1a1d334b94dbbfc48d167efef": {
+      "paper_id": "afeeb8f5018eebb1a1d334b94dbbfc48d167efef",
+      "title": "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting",
+      "url": "https://www.semanticscholar.org/paper/afeeb8f5018eebb1a1d334b94dbbfc48d167efef",
+      "authors": [
+        "Yong Liu",
+        "Tengge Hu",
+        "Haoran Zhang",
+        "Haixu Wu",
+        "Shiyu Wang",
+        "Lintao Ma",
+        "Mingsheng Long"
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-10-10",
+      "journal": "ArXiv",
+      "doi": "10.48550/arXiv.2310.06625",
+      "arxiv_id": "2310.06625",
+      "keywords": [
+        "Computer Science"
+      ],
+      "abstract": "The recent boom of linear forecasting models questions the ongoing passion for architectural modifications of Transformer-based forecasters. These forecasters leverage Transformers to model the global dependencies over temporal tokens of time series, with each token formed by multiple variates of the same timestamp. However, Transformers are challenged in forecasting series with larger lookback windows due to performance degradation and computation explosion. Besides, the embedding for each temporal token fuses multiple variates that represent potential delayed events and distinct physical measurements, which may fail in learning variate-centric representations and result in meaningless attention maps. In this work, we reflect on the competent duties of Transformer components and repurpose the Transformer architecture without any modification to the basic components. We propose iTransformer that simply applies the attention and feed-forward network on the inverted dimensions. Specifically, the time points of individual series are embedded into variate tokens which are utilized by the attention mechanism to capture multivariate correlations; meanwhile, the feed-forward network is applied for each variate token to learn nonlinear representations. The iTransformer model achieves state-of-the-art on challenging real-world datasets, which further empowers the Transformer family with promoted performance, generalization ability across different variates, and better utilization of arbitrary lookback windows, making it a nice alternative as the fundamental backbone of time series forecasting. Code is available at this repository: https://github.com/thuml/iTransformer.",
+      "tldr": "The iTransformer model achieves state-of-the-art on challenging real-world datasets, which further empowers the Transformer family with promoted performance, generalization ability across different variates, and better utilization of arbitrary lookback windows, making it a nice alternative as the fundamental backbone of time series forecasting.",
+      "citation_count": 1012,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2310.06625.pdf",
+      "retrieved_at": "2025-11-27T23:15:55.723591"
+    },
+    "ca9f5b3bf0f54ad97513e6175b30497873670fed": {
+      "paper_id": "ca9f5b3bf0f54ad97513e6175b30497873670fed",
+      "title": "Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality",
+      "url": "https://www.semanticscholar.org/paper/ca9f5b3bf0f54ad97513e6175b30497873670fed",
+      "authors": [
+        "Tri Dao",
+        "Albert Gu"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-05-31",
+      "journal": "ArXiv",
+      "doi": "N/A",
+      "arxiv_id": "2405.21060",
+      "keywords": [
+        "Computer Science"
+      ],
+      "abstract": "While Transformers have been the main architecture behind deep learning's success in language modeling, state-space models (SSMs) such as Mamba have recently been shown to match or outperform Transformers at small to medium scale. We show that these families of models are actually quite closely related, and develop a rich framework of theoretical connections between SSMs and variants of attention, connected through various decompositions of a well-studied class of structured semiseparable matrices. Our state space duality (SSD) framework allows us to design a new architecture (Mamba-2) whose core layer is an a refinement of Mamba's selective SSM that is 2-8X faster, while continuing to be competitive with Transformers on language modeling.",
+      "tldr": "The state space duality (SSD) framework allows us to design a new architecture (Mamba-2) whose core layer is an a refinement of Mamba's selective SSM that is 2-8X faster, while continuing to be competitive with Transformers on language modeling.",
+      "citation_count": 915,
+      "publication_types": [
+        "JournalArticle",
+        "Conference"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2405.21060.pdf",
+      "retrieved_at": "2025-11-27T23:15:55.723597"
+    },
+    "4a111f7a3b56d0468f13104999844885157ef17d": {
+      "paper_id": "4a111f7a3b56d0468f13104999844885157ef17d",
+      "title": "Unified Training of Universal Time Series Forecasting Transformers",
+      "url": "https://www.semanticscholar.org/paper/4a111f7a3b56d0468f13104999844885157ef17d",
+      "authors": [
+        "Gerald Woo",
+        "Chenghao Liu",
+        "Akshat Kumar",
+        "Caiming Xiong",
+        "Silvio Savarese",
+        "Doyen Sahoo"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-02-04",
+      "journal": "ArXiv",
+      "doi": "10.48550/arXiv.2402.02592",
+      "arxiv_id": "2402.02592",
+      "keywords": [
+        "Computer Science"
+      ],
+      "abstract": "Deep learning for time series forecasting has traditionally operated within a one-model-per-dataset framework, limiting its potential to leverage the game-changing impact of large pre-trained models. The concept of universal forecasting, emerging from pre-training on a vast collection of time series datasets, envisions a single Large Time Series Model capable of addressing diverse downstream forecasting tasks. However, constructing such a model poses unique challenges specific to time series data: i) cross-frequency learning, ii) accommodating an arbitrary number of variates for multivariate time series, and iii) addressing the varying distributional properties inherent in large-scale data. To address these challenges, we present novel enhancements to the conventional time series Transformer architecture, resulting in our proposed Masked Encoder-based Universal Time Series Forecasting Transformer (Moirai). Trained on our newly introduced Large-scale Open Time Series Archive (LOTSA) featuring over 27B observations across nine domains, Moirai achieves competitive or superior performance as a zero-shot forecaster when compared to full-shot models. Code, data, and model weights can be found at https://github.com/SalesforceAIResearch/uni2ts.",
+      "tldr": "This work presents novel enhancements to the conventional time series Transformer architecture, resulting in the proposed Masked Encoder-based Universal Time Series Forecasting Transformer (Moirai), which achieves competitive or superior performance when compared to full-shot models.",
+      "citation_count": 361,
+      "publication_types": [
+        "JournalArticle",
+        "Conference"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2402.02592.pdf",
+      "retrieved_at": "2025-11-27T23:15:55.723608"
+    },
+    "f5ac95fa58815a35622a60f42a5729f518e57cdf": {
+      "paper_id": "f5ac95fa58815a35622a60f42a5729f518e57cdf",
+      "title": "Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think",
+      "url": "https://www.semanticscholar.org/paper/f5ac95fa58815a35622a60f42a5729f518e57cdf",
+      "authors": [
+        "Sihyun Yu",
+        "Sangkyung Kwak",
+        "Huiwon Jang",
+        "Jongheon Jeong",
+        "Jonathan Huang",
+        "Jinwoo Shin",
+        "Saining Xie"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-10-09",
+      "journal": "ArXiv",
+      "doi": "10.48550/arXiv.2410.06940",
+      "arxiv_id": "2410.06940",
+      "keywords": [
+        "Computer Science"
+      ],
+      "abstract": "Recent studies have shown that the denoising process in (generative) diffusion models can induce meaningful (discriminative) representations inside the model, though the quality of these representations still lags behind those learned through recent self-supervised learning methods. We argue that one main bottleneck in training large-scale diffusion models for generation lies in effectively learning these representations. Moreover, training can be made easier by incorporating high-quality external visual representations, rather than relying solely on the diffusion models to learn them independently. We study this by introducing a straightforward regularization called REPresentation Alignment (REPA), which aligns the projections of noisy input hidden states in denoising networks with clean image representations obtained from external, pretrained visual encoders. The results are striking: our simple strategy yields significant improvements in both training efficiency and generation quality when applied to popular diffusion and flow-based transformers, such as DiTs and SiTs. For instance, our method can speed up SiT training by over 17.5$\\times$, matching the performance (without classifier-free guidance) of a SiT-XL model trained for 7M steps in less than 400K steps. In terms of final generation quality, our approach achieves state-of-the-art results of FID=1.42 using classifier-free guidance with the guidance interval.",
+      "tldr": "This work argues that one main bottleneck in training large-scale diffusion models for generation lies in effectively learning these representations, and introduces a straightforward regularization called REPresentation Alignment (REPA), which aligns the projections of noisy input hidden states in denoising networks with clean image representations obtained from external, pretrained visual encoders.",
+      "citation_count": 233,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2410.06940.pdf",
+      "retrieved_at": "2025-11-27T23:15:55.723618"
+    },
+    "5a20aa49b81b4e14fdb36814e557b3da60259ce9": {
+      "paper_id": "5a20aa49b81b4e14fdb36814e557b3da60259ce9",
+      "title": "Chain of Thought Empowers Transformers to Solve Inherently Serial Problems",
+      "url": "https://www.semanticscholar.org/paper/5a20aa49b81b4e14fdb36814e557b3da60259ce9",
+      "authors": [
+        "Zhiyuan Li",
+        "Hong Liu",
+        "Denny Zhou",
+        "Tengyu Ma"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-02-20",
+      "journal": "ArXiv",
+      "doi": "10.48550/arXiv.2402.12875",
+      "arxiv_id": "2402.12875",
+      "keywords": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "abstract": "Instructing the model to generate a sequence of intermediate steps, a.k.a., a chain of thought (CoT), is a highly effective method to improve the accuracy of large language models (LLMs) on arithmetics and symbolic reasoning tasks. However, the mechanism behind CoT remains unclear. This work provides a theoretical understanding of the power of CoT for decoder-only transformers through the lens of expressiveness. Conceptually, CoT empowers the model with the ability to perform inherently serial computation, which is otherwise lacking in transformers, especially when depth is low. Given input length $n$, previous works have shown that constant-depth transformers with finite precision $\\mathsf{poly}(n)$ embedding size can only solve problems in $\\mathsf{TC}^0$ without CoT. We first show an even tighter expressiveness upper bound for constant-depth transformers with constant-bit precision, which can only solve problems in $\\mathsf{AC}^0$, a proper subset of $ \\mathsf{TC}^0$. However, with $T$ steps of CoT, constant-depth transformers using constant-bit precision and $O(\\log n)$ embedding size can solve any problem solvable by boolean circuits of size $T$. Empirically, enabling CoT dramatically improves the accuracy for tasks that are hard for parallel computation, including the composition of permutation groups, iterated squaring, and circuit value problems, especially for low-depth transformers.",
+      "tldr": "A theoretical understanding of the power of CoT for decoder-only transformers through the lens of expressiveness is provided and an even tighter expressiveness upper bound for constant-depth transformers with constant-bit precision is shown.",
+      "citation_count": 196,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2402.12875.pdf",
+      "retrieved_at": "2025-11-27T23:15:55.723624"
+    },
+    "c0f9315d8175b76097eadff3a2686ef203e6ee6b": {
+      "paper_id": "c0f9315d8175b76097eadff3a2686ef203e6ee6b",
+      "title": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformers",
+      "url": "https://www.semanticscholar.org/paper/c0f9315d8175b76097eadff3a2686ef203e6ee6b",
+      "authors": [
+        "Enze Xie",
+        "Junsong Chen",
+        "Junyu Chen",
+        "Han Cai",
+        "Haotian Tang",
+        "Yujun Lin",
+        "Zhekai Zhang",
+        "Muyang Li",
+        "Ligeng Zhu",
+        "Yao Lu",
+        "Song Han"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-10-14",
+      "journal": "ArXiv",
+      "doi": "10.48550/arXiv.2410.10629",
+      "arxiv_id": "2410.10629",
+      "keywords": [
+        "Computer Science"
+      ],
+      "abstract": "We introduce Sana, a text-to-image framework that can efficiently generate images up to 4096$\\times$4096 resolution. Sana can synthesize high-resolution, high-quality images with strong text-image alignment at a remarkably fast speed, deployable on laptop GPU. Core designs include: (1) Deep compression autoencoder: unlike traditional AEs, which compress images only 8$\\times$, we trained an AE that can compress images 32$\\times$, effectively reducing the number of latent tokens. (2) Linear DiT: we replace all vanilla attention in DiT with linear attention, which is more efficient at high resolutions without sacrificing quality. (3) Decoder-only text encoder: we replaced T5 with modern decoder-only small LLM as the text encoder and designed complex human instruction with in-context learning to enhance the image-text alignment. (4) Efficient training and sampling: we propose Flow-DPM-Solver to reduce sampling steps, with efficient caption labeling and selection to accelerate convergence. As a result, Sana-0.6B is very competitive with modern giant diffusion model (e.g. Flux-12B), being 20 times smaller and 100+ times faster in measured throughput. Moreover, Sana-0.6B can be deployed on a 16GB laptop GPU, taking less than 1 second to generate a 1024$\\times$1024 resolution image. Sana enables content creation at low cost. Code and model will be publicly released.",
+      "tldr": "Sana is a text-to-image framework that can efficiently generate images up to 4096$\\times$4096 resolution and is very competitive with modern giant diffusion model (e.g. Flux-12B), being 20 times smaller and 100+ times faster in measured throughput.",
+      "citation_count": 170,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2410.10629.pdf",
+      "retrieved_at": "2025-11-27T23:15:55.723632"
+    },
+    "53e9cf17eb4e54c80cfc5c5b20809527fbabd94b": {
+      "paper_id": "53e9cf17eb4e54c80cfc5c5b20809527fbabd94b",
+      "title": "BEVFormer: Learning Bird’s-Eye-View Representation From LiDAR-Camera via Spatiotemporal Transformers",
+      "url": "https://www.semanticscholar.org/paper/53e9cf17eb4e54c80cfc5c5b20809527fbabd94b",
+      "authors": [
+        "Zhiqi Li",
+        "Wenhai Wang",
+        "Hongyang Li",
+        "Enze Xie",
+        "Chonghao Sima",
+        "Tong Lu",
+        "Qiao Yu",
+        "Jifeng Dai"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-12-10",
+      "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "doi": "10.1109/TPAMI.2024.3515454",
+      "arxiv_id": "N/A",
+      "keywords": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "abstract": "Multi-modality fusion strategy is currently the de-facto most competitive solution for 3D perception tasks. In this work, we present a new framework termed BEVFormer, which learns unified BEV representations from multi-modality data with spatiotemporal transformers to support multiple autonomous driving perception tasks. In a nutshell, BEVFormer exploits both spatial and temporal information by interacting with spatial and temporal space through predefined grid-shaped BEV queries. To aggregate spatial information, we design spatial cross-attention that each BEV query extracts the spatial features from both point cloud and camera input, thus completing multi-modality information fusion under BEV space. For temporal information, we propose temporal self-attention to fuse the history BEV information recurrently. By comparing with other fusion paradigms, we demonstrate that the fusion method proposed in this work is both succinct and effective. Our approach achieves the new state-of-the-art 74.1% in terms of NDS metric on the nuScenes test set. In addition, we extend BEVFormer to encompass a wide range of autonomous driving tasks, including object tracking, vectorized mapping, occupancy prediction, and end-to-end autonomous driving, achieving outstanding results across these tasks.",
+      "tldr": "",
+      "citation_count": 167,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.1109/TPAMI.2024.3515454",
+      "retrieved_at": "2025-11-27T23:15:55.723638"
+    },
+    "189fde3f4dfa105bb51472a8945618f395919560": {
+      "paper_id": "189fde3f4dfa105bb51472a8945618f395919560",
+      "title": "Repeat After Me: Transformers are Better than State Space Models at Copying",
+      "url": "https://www.semanticscholar.org/paper/189fde3f4dfa105bb51472a8945618f395919560",
+      "authors": [
+        "Samy Jelassi",
+        "David Brandfonbrener",
+        "S. Kakade",
+        "Eran Malach"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-02-01",
+      "journal": "ArXiv",
+      "doi": "10.48550/arXiv.2402.01032",
+      "arxiv_id": "2402.01032",
+      "keywords": [
+        "Computer Science"
+      ],
+      "abstract": "Transformers are the dominant architecture for sequence modeling, but there is growing interest in models that use a fixed-size latent state that does not depend on the sequence length, which we refer to as\"generalized state space models\"(GSSMs). In this paper we show that while GSSMs are promising in terms of inference-time efficiency, they are limited compared to transformer models on tasks that require copying from the input context. We start with a theoretical analysis of the simple task of string copying and prove that a two layer transformer can copy strings of exponential length while GSSMs are fundamentally limited by their fixed-size latent state. Empirically, we find that transformers outperform GSSMs in terms of efficiency and generalization on synthetic tasks that require copying the context. Finally, we evaluate pretrained large language models and find that transformer models dramatically outperform state space models at copying and retrieving information from context. Taken together, these results suggest a fundamental gap between transformers and GSSMs on tasks of practical interest.",
+      "tldr": "It is proved that a two layer transformer can copy strings of exponential length while GSSMs are fundamentally limited by their fixed-size latent state, and a fundamental gap between transformers and GSSMs on tasks of practical interest is suggested.",
+      "citation_count": 142,
+      "publication_types": [
+        "JournalArticle",
+        "Conference"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2402.01032.pdf",
+      "retrieved_at": "2025-11-27T23:15:55.723644"
+    },
+    "9ffc8d59270b01def8bde81a8ec1d759a2029dbb": {
+      "paper_id": "9ffc8d59270b01def8bde81a8ec1d759a2029dbb",
+      "title": "Convolutions are competitive with transformers for protein sequence pretraining",
+      "url": "https://www.semanticscholar.org/paper/9ffc8d59270b01def8bde81a8ec1d759a2029dbb",
+      "authors": [
+        "Kevin Kaichuang Yang",
+        "Alex X. Lu",
+        "Nicoló Fusi"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-02-01",
+      "journal": "bioRxiv",
+      "doi": "10.1101/2022.05.19.492714",
+      "arxiv_id": "N/A",
+      "keywords": [
+        "Biology",
+        "Medicine"
+      ],
+      "abstract": "Pretrained protein sequence language models have been shown to improve the performance of many prediction tasks, and are now routinely integrated into bioinformatics tools. However, these models largely rely on the Transformer architecture, which scales quadratically with sequence length in both run-time and memory. Therefore, state-of-the-art models have limitations on sequence length. To address this limitation, we investigated if convolutional neural network (CNN) architectures, which scale linearly with sequence length, could be as effective as transformers in protein language models. With masked language model pretraining, CNNs are competitive to and occasionally superior to Transformers across downstream applications while maintaining strong performance on sequences longer than those allowed in the current state-of-the-art Transformer models. Our work suggests that computational efficiency can be improved without sacrificing performance simply by using a CNN architecture instead of a Transformer, and emphasizes the importance of disentangling pretraining task and model architecture.",
+      "tldr": "This work suggests that computational efficiency can be improved without sacrificing performance simply by using a CNN architecture instead of a Transformer, and emphasizes the importance of disentangling pretraining task and model architecture.",
+      "citation_count": 134,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.1101/2022.05.19.492714",
+      "retrieved_at": "2025-11-27T23:15:55.723649"
+    },
+    "9ed73069cb53ab2f87fd5bbdfb1b4865ea1a2d2c": {
+      "paper_id": "9ed73069cb53ab2f87fd5bbdfb1b4865ea1a2d2c",
+      "title": "Into the red: An M-band study of the chemistry and rotation of β Pictoris b at high spectral resolution",
+      "url": "https://www.semanticscholar.org/paper/9ed73069cb53ab2f87fd5bbdfb1b4865ea1a2d2c",
+      "authors": [
+        "Luke T Parker",
+        "J. Birkby",
+        "Rico Landman",
+        "J. Wardenier",
+        "M. E. Young",
+        "Sophia R Vaughan",
+        "Lennart van Sluijs",
+        "Matteo Brogi",
+        "V. Parmentier",
+        "M. Line"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-05-14",
+      "journal": "Monthly Notices of the Royal Astronomical Society",
+      "doi": "10.1093/mnras/stae1277",
+      "arxiv_id": "2405.08867",
+      "keywords": [
+        "Physics"
+      ],
+      "abstract": "\n High-resolution cross-correlation spectroscopy (HRCCS) combined with adaptive optics has been enormously successful in advancing our knowledge of exoplanet atmospheres, from chemistry to rotation and atmospheric dynamics. This powerful technique now drives major science cases for ELT instrumentation including METIS/ELT, GMTNIRS/GMT and MICHI/TMT, targeting biosignatures on rocky planets at 3–5 μm, but remains untested beyond 3.5 μm where the sky thermal background begins to provide the dominant contribution to the noise. We present 3.51–5.21 μm M-band CRIRES+/VLT observations of the archetypal young directly imaged gas giant β Pictoris b, detecting CO absorption at S/N = 6.6 at 4.73 μm and H2O at S/N = 5.7, and thus extending the use of HRCCS into the thermal background noise dominated infrared. Using this novel spectral range to search for more diverse chemistry we report marginal evidence of SiO at S/N = 4.3, potentially indicative that previously proposed magnesium-silicate clouds in the atmosphere are either patchy, transparent at M-band wavelengths, or possibly absent on the planetary hemisphere observed. The molecular detections are rotationally broadened by the spin of β Pic b, and we infer a planetary rotation velocity of vsin(i) = 22 ± 2 km s−1 from the cross-correlation with the H2O model template, consistent with previous K-band studies. We discuss the observational challenges posed by the thermal background and telluric contamination in the M-band, the custom analysis procedures required to mitigate these issues, and the opportunities to exploit this new infrared window for HRCCS using existing and next-generation instrumentation.",
+      "tldr": "",
+      "citation_count": 7,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2405.08867.pdf",
+      "retrieved_at": "2025-11-28T16:04:06.130799"
+    },
+    "29069f50e5a41cf21ebf59c5111e82ed0c05a53f": {
+      "paper_id": "29069f50e5a41cf21ebf59c5111e82ed0c05a53f",
+      "title": "Chaos over Order: Mapping 3D Rotation of Triaxial Asteroids and Minor Planets",
+      "url": "https://www.semanticscholar.org/paper/29069f50e5a41cf21ebf59c5111e82ed0c05a53f",
+      "authors": [
+        "V. Makarov",
+        "A. Goldin",
+        "A. Tkachenko",
+        "D. Veras",
+        "B. Noyelles"
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-04-04",
+      "journal": "N/A",
+      "doi": "10.1093/mnras/stac962",
+      "arxiv_id": "2204.01854",
+      "keywords": [
+        "Physics"
+      ],
+      "abstract": "Celestial bodies approximated with rigid triaxial ellipsoids in a two-body system can rotate chaotically due to the time-varying gravitational torque from the central mass. At small orbital eccentricity values, rotation is short-term orderly and predictable within the commensurate spin-orbit resonances, while at eccentricity approaching unity, chaos completely takes over. Here, we present the full 3D rotational equations of motion around all three principle axes for triaxial minor planets and two independent methods of numerical solution based on Euler rotations and quaternion algebra. The domains of chaotic rotation are numerically investigated over the entire range of eccentricity with a combination of trial integrations of Euler’s equations of motion and the GALI( k ) method. We quantify the dependence of the order–chaos boundaries on shape by changing a prolateness parameter, and ﬁnd that the main 1:1 spin-orbit resonance disappears for speciﬁc moderately prolate shapes already at eccentricities as low as 0.3. The island of short-term stability around the main 1:1 resonance shrinks with increasing eccentricity at a ﬁxed low degree of prolateness and completely vanishes at approximately 0.8. This island is also encroached by chaos on longer time scales indicating longer Lyapunov exponents. Trajectories in the close vicinity of the 3:2 spin-orbit resonance become chaotic at smaller eccentricities, but separated enclaves of orderly rotation emerge at eccentricities as high as 0.8. Initial perturbations of rotational velocity in latitude away from the exact equilibrium result in a spectrum of free libration, nutation, and polar wander, which is not well matched by the linearized analysis omitting the inertial terms.",
+      "tldr": "",
+      "citation_count": 2,
+      "publication_types": null,
+      "pdf_url": "https://arxiv.org/pdf/2204.01854.pdf",
+      "retrieved_at": "2025-11-28T16:04:06.130832"
+    },
+    "42d4b1b67f026f1d55d41a182fe1408832a8f71e": {
+      "paper_id": "42d4b1b67f026f1d55d41a182fe1408832a8f71e",
+      "title": "The traditional approximation of rotation for rapidly rotating stars and planets",
+      "url": "https://www.semanticscholar.org/paper/42d4b1b67f026f1d55d41a182fe1408832a8f71e",
+      "authors": [
+        "H. Dhouib",
+        "V. Prat",
+        "T. Van Reeth",
+        "S. Mathis"
+      ],
+      "publication_year": 2021,
+      "publication_date": "2021-04-19",
+      "journal": "Astronomy & Astrophysics",
+      "doi": "10.1051/0004-6361/202141152",
+      "arxiv_id": "2104.09302",
+      "keywords": [
+        "Physics"
+      ],
+      "abstract": "Context. The traditional approximation of rotation (TAR) is a treatment of the hydrodynamic equations of rotating and stably stratified fluids in which the action of the Coriolis acceleration along the direction of the entropy and chemical stratifications is neglected because it is weak in comparison with the buoyancy Archimedean force. This leads to the neglect of the horizontal projection of the rotation vector in the equations for the dynamics of gravito-inertial waves (GIWs). The dependent variables in those equations then become separable into radial and horizontal parts as in the non-rotating case. The TAR is built on the assumptions that the star is spherical (i.e., its centrifugal deformation is neglected) and uniformly rotating. However, it has recently been generalised to include the effects of a moderate centrifugal deformation using a perturbative approach.\nAims. We study the feasibility of carrying out a new generalisation to account for the centrifugal acceleration in the case of strongly deformed uniformly and rapidly rotating stars (and planets), and to identify the validity domain of this approximation.\nMethods. We built a complete formalism analytically that allows the study of the dynamics of GIWs in spheroidal coordinates which take the flattening of uniformly and rapidly rotating stars into account by assuming the hierarchies of frequencies adopted within the TAR in the spherical case.\nResults. Using 2D stellar models, we determine the validity domain of the generalised TAR as a function of the rotation rate of the star normalised by its critical angular velocity and its pseudo-radius. Assuming the anelastic and the two-dimensional Jeffreys-Wentzel-Kramers-Brillouin approximations, we derive a generalised Laplace tidal equation for the horizontal eigenfunctions of the GIWs and their asymptotic wave periods, which can be used to probe the structure and dynamics of rotating deformed stars with asteroseismology. The generalised TAR where the centrifugal deformation of a star (or planet) is taken into account non-perturbatively allows us to identify, within the framework of 2D Evolution STEllaire en Rotation models, the validity domain of this approximation which is reduced by increasing the rate of rotation. We can affirm with a level of confidence of 90% that the TAR remains applicable in all the space domain of deformed stars rotating at a rotation rate lower than 20% of the critical rotation rate.\nConclusions. A new generalisation of the TAR, which takes the centrifugal acceleration into account in a non-perturbative way, is derived. This generalisation allows us to study the detectability and the signature of the centrifugal effects on GIWs in rapidly rotating deformed stars (and planets). We found that the effects of the centrifugal acceleration in rapidly rotating early-type stars on GIWs are theoretically detectable in modern space photometry using observations from Kepler. We found also, by comparing the period spacing pattern computed with the standard and the generalised TAR, that the centrifugal acceleration affects the period spacing by increasing its values for low radial orders and by decreasing them slightly for high radial orders.",
+      "tldr": "",
+      "citation_count": 2,
+      "publication_types": null,
+      "pdf_url": "https://arxiv.org/pdf/2104.09302.pdf",
+      "retrieved_at": "2025-11-28T16:04:06.130846"
+    },
+    "e265739d0626a8f827f6d8de0c37e39e0d761990": {
+      "paper_id": "e265739d0626a8f827f6d8de0c37e39e0d761990",
+      "title": "Dental Patents in India: A Decade Long Review",
+      "url": "https://www.semanticscholar.org/paper/e265739d0626a8f827f6d8de0c37e39e0d761990",
+      "authors": [
+        "S. Samuel",
+        "J. Cherian",
+        "Abi M Thomas",
+        "Rajesh Kumar"
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-10-01",
+      "journal": "Contemporary Clinical Dentistry",
+      "doi": "10.4103/ccd.ccd_180_21",
+      "arxiv_id": "N/A",
+      "keywords": [
+        "Medicine"
+      ],
+      "abstract": "Background: The advent of technology in dentistry compels the safeguard of intellectual property to guarantee a steady flow of ideas. A guarantee preserves the idea/invention which is conductive to the subsequent financial gain or marketing of the said product for the patentee. The main objective of the present study was to illuminate the trends in the dental patents filed in India over the past decade and to analyze these in context with the recent developments in dental markets. Methodology: A total of 641 dental patent applications retrieved from the Indian Government Official Website between 2010 and 2020 were scanned for field of invention, type or status of application along with details regarding date of publication or filing of application, etc., The dataset was collaboratively analyzed using Panda's Library in Python software as analysis tool for data preparation and frequency analysis. The estimates were presented as mean differences and 95% confidence intervals. Results: The results showed that Indian Patent Office (IPO) has granted 54 dental patents in the last decade. The maximum applications of the IPO processes are the patent co-operation treaty National Phase applications (53.3%), mostly in the bio-engineering field (36.8%). Chiefly, patents were filed by individuals and companies (n = 180) and average time for grant was 4.90 years and 5.34 years, respectively. Conclusion: The process of patent application in India although has become digitalized needs to be more comprehensible and time bound, with more awareness disseminated to entrepreneurs and dental students alike.",
+      "tldr": "The process of patent application in India although has become digitalized needs to be more comprehensible and time bound, with more awareness disseminated to entrepreneurs and dental students alike.",
+      "citation_count": 2,
+      "publication_types": [
+        "JournalArticle",
+        "Review"
+      ],
+      "pdf_url": "https://doi.org/10.4103/ccd.ccd_180_21",
+      "retrieved_at": "2025-11-28T17:05:15.031333"
+    },
+    "573b186495818e6017e990d5be596099ac661618": {
+      "paper_id": "573b186495818e6017e990d5be596099ac661618",
+      "title": "Leveraging Deep Learning and Blockchain for Enhanced Transparency and Traceability in the Indian Herbal Product Supply Chain",
+      "url": "https://www.semanticscholar.org/paper/573b186495818e6017e990d5be596099ac661618",
+      "authors": [
+        "Prateek Uniyal",
+        "Charanjeet Singh",
+        "G. Dinesh"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-05-03",
+      "journal": "2024 International Conference on Intelligent Systems for Cybersecurity (ISCS)",
+      "doi": "10.1109/ISCS61804.2024.10581263",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "Medicinal plants have been a cornerstone of healthcare practices globally, serving a significant population in developing countries who rely on affordable herbal remedies. However, the current marketing system through Mandis and wholesale markets suffers from opacity. Numerous intermediaries create an information gap for farmers regarding fair pricing and market trends. Additionally, concerns exist about misidentification and adulteration of medicinal plants due to limited knowledge among collectors and traders. The National Medicinal Plants Board (NMPB) recognizes the need for a robust supply chain. This paper proposes a blockchain-based platform ‘Indian Herbal Blockchain Network (IHBN)’ integrated with Deep Learning for image processing. The deep learning model has achieved a decent accuracy of 90.24% which decreases the chance of misidentification. The platform ensures transparent traceability of medicinal plants from source to consumer, along with accurate identification using image analysis. This system promotes transparency within the medicinal plant supply chain, reducing the risk of adulteration and improving overall trust.",
+      "tldr": "",
+      "citation_count": 1,
+      "publication_types": [
+        "Conference"
+      ],
+      "pdf_url": "https://doi.org/10.1109/ISCS61804.2024.10581263",
+      "retrieved_at": "2025-11-28T17:05:15.031349"
+    },
+    "c798b0303f329dccf46ace19cff1a9e2fe0f69ae": {
+      "paper_id": "c798b0303f329dccf46ace19cff1a9e2fe0f69ae",
+      "title": "The Impact of Digital Marketing on Rural Indian Markets: A Study on Consumer Behavior and Market Reach",
+      "url": "https://www.semanticscholar.org/paper/c798b0303f329dccf46ace19cff1a9e2fe0f69ae",
+      "authors": [
+        "Neeraj Yadav"
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-06-13",
+      "journal": "INTERNATIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT",
+      "doi": "10.55041/ijsrem50406",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "Abstract- The study looks into the role of digital marketing in Indian rural areas by analyzing consumers and the limits of market access. Surveys, interviews, and case studies were used by adopting a mixed-methods methodology. According to the findings, rural consumers use smartphones regularly (72%), and this group also uses social media each day (68%). On top of that, WhatsApp and YouTube appear to be the key platforms among them. Evidence from regression analysis proves that urban exposure to digital ads positively affects people’s purchase habits. While the industry has become bigger, society still deals with challenges such as those involving information technology and trust. The research suggests that having content in different languages and making targeted strategies on key platforms will help engage more people living in rural areas. This research reveals how digital marketing strategies can open up many opportunities for rural India, making it useful for businesses that want to pursue growth in the area.\n\nKeywords- Digital Marketing, Rural India, Consumer Behavior, Market Reach, Social Media, Smartphone Penetration, Digital Advertising.",
+      "tldr": "",
+      "citation_count": 0,
+      "publication_types": [
+        "JournalArticle",
+        "Review"
+      ],
+      "pdf_url": "https://doi.org/10.55041/ijsrem50406",
+      "retrieved_at": "2025-11-28T17:05:15.031354"
+    },
+    "98bd416c46f7a662a40ed7f7a29dffb88aa7b3bb": {
+      "paper_id": "98bd416c46f7a662a40ed7f7a29dffb88aa7b3bb",
+      "title": "Exploring market expansion dilemmas: the case of Aquawhite",
+      "url": "https://www.semanticscholar.org/paper/98bd416c46f7a662a40ed7f7a29dffb88aa7b3bb",
+      "authors": [
+        "Ridhima Bhanot Sharma",
+        "Sumanjit Dass"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-08-15",
+      "journal": "Emerald Emerging Markets Case Studies",
+      "doi": "10.1108/eemcs-10-2023-0404",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "Learning outcomes\nAfter completion of the case study, the students will be able to understand the complexity of diversification and market expansion strategies in a growing consumer-driven market context, apply strategic frameworks to analyze the Indian oral care market, analyze brand positioning principles to develop a marketing strategy for Aquawhite and evaluate and identify the pros and cons of the various decisions taken during market diversification.\n\nCase overview/synopsis\nThis case study seeks to examine the market expansion dilemmas faced by Aquawhite, a brand in the oral health-care sector, and the role of key decision-makers in addressing these challenges. This case study aims to provide insights into the complexities of brand extension and market expansion strategies in the context of a developing consumer-driven market. This case study is structured as a qualitative analysis based on publicly available information, including Aquawhite’s historical data, market trends and industry reports. Additionally, insights from relevant interviews with key stakeholders within the company have been considered to present a comprehensive view. This case study highlights the dilemmas faced by Aquawhite as it navigates market expansion. It reveals the critical role of Nikhil Nanda, the managing director in addressing these dilemmas and shaping the brand’s future. This case study emphasizes the need for a strategic approach that balances market dynamics with brand identity.\n\nComplexity academic level\nThis case study is suitable for use in undergraduate and postgraduate-level courses on marketing management and strategic management. This case study provides insights into brand development, market entry and expansion strategies. It can be used to discuss the marketing mix, segmentation and targeting, as well as competitive analysis.\n\nSupplementary materials\nTeaching notes are available for educators only.\n\nSubject code\nCSS 8: Marketing.\n",
+      "tldr": "This case study highlights the dilemmas faced by Aquawhite as it navigates market expansion and reveals the critical role of Nikhil Nanda, the managing director in addressing these dilemmas and shaping the brand’s future.",
+      "citation_count": 0,
+      "publication_types": [
+        "JournalArticle",
+        "Review"
+      ],
+      "pdf_url": "https://doi.org/10.1108/eemcs-10-2023-0404",
+      "retrieved_at": "2025-11-28T17:05:15.031358"
+    },
+    "0457e7fd7b7b10e735158b38ef389985b9811f19": {
+      "paper_id": "0457e7fd7b7b10e735158b38ef389985b9811f19",
+      "title": "Financial Risk Quantification of Indian Agro-Commodities using Value At Risk",
+      "url": "https://www.semanticscholar.org/paper/0457e7fd7b7b10e735158b38ef389985b9811f19",
+      "authors": [
+        "D. S. Jyothi",
+        "D. Rao"
+      ],
+      "publication_year": 2019,
+      "publication_date": "2019-08-30",
+      "journal": "International Journal of Engineering and Advanced Technology",
+      "doi": "10.35940/ijeat.f9568.088619",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "Indian commodity traders are exposed to various risks like price risk, market risk, financial risk, credit risk, etc. To understand the risk resulting in the financial impact, this paper attempts to assess the historical trends of commodity prices and probability of loss occurrence in the commodity invested. The present study analyses five Indian agro commodities namely, Almond, Cardamom, Cotton, Guar Seed and Wheat using the data collected from secondary sources like Multi Commodity Exchange (MCX), Securities Exchange Board of India (SEBI) etc. This paper uses the Historical Simulation method for the calculation of Value at Risk (VaR) by considering spot prices of the commodities on MCX for a five year period (2013-2018). It is established that Value at Risk (VaR) is a relevant measure to arrive at risk which is useful for the commodity traders to estimate the financial risk and thus control the risk exposure",
+      "tldr": "",
+      "citation_count": 2,
+      "publication_types": null,
+      "pdf_url": "https://doi.org/10.35940/ijeat.f9568.088619",
+      "retrieved_at": "2025-11-28T17:22:06.817587"
+    },
+    "a425982103bf5e11d0839b5e66bf3f925043bed7": {
+      "paper_id": "a425982103bf5e11d0839b5e66bf3f925043bed7",
+      "title": "The dynamic nexus between futures basis in Indian and global agricultural markets",
+      "url": "https://www.semanticscholar.org/paper/a425982103bf5e11d0839b5e66bf3f925043bed7",
+      "authors": [
+        "Manogna R.L.",
+        "Pratik Lahiri"
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-03-26",
+      "journal": "Journal of Modelling in Management",
+      "doi": "10.1108/jm2-06-2024-0198",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "Purpose\nThis study aims to explore the nuances of basis trading, a cornerstone strategy in global agricultural markets and necessitates thoroughly examining the interplay among futures basis values across diverse markets.\n\nDesign/methodology/approach\nFocusing on cotton and barley, the authors use data from 2014 to 2023 to unravel the intricate connections between Indian and international grains markets. The analysis reveals a robust positive correlation in basis values across global markets, indicating the interdependence of these markets over time. The authors observe significant temporal variations in the structures of this interdependence, highlighting the dynamic nature of grain market relationships.\n\nFindings\nInternational cotton consistently emerges as a critical influencer in these dynamics, underscoring its importance in shaping global grain market trends. Given India’s significant role as a grain exporter, the implications of the study extend to the realm of adept risk management in the face of evolving global grain trading landscapes. This study examines the dynamic correlation between the basis trends of cotton and barley in Indian and international markets using the dynamic conditional correlation generalized autoregressive conditional heteroscedasticity model. Key findings reveal a significant positive correlation between similar grain types across regions, alongside notable volatility and occasional negative correlations across different markets.\n\nResearch limitations/implications\nBy understanding the nuances of basis trading and the interplay among basis values, stakeholders can make informed decisions to navigate the complexities of the global grains market and mitigate risks effectively.\n\nOriginality/value\nThis study is one of its kind in exploring the interrelation of emerging economy trading markets with global markets.\n",
+      "tldr": "",
+      "citation_count": 1,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.1108/jm2-06-2024-0198",
+      "retrieved_at": "2025-11-28T17:22:06.817606"
+    },
+    "19d817c93b020cb9e9e8ecbd0999079cc00b315c": {
+      "paper_id": "19d817c93b020cb9e9e8ecbd0999079cc00b315c",
+      "title": "A Machine Learning Approach to Short-Term Price Forecasting of Agricultural Crops in India",
+      "url": "https://www.semanticscholar.org/paper/19d817c93b020cb9e9e8ecbd0999079cc00b315c",
+      "authors": [
+        "Abu lmran Ahmed"
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-02-21",
+      "journal": "2025 First International Conference on Advances in Computer Science, Electrical, Electronics, and Communication Technologies (CE2CT)",
+      "doi": "10.1109/CE2CT64011.2025.10939904",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "This research presents a comprehensive methodology for short-term price forecasting of orange and cotton crops in the Indian agricultural market, utilizing a robust dataset from the Indian Government. The study employs a series of machine learning algorithms, including Artificial Neural Networks (ANN), Support Vector Regression (SVR), Linear Regression (LR), and Auto-Regressive Integrated Moving Average (ARIMA), which serves as a benchmark for comparative analysis. Data preprocessing, exploratory data analysis (EDA), and feature engineering were conducted to address challenges posed by missing values and to extract significant patterns from the dataset. The results demonstrate the model's effectiveness in accurately predicting crop prices across various geographic and seasonal contexts. The study highlights the implications of identified trends for decision making within the agricultural supply chain, emphasizing the potential for enhanced resilience and sustain ability in India's agricultural sector. Future work will focus on refining the model for broader applications, addressing evolving market dynamics, and integrating additional external factors influencing crop prices.",
+      "tldr": "",
+      "citation_count": 0,
+      "publication_types": [
+        "Conference"
+      ],
+      "pdf_url": "https://doi.org/10.1109/CE2CT64011.2025.10939904",
+      "retrieved_at": "2025-11-28T17:22:06.817611"
+    },
+    "ebda61dc583175c7e44ed9ebdd36408f58109e99": {
+      "paper_id": "ebda61dc583175c7e44ed9ebdd36408f58109e99",
+      "title": "Modelling Agriculture Productivity and Spotting Diseases using Deep Learning and Image Processing",
+      "url": "https://www.semanticscholar.org/paper/ebda61dc583175c7e44ed9ebdd36408f58109e99",
+      "authors": [
+        "K. Santhi",
+        "M. Lawanya Shri",
+        "Smita Rajendra Mahajan",
+        "Amay Mahajan",
+        "Dhinesh Kumar P"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-03-22",
+      "journal": "2024 International Conference on Trends in Quantum Computing and Emerging Business Technologies",
+      "doi": "10.1109/TQCEBT59414.2024.10545028",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "Agriculture plays a major role in economy of INDIA. Overall, 75% of population in INDIA are depended on agriculture. Agriculture in INDIA is comprised of different types of crops like rice, wheat, oilseeds. which are very important in our day-to-day lives. Not only for consuming some crops like cotton, jute is used for commercial purposes which are very important for the growth factor of the Indian economy. Now-a- days the productivity of crops is been reducing which shows a major impact on our country growth factor. The major reasons for this rise of population bywhich most of the agricultural productivity per hector is been decreasing. Natural resources are being heavily utilized, excessive use of automobiles and increase of factories, industries lead to massive pollution. As farming is the vital occupation of every country, the GDP of the country depends mostly on the agriculture sector. The agriculture products are totally relied on the final market price. We can produce healthy and good crop by taking good care of them. In order to supervise the crops, there are many techniques such as AI (Artificial intelligence). We have gone through some of the techniques of AI such as deep learning and Optimized ANN (Artificial neural networks) and knowledge on how we can enhance the crop production using AI. The Whale Optimization Algorithm (WOA) is used to choose the essential characteristics once the data has been merged for preprocessing and pertinent features have been extracted. he models currently in use for plant disease identification. The proposed model demonstrated a notable improvement in F1-measure, Precision, Recall, and Accuracy performance. So, to prevent all these consequences we are going to develop a system where a farmer can easily model the productivity and can identify the diseases for with which crops are affected",
+      "tldr": "",
+      "citation_count": 0,
+      "publication_types": [
+        "Conference"
+      ],
+      "pdf_url": "https://doi.org/10.1109/TQCEBT59414.2024.10545028",
+      "retrieved_at": "2025-11-28T17:22:06.817616"
+    },
+    "6a85d650d7715b4c7a94d793aeb8cfb100c92c68": {
+      "paper_id": "6a85d650d7715b4c7a94d793aeb8cfb100c92c68",
+      "title": "Time Series Analysis of Spot and Future Commodity Market in India During Covid – 19",
+      "url": "https://www.semanticscholar.org/paper/6a85d650d7715b4c7a94d793aeb8cfb100c92c68",
+      "authors": [
+        "D. Kalaiarasi",
+        "A. Rohini",
+        "N. Palanichamy",
+        "K. Shivakumar",
+        "R. Selvi",
+        "K. C. Sekhar"
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-08-22",
+      "journal": "Asian Journal of Agricultural Extension, Economics &amp; Sociology",
+      "doi": "10.9734/ajaees/2023/v41i92132",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "Derivatives are innovative financial instruments in the 21st century to help the market participants in mitigating the risk. Commodity derivatives are not new to the world, but reentered with new face into the fray. In India, derivatives are introduced at first on index and followed by securities and commodities phase wise for the betterment of the markets and the price discovery. The present study explores the association and trend between the Spot and Futures Commodity Derivatives Market in India before and during the Covid – 19 pandemic. The study uses descriptive, trend analysis and correlation analysis. The analysis done by using the MCX four major agriculture and non-agriculture commodities such as Cotton, Mentha oil, Crude oil and Natural gas spot as well as future price. Indian commodity futures market can be used as hedging tool with financial instruments for diversifying the risk during crisis period.",
+      "tldr": "",
+      "citation_count": 0,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.9734/ajaees/2023/v41i92132",
+      "retrieved_at": "2025-11-28T17:22:06.817620"
+    },
+    "47f41004a3bd341abd6e32be8dafe988a4b2db6e": {
+      "paper_id": "47f41004a3bd341abd6e32be8dafe988a4b2db6e",
+      "title": "Application of Market Information System for Major Agricultural Commodities in Haryana (India)",
+      "url": "https://www.semanticscholar.org/paper/47f41004a3bd341abd6e32be8dafe988a4b2db6e",
+      "authors": [
+        "Veer Sain",
+        "Aarti Bajwan",
+        "Gulab Singh"
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-05-05",
+      "journal": "Asian Journal of Agricultural Extension, Economics &amp; Sociology",
+      "doi": "10.9734/ajaees/2023/v41i61925",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "The study on “Application of Market Information System of Major Agricultural Commodities in Haryana” was carried out in Karnal, Ambala, Mahendergarh, Bhiwani and Sirsa districts of Haryana, selected purposively based on the highest area under the major agricultural commodities. Two blocks from each district i.e., from Karnal (Karnal and Assandh), Ambala (Naraingarh and Sahazadpur), Mahendergarh (Mahendergarh and Kanina), Bhiwani (Siwani and Tosham) and Sirsa (Dabwali and Baragudha) were selected purposively. From each district, four regulated markets were selected based on maximum arrival i.e., Basmati Rice from Karnal (Karnal, Gharaunda, Assandh and Taraori), maize from Ambala (Sahazadpur, Mullana, Naraingarh and Ambala city), mustard from Mahendergarh (Mahendergarh, Ateli, Kanina and Narnaul), gram from Bhiwani (Siwani, Charkhi Dadri, Tosham and Bhiwani) and cotton from Sirsa (Dabwali, Ellenabad, Sirsa and Kalanwali) under the major agricultural commodities. The total sample size consisted of 300 farmers, 200 traders and 20 market committees were surveyed. Out of the expectations of farmers on quality, prices in potential markets, price projections; only arrivals and prices were documented and disseminated with traditional/modern approach. Forecasting of prices showed that the prices of Basmati rice, maize, mustard, gram, and cotton in Karnal, Ambala, Mahendergarh, Bhiwani and Sirsa districts, respectively were moving in same trend as predicted.",
+      "tldr": "",
+      "citation_count": 0,
+      "publication_types": [
+        "JournalArticle",
+        "Review"
+      ],
+      "pdf_url": "https://doi.org/10.9734/ajaees/2023/v41i61925",
+      "retrieved_at": "2025-11-28T17:22:06.817625"
+    },
+    "6e82ac7198d0d3c8d01510f45a2902276a1fa5f4": {
+      "paper_id": "6e82ac7198d0d3c8d01510f45a2902276a1fa5f4",
+      "title": "Deep Learning for Dyslexia Detection: A Comprehensive CNN Approach with Handwriting Analysis and Benchmark Comparisons",
+      "url": "https://www.semanticscholar.org/paper/6e82ac7198d0d3c8d01510f45a2902276a1fa5f4",
+      "authors": [
+        "Ghadah Aldehim",
+        "Mamoon Rashid",
+        "A. Alluhaidan",
+        "S. Sakri",
+        "Shakila Basheer"
+      ],
+      "publication_year": 2024,
+      "publication_date": null,
+      "journal": "Journal of Disability Research",
+      "doi": "10.57197/jdr-2024-0010",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "Dyslexia is a complex learning disorder that affects neurological nerves in the brain and makes reading and writing difficult; therefore, early diagnosis for effective interventions becomes important. This study demonstrates how quickly dyslexia can be identified by introducing an advanced convolutional neural network model developed for detecting dyslexia through image-based handwriting analysis. The need for early identification is informed by the fact that dyslexia may, in certain cases, lead to poor academic performance and emotional imbalance among learners. This method of using deep learning outperforms all other established conventional methods due to inherent sensitivity in classifying handwritings of dyslexics from those of normal individuals. The artificial intelligence (AI)-supported technology has the highest training accuracy of 99.5% proving its ability to capture subtle features related to the presence of dyslexic tendencies. Consequently, it records a testing accuracy of 96.4%, thereby confirming its efficacy under practical circumstances. In addition, the model also shows a good F1-score of 96 which indicates that it can achieve a balanced precision versus recall trade-off unlike other state-of-the-art approaches. The obtained results of the proposed methodology were compared with those of previous state–of-the-art approaches, and it has been observed that the proposed study provides better outcomes. These detailed performance indicators point toward the potential usefulness of AI-based methods in identifying dyslexia thus informing appropriate interventions on time and targeted assistance to the patients suffering from this disease.",
+      "tldr": "How quickly dyslexia can be identified by introducing an advanced convolutional neural network model developed for detecting dyslexia through image-based handwriting analysis is demonstrated by introducing an advanced convolutional neural network model developed for detecting dyslexia through image-based handwriting analysis.",
+      "citation_count": 11,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.57197/jdr-2024-0010",
+      "retrieved_at": "2025-11-28T22:29:17.083832"
+    },
+    "779c2109a9dcb41804f7127cf9433ba5c1985dbd": {
+      "paper_id": "779c2109a9dcb41804f7127cf9433ba5c1985dbd",
+      "title": "Early detection of dyslexia based on EEG with novel predictor extraction and selection",
+      "url": "https://www.semanticscholar.org/paper/779c2109a9dcb41804f7127cf9433ba5c1985dbd",
+      "authors": [
+        "Shankar K. Parmar",
+        "C. Paunwala"
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-10-19",
+      "journal": "Discover Artificial Intelligence",
+      "doi": "10.1007/s44163-023-00082-4",
+      "arxiv_id": "N/A",
+      "keywords": [
+        "Computer Science"
+      ],
+      "abstract": "Dyslexia is a learning disorder caused by difficulties in the brain’s processing of letters and words. This study used EEG recordings to detect dyslexia at a young age. EEG recordings of 53 individuals, including 29 dyslexic and 24 normal individuals, were collected while they were engaged in two distinct mental activities known as the N-Back task and the Oddball task. Predictors were extracted using several methods and reduced using Principal Component Analysis (PCA). A relief-based strategy was applied to select predictors, and Support Vector Machine (SVM) classifier was used to achieve an average accuracy of 79.3% for dyslexia detection, which is better than the performance of its predecessors. The results indicate that EEG recordings and machine learning methods could be useful for identifying dyslexia in children.",
+      "tldr": null,
+      "citation_count": 10,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.1007/s44163-023-00082-4",
+      "retrieved_at": "2025-11-28T22:29:17.083832"
+    },
+    "d9d91ad316cd865fae52c9ed18f178763ff9b17d": {
+      "paper_id": "d9d91ad316cd865fae52c9ed18f178763ff9b17d",
+      "title": "Detection of Dyslexia Through Images of Handwriting using Hybrid AI Approach",
+      "url": "https://www.semanticscholar.org/paper/d9d91ad316cd865fae52c9ed18f178763ff9b17d",
+      "authors": [
+        "Norah Dhafer Alqahtani",
+        "Bander Alzahrani",
+        "M. Ramzan"
+      ],
+      "publication_year": 2023,
+      "publication_date": null,
+      "journal": "International Journal of Advanced Computer Science and Applications",
+      "doi": "10.14569/ijacsa.2023.0141099",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "—Dyslexia is a neurodevelopmental disorder characterized by difficulties with acquiring reading skills, despite the presence of appropriate learning opportunities, sufficient education, and a suitable sociocultural context. Dyslexia negatively affects children’s educational development and their acquisition of language, as well as their writing. Therefore, early detection of dyslexia is of great importance. The prediction of dyslexia through handwriting is an active research field of almost five years’ standing. In this paper, we propose hybrid models (CNN-SVM) and (CNN-RF) to reveal dyslexia through images of handwriting. The paper aimed to develop a CNN model to extract features from images of handwriting where CNN is highly reliable in extracting features from images, and to use SVM as a classifier due to its generalization abilities as well as using random forest (RF) as a classifier in (CNN-RF). The study aimed to combine a deep learning (DL) model and a machine learning (ML) model to improve model performance. Data sets that consisted of 176,673 images of handwriting were used in this study. The hyperparameter of the model was adjusted and examined in order to classify the three categories of handwriting. The CNN model that was built demonstrated an outstanding accuracy rate of 98.71% in effectively categorizing three distinct types of handwriting—99.33% with SVM, and 98.44% in the CNN-RF model. The aim of recognizing dyslexic handwriting through CNN-SVM was successfully attained, and our model outperformed all previous models.",
+      "tldr": "The aim of recognizing dyslexic handwriting through CNN-SVM was successfully attained, and the model outperformed all previous models.",
+      "citation_count": 8,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.14569/ijacsa.2023.0141099",
+      "retrieved_at": "2025-11-28T22:29:17.083832"
+    },
+    "8edd96aa43b6125c1b0215bb7f347c94e0130fa9": {
+      "paper_id": "8edd96aa43b6125c1b0215bb7f347c94e0130fa9",
+      "title": "Deep learning-driven dyslexia detection model using multi-modality data",
+      "url": "https://www.semanticscholar.org/paper/8edd96aa43b6125c1b0215bb7f347c94e0130fa9",
+      "authors": [
+        "Yazeed Alkhurayyif",
+        "Abdul Rahaman Wahab Sait"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-06-14",
+      "journal": "PeerJ Computer Science",
+      "doi": "10.7717/peerj-cs.2077",
+      "arxiv_id": "N/A",
+      "keywords": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "abstract": "Background Dyslexia is a neurological disorder that affects an individual’s language processing abilities. Early care and intervention can help dyslexic individuals succeed academically and socially. Recent developments in deep learning (DL) approaches motivate researchers to build dyslexia detection models (DDMs). DL approaches facilitate the integration of multi-modality data. However, there are few multi-modality-based DDMs. Methods In this study, the authors built a DL-based DDM using multi-modality data. A squeeze and excitation (SE) integrated MobileNet V3 model, self-attention mechanisms (SA) based EfficientNet B7 model, and early stopping and SA-based Bi-directional long short-term memory (Bi-LSTM) models were developed to extract features from magnetic resonance imaging (MRI), functional MRI, and electroencephalography (EEG) data. In addition, the authors fine-tuned the LightGBM model using the Hyperband optimization technique to detect dyslexia using the extracted features. Three datasets containing FMRI, MRI, and EEG data were used to evaluate the performance of the proposed DDM. Results The findings supported the significance of the proposed DDM in detecting dyslexia with limited computational resources. The proposed model outperformed the existing DDMs by producing an optimal accuracy of 98.9%, 98.6%, and 98.8% for the FMRI, MRI, and EEG datasets, respectively. Healthcare centers and educational institutions can benefit from the proposed model to identify dyslexia in the initial stages. The interpretability of the proposed model can be improved by integrating vision transformers-based feature extraction.",
+      "tldr": "The findings supported the significance of the proposed DDM in detecting dyslexia with limited computational resources and the interpretability of the proposed model can be improved by integrating vision transformers-based feature extraction.",
+      "citation_count": 6,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.7717/peerj-cs.2077",
+      "retrieved_at": "2025-11-28T22:29:17.083832"
+    },
+    "dfdb316cf788e99fdc69498192a4b66b132e24a7": {
+      "paper_id": "dfdb316cf788e99fdc69498192a4b66b132e24a7",
+      "title": "Diagnosing Dyslexia in Early School-Aged Children Using the LSTM Network and Eye Tracking Technology",
+      "url": "https://www.semanticscholar.org/paper/dfdb316cf788e99fdc69498192a4b66b132e24a7",
+      "authors": [
+        "Z. Gomolka",
+        "Ewa Żesławska",
+        "Barbara Czuba",
+        "Yuriy Kondratenko"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-09-07",
+      "journal": "Applied Sciences",
+      "doi": "10.3390/app14178004",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "Dyslexia, often referred to as a specific reading disability, affects many students around the world. It is a neurological disorder that affects the ability to recognise words, and it causes difficulties in writing and reading comprehension. Previous computer-based methods for the automatic detection of dyslexia in children have had low efficiency due to the complexity of the test administration process and the low measurement reliability of the attention measures used. This paper proposes the use of a student’s mobile device to record the spatio-temporal trajectory of attention, which is then analysed by deep neural network long short-term memory (LSTM). The study involved 145 participants (66 girls and 79 boys), all of whom were children aged 9 years. The input signal for the neural network consisted of recorded observation sessions, which were packets containing the child’s spatio-temporal attention trajectories generated during task performance. The training set was developed using stimuli from Benton tests and an expert opinion from a specialist in early childhood psychology. The coefficients of determination of R2∼0.992 were obtained for the proposed model, giving an accuracy of 97.7% for the test set. The ease of implementation of this approach in school settings and its non-stressful nature make it suitable for use with children of different ages and developmental stages, including those who have not yet learned to read. This enables early intervention, which is essential for effective educational and emotional support for children with dyslexia.",
+      "tldr": "The use of a student’s mobile device to record the spatio-temporal trajectory of attention, which is then analysed by deep neural network long short-term memory (LSTM) makes this approach suitable for use with children of different ages and developmental stages, including those who have not yet learned to read.",
+      "citation_count": 5,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.3390/app14178004",
+      "retrieved_at": "2025-11-28T22:29:17.083832"
+    },
+    "2a801cf4af87701ee571248887ceb45b0b6d07da": {
+      "paper_id": "2a801cf4af87701ee571248887ceb45b0b6d07da",
+      "title": "Eye-tracking based Detection of Developmental Dyslexia in Children Using Convolutional-Transformer Network",
+      "url": "https://www.semanticscholar.org/paper/2a801cf4af87701ee571248887ceb45b0b6d07da",
+      "authors": [
+        "Xin Li",
+        "Zhongjie Li",
+        "Feiyang Xu"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-05-08",
+      "journal": "2024 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD)",
+      "doi": "10.1109/CSCWD61410.2024.10580657",
+      "arxiv_id": "N/A",
+      "keywords": [
+        "Computer Science"
+      ],
+      "abstract": "Objective. Developmental Dyslexia (DD) is a special learning disability (SLD), in which it is difficult for children to read, spell and write fluently, seriously affecting children’s related reading skills. Therefore, it is significant for early intervention to quickly and accurately detect children with DD in a no-feeling method. However, most existing detection methods include oral and written assessments, analysis based on brain image (e.g. MRI, fMRI, EEG, etc.), which either require the involvement of domain experts or have low accuracy and are not conducive to large-scale applications. Approach. In this study, inspired by computer vision, we present a novel convolutional-transformer network architecture based on Eye-tracking to improve the diagnosis accuracy of developmental dyslexia in children, which is evaluated on 187 subjects by tracking their eye movements while reading. Main results. To our knowledge, the proposed model achieved a state-of-the-art (SOTA) classification accuracy of 98.21% on the cross-subject dyslexia detection task for the public dataset SDUETDR. Significance. The proposed model can be used in schools as a diagnostic and screening tool for children with developmental dyslexia.",
+      "tldr": "",
+      "citation_count": 2,
+      "publication_types": [
+        "JournalArticle",
+        "Conference"
+      ],
+      "pdf_url": "https://doi.org/10.1109/CSCWD61410.2024.10580657",
+      "retrieved_at": "2025-11-28T22:29:17.083832"
+    },
+    "a86af4ee706bd5d5c0d5f1d7f108fe5b3fb05d10": {
+      "paper_id": "a86af4ee706bd5d5c0d5f1d7f108fe5b3fb05d10",
+      "title": "Framework of Dyslexia Detection Using Machine Learning Algorithms",
+      "url": "https://www.semanticscholar.org/paper/a86af4ee706bd5d5c0d5f1d7f108fe5b3fb05d10",
+      "authors": [
+        "st K.Purnachand",
+        "K.Manvitha",
+        "Sai Anurag",
+        "Ayyalasomayajula",
+        "G.Meghana"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-04-12",
+      "journal": "2024 10th International Conference on Communication and Signal Processing (ICCSP)",
+      "doi": "10.1109/ICCSP60870.2024.10544038",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "A neurologically based learning disability, dyslexia affects 12% of the global population, particularly young children (7–13 years old). The degree of difficulty a child has with reading, spelling, and speaking varies from person to person with dyslexia due to genetic differences in brain development. It effects can fluctuate depending on the types of dyslexia. The lack of intelligence or willingness to study is not the cause. Dyslexia is not curable, but early diagnosis can help individuals with dyslexia to manage their symptoms. Recent studies have identified several genes that may incline an individual to developing dyslexia. Individuals with dyslexia need early identification and intervention to succeed academically and realize their full potential. To help identify dyslexia, we developed a predictive machine learning model and an online gamified exam. Our findings demonstrate that dyslexia can be detected using a computational approach. More people have already utilized an online screening tool based on our methods. The objective of our project is to build a framework which consider few assessment measures to analyze their level of dyslexia. These tests make it easy to recognize dyslexic people quickly.",
+      "tldr": "",
+      "citation_count": 1,
+      "publication_types": [
+        "Conference"
+      ],
+      "pdf_url": "https://doi.org/10.1109/ICCSP60870.2024.10544038",
+      "retrieved_at": "2025-11-28T22:29:17.083832"
+    },
+    "f2c51d91258fdcf18c1fcde85169b8c6dbb6f5da": {
+      "paper_id": "f2c51d91258fdcf18c1fcde85169b8c6dbb6f5da",
+      "title": "Early Detection of 5 Neurodevelopmental Disorders of Children and Prevention of Postnatal Depression With a Mobile Health App: Observational Cross-Sectional Study",
+      "url": "https://www.semanticscholar.org/paper/f2c51d91258fdcf18c1fcde85169b8c6dbb6f5da",
+      "authors": [
+        "F. Denis",
+        "Florian Le Goff",
+        "Madhu Desbois",
+        "Agnes Gepner",
+        "Guillaume Feliciano",
+        "Denise Silber",
+        "J. Zeitoun",
+        "Guedalia Peretz Assuied"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-03-19",
+      "journal": "JMIR Public Health and Surveillance",
+      "doi": "10.2196/58565",
+      "arxiv_id": "N/A",
+      "keywords": [
+        "Medicine"
+      ],
+      "abstract": "Background Delay in the diagnosis of neurodevelopmental disorders (NDDs) in toddlers and postnatal depression (PND) is a major public health issue. In both cases, early intervention is crucial but too rarely implemented in practice. Objective Our goal was to determine if a dedicated mobile app can improve screening of 5 NDDs (autism spectrum disorder [ASD], language delay, dyspraxia, dyslexia, and attention-deficit/hyperactivity disorder [ADHD]) and reduce PND incidence. Methods We performed an observational, cross-sectional, data-based study in a population of young parents in France with at least 1 child aged <10 years at the time of inclusion and regularly using Malo, an “all-in-one” multidomain digital health record electronic patient-reported outcome (PRO) app for smartphones. We included the first 50,000 users matching the criteria and agreeing to participate between May 1, 2022, and February 8, 2024. Parents received periodic questionnaires assessing skills in neurodevelopment domains via the app. Mothers accessed a support program to prevent PND and were requested to answer regular PND questionnaires. When any PROs matched predefined criteria, an in-app recommendation was sent to book an appointment with a family physician or pediatrician. The main outcomes were the median age of the infant at the time of notification for possible NDD and the incidence of PND detection after childbirth. One secondary outcome was the relevance of the NDD notification by consultation as assessed by health professionals. Results Among 55,618 children median age 4 months (IQR 9), 439 (0.8%) had at least 1 disorder for which consultation was critically necessary. The median ages of notification for probable ASD, language delay, dyspraxia, dyslexia, and ADHD were 32.5 (IQR 12.8), 16 (IQR 13), 36 (IQR 22.5), 80 (IQR 5), and 61 (IQR 15.5) months, respectively. The rate of probable ADHD, ASD, dyslexia, language delay, and dyspraxia in the population of children of the age included between the detection limits of each alert was 1.48%, 0.21%, 1.52%, 0.91%, and 0.37%, respectively. Sensitivity of alert notifications for suspected NDDs as assessed by the physicians was 78.6% and specificity was 98.2%. Among 8243 mothers who completed a PND questionnaire, highly probable PND was detected in 938 (11.4%), corresponding to a reduction of –31% versus our previous study without a support program. Suspected PND was detected a median 96 days (IQR 86) after childbirth. Among 130 users who filled in the satisfaction survey, 99.2% (129/130) found the app easy to use and 70% (91/130) reported that the app improved follow-up of their child. The app was rated 4.8/5 on Apple’s App Store. Conclusions Algorithm-based early alerts suggesting NDDs were highly specific with good sensitivity as assessed by real-life practitioners. Early detection of 5 NDDs and PNDs was efficient and led to a possible 31% reduction in PND incidence. Trial Registration ClinicalTrials.gov NCT06301087; https://www.clinicaltrials.gov/study/NCT06301087",
+      "tldr": "Algorithm-based early alerts suggesting NDDs were highly specific with good sensitivity as assessed by real-life practitioners and led to a possible 31% reduction in PND incidence.",
+      "citation_count": 1,
+      "publication_types": [
+        "Study",
+        "JournalArticle",
+        "Review"
+      ],
+      "pdf_url": "https://doi.org/10.2196/58565",
+      "retrieved_at": "2025-11-28T22:29:17.083832"
+    },
+    "ae367d8075c8f122146766b43b99529260dfe44b": {
+      "paper_id": "ae367d8075c8f122146766b43b99529260dfe44b",
+      "title": "Early Detection of Dyslexia Using Multimodal Analysis of Behavioral, Neurophysiological and Linguistic Markers",
+      "url": "https://www.semanticscholar.org/paper/ae367d8075c8f122146766b43b99529260dfe44b",
+      "authors": [
+        "Garima Swami",
+        "Yogesh K M"
+      ],
+      "publication_year": 2025,
+      "publication_date": null,
+      "journal": "Proceedings of the 3rd International Conference on Futuristic Technology",
+      "doi": "10.5220/0013615600004664",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": ": Dyslexia is a complex neurodevelopmental learning disorder characterized by persistent difficulties in reading, spelling, and writing, which can significantly impact academic performance, self-esteem, and overall quality of life. Despite its prevalence, dyslexia often goes undiagnosed due to the limitations of traditional diagnostic methods, which are typically timeconsuming, subjective, and require substantial resources. Early identification and targeted interventions are critical to mitigating the negative effects of dyslexia and improving learning outcomes. This paper explores the potential of artificial intelligence (AI) technologies to revolutionize the detection and support of dyslexic learners through automation and precision. It proposes an innovative system that integrates advanced AI methodologies, including machine learning, natural language processing, and adaptive learning systems, to deliver a robust and scalable solution. By leveraging multimodal data such as eye-tracking metrics, phonological assessments, and text-based evaluations, the system offers a holistic approach to dyslexia diagnosis and support.",
+      "tldr": "An innovative system that integrates advanced AI methodologies, including machine learning, natural language processing, and adaptive learning systems, to deliver a robust and scalable solution to dyslexia diagnosis and support is proposed.",
+      "citation_count": 0,
+      "publication_types": [
+        "Conference"
+      ],
+      "pdf_url": "https://doi.org/10.5220/0013615600004664",
+      "retrieved_at": "2025-11-28T22:29:17.083832"
+    },
+    "9efcd0f2feebc247f168d1c05b14461ec089b12f": {
+      "paper_id": "9efcd0f2feebc247f168d1c05b14461ec089b12f",
+      "title": "Detection of Dyslexia and Dyscalculia in Children",
+      "url": "https://www.semanticscholar.org/paper/9efcd0f2feebc247f168d1c05b14461ec089b12f",
+      "authors": [
+        "Jawahar Jonathan",
+        "Bharathi K",
+        "Haripriya Khajuria",
+        "Lavanya J C",
+        "M. Jyoshitha",
+        "Meghna Keshri"
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-03-28",
+      "journal": "Computer Science &amp; Engineering: An International Journal",
+      "doi": "10.5121/cseij.2025.15103",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "Learning disabilities represent a prevalent category of developmental challenges seen in children. The process of learning is pivotal for a child's holistic growth. Children encounter hurdles in their daily tasks such as reading, verbal expression, organizational skills, and similar activities. These specific learning impediments are categorized into dyslexia, dysgraphia, and dyscalculia. Dyslexia refers to difficulties in reading and distinguishing speech sounds. Dysgraphia and dyscalculia pertain to challenges in written expression and mathematical computations, respectively. Timely identification and assessment are crucial for early intervention and treatment. The forthcoming article outlines methodologies and approaches employed in identifying dyslexia. Its key contribution lies in a comparative examination of diverse machine learning algorithms utilized for dyslexia diagnosis, encompassing SVM, KNN, and random forest.",
+      "tldr": "",
+      "citation_count": 0,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.5121/cseij.2025.15103",
+      "retrieved_at": "2025-11-28T22:29:17.083832"
+    }
+  }
+}
