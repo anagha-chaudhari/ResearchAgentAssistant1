@@ -266,6 +266,24 @@
         "6a85d650d7715b4c7a94d793aeb8cfb100c92c68",
         "47f41004a3bd341abd6e32be8dafe988a4b2db6e"
       ]
+    },
+    {
+      "session_id": "session-1764349146",
+      "query": "Early Detection Of Dyslexia",
+      "timestamp": "2025-11-28T22:29:17.085954",
+      "paper_count": 10,
+      "paper_ids": [
+        "6e82ac7198d0d3c8d01510f45a2902276a1fa5f4",
+        "779c2109a9dcb41804f7127cf9433ba5c1985dbd",
+        "d9d91ad316cd865fae52c9ed18f178763ff9b17d",
+        "8edd96aa43b6125c1b0215bb7f347c94e0130fa9",
+        "dfdb316cf788e99fdc69498192a4b66b132e24a7",
+        "2a801cf4af87701ee571248887ceb45b0b6d07da",
+        "a86af4ee706bd5d5c0d5f1d7f108fe5b3fb05d10",
+        "f2c51d91258fdcf18c1fcde85169b8c6dbb6f5da",
+        "ae367d8075c8f122146766b43b99529260dfe44b",
+        "9efcd0f2feebc247f168d1c05b14461ec089b12f"
+      ]
     }
   ],
   "papers": {
@@ -1350,6 +1368,268 @@
       ],
       "pdf_url": "https://doi.org/10.9734/ajaees/2023/v41i61925",
       "retrieved_at": "2025-11-28T17:22:06.817625"
+    },
+    "6e82ac7198d0d3c8d01510f45a2902276a1fa5f4": {
+      "paper_id": "6e82ac7198d0d3c8d01510f45a2902276a1fa5f4",
+      "title": "Deep Learning for Dyslexia Detection: A Comprehensive CNN Approach with Handwriting Analysis and Benchmark Comparisons",
+      "url": "https://www.semanticscholar.org/paper/6e82ac7198d0d3c8d01510f45a2902276a1fa5f4",
+      "authors": [
+        "Ghadah Aldehim",
+        "Mamoon Rashid",
+        "A. Alluhaidan",
+        "S. Sakri",
+        "Shakila Basheer"
+      ],
+      "publication_year": 2024,
+      "publication_date": null,
+      "journal": "Journal of Disability Research",
+      "doi": "10.57197/jdr-2024-0010",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "Dyslexia is a complex learning disorder that affects neurological nerves in the brain and makes reading and writing difficult; therefore, early diagnosis for effective interventions becomes important. This study demonstrates how quickly dyslexia can be identified by introducing an advanced convolutional neural network model developed for detecting dyslexia through image-based handwriting analysis. The need for early identification is informed by the fact that dyslexia may, in certain cases, lead to poor academic performance and emotional imbalance among learners. This method of using deep learning outperforms all other established conventional methods due to inherent sensitivity in classifying handwritings of dyslexics from those of normal individuals. The artificial intelligence (AI)-supported technology has the highest training accuracy of 99.5% proving its ability to capture subtle features related to the presence of dyslexic tendencies. Consequently, it records a testing accuracy of 96.4%, thereby confirming its efficacy under practical circumstances. In addition, the model also shows a good F1-score of 96 which indicates that it can achieve a balanced precision versus recall trade-off unlike other state-of-the-art approaches. The obtained results of the proposed methodology were compared with those of previous state–of-the-art approaches, and it has been observed that the proposed study provides better outcomes. These detailed performance indicators point toward the potential usefulness of AI-based methods in identifying dyslexia thus informing appropriate interventions on time and targeted assistance to the patients suffering from this disease.",
+      "tldr": "How quickly dyslexia can be identified by introducing an advanced convolutional neural network model developed for detecting dyslexia through image-based handwriting analysis is demonstrated by introducing an advanced convolutional neural network model developed for detecting dyslexia through image-based handwriting analysis.",
+      "citation_count": 11,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.57197/jdr-2024-0010",
+      "retrieved_at": "2025-11-28T22:29:17.083832"
+    },
+    "779c2109a9dcb41804f7127cf9433ba5c1985dbd": {
+      "paper_id": "779c2109a9dcb41804f7127cf9433ba5c1985dbd",
+      "title": "Early detection of dyslexia based on EEG with novel predictor extraction and selection",
+      "url": "https://www.semanticscholar.org/paper/779c2109a9dcb41804f7127cf9433ba5c1985dbd",
+      "authors": [
+        "Shankar K. Parmar",
+        "C. Paunwala"
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-10-19",
+      "journal": "Discover Artificial Intelligence",
+      "doi": "10.1007/s44163-023-00082-4",
+      "arxiv_id": "N/A",
+      "keywords": [
+        "Computer Science"
+      ],
+      "abstract": "Dyslexia is a learning disorder caused by difficulties in the brain’s processing of letters and words. This study used EEG recordings to detect dyslexia at a young age. EEG recordings of 53 individuals, including 29 dyslexic and 24 normal individuals, were collected while they were engaged in two distinct mental activities known as the N-Back task and the Oddball task. Predictors were extracted using several methods and reduced using Principal Component Analysis (PCA). A relief-based strategy was applied to select predictors, and Support Vector Machine (SVM) classifier was used to achieve an average accuracy of 79.3% for dyslexia detection, which is better than the performance of its predecessors. The results indicate that EEG recordings and machine learning methods could be useful for identifying dyslexia in children.",
+      "tldr": null,
+      "citation_count": 10,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.1007/s44163-023-00082-4",
+      "retrieved_at": "2025-11-28T22:29:17.083832"
+    },
+    "d9d91ad316cd865fae52c9ed18f178763ff9b17d": {
+      "paper_id": "d9d91ad316cd865fae52c9ed18f178763ff9b17d",
+      "title": "Detection of Dyslexia Through Images of Handwriting using Hybrid AI Approach",
+      "url": "https://www.semanticscholar.org/paper/d9d91ad316cd865fae52c9ed18f178763ff9b17d",
+      "authors": [
+        "Norah Dhafer Alqahtani",
+        "Bander Alzahrani",
+        "M. Ramzan"
+      ],
+      "publication_year": 2023,
+      "publication_date": null,
+      "journal": "International Journal of Advanced Computer Science and Applications",
+      "doi": "10.14569/ijacsa.2023.0141099",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "—Dyslexia is a neurodevelopmental disorder characterized by difficulties with acquiring reading skills, despite the presence of appropriate learning opportunities, sufficient education, and a suitable sociocultural context. Dyslexia negatively affects children’s educational development and their acquisition of language, as well as their writing. Therefore, early detection of dyslexia is of great importance. The prediction of dyslexia through handwriting is an active research field of almost five years’ standing. In this paper, we propose hybrid models (CNN-SVM) and (CNN-RF) to reveal dyslexia through images of handwriting. The paper aimed to develop a CNN model to extract features from images of handwriting where CNN is highly reliable in extracting features from images, and to use SVM as a classifier due to its generalization abilities as well as using random forest (RF) as a classifier in (CNN-RF). The study aimed to combine a deep learning (DL) model and a machine learning (ML) model to improve model performance. Data sets that consisted of 176,673 images of handwriting were used in this study. The hyperparameter of the model was adjusted and examined in order to classify the three categories of handwriting. The CNN model that was built demonstrated an outstanding accuracy rate of 98.71% in effectively categorizing three distinct types of handwriting—99.33% with SVM, and 98.44% in the CNN-RF model. The aim of recognizing dyslexic handwriting through CNN-SVM was successfully attained, and our model outperformed all previous models.",
+      "tldr": "The aim of recognizing dyslexic handwriting through CNN-SVM was successfully attained, and the model outperformed all previous models.",
+      "citation_count": 8,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.14569/ijacsa.2023.0141099",
+      "retrieved_at": "2025-11-28T22:29:17.083832"
+    },
+    "8edd96aa43b6125c1b0215bb7f347c94e0130fa9": {
+      "paper_id": "8edd96aa43b6125c1b0215bb7f347c94e0130fa9",
+      "title": "Deep learning-driven dyslexia detection model using multi-modality data",
+      "url": "https://www.semanticscholar.org/paper/8edd96aa43b6125c1b0215bb7f347c94e0130fa9",
+      "authors": [
+        "Yazeed Alkhurayyif",
+        "Abdul Rahaman Wahab Sait"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-06-14",
+      "journal": "PeerJ Computer Science",
+      "doi": "10.7717/peerj-cs.2077",
+      "arxiv_id": "N/A",
+      "keywords": [
+        "Computer Science",
+        "Medicine"
+      ],
+      "abstract": "Background Dyslexia is a neurological disorder that affects an individual’s language processing abilities. Early care and intervention can help dyslexic individuals succeed academically and socially. Recent developments in deep learning (DL) approaches motivate researchers to build dyslexia detection models (DDMs). DL approaches facilitate the integration of multi-modality data. However, there are few multi-modality-based DDMs. Methods In this study, the authors built a DL-based DDM using multi-modality data. A squeeze and excitation (SE) integrated MobileNet V3 model, self-attention mechanisms (SA) based EfficientNet B7 model, and early stopping and SA-based Bi-directional long short-term memory (Bi-LSTM) models were developed to extract features from magnetic resonance imaging (MRI), functional MRI, and electroencephalography (EEG) data. In addition, the authors fine-tuned the LightGBM model using the Hyperband optimization technique to detect dyslexia using the extracted features. Three datasets containing FMRI, MRI, and EEG data were used to evaluate the performance of the proposed DDM. Results The findings supported the significance of the proposed DDM in detecting dyslexia with limited computational resources. The proposed model outperformed the existing DDMs by producing an optimal accuracy of 98.9%, 98.6%, and 98.8% for the FMRI, MRI, and EEG datasets, respectively. Healthcare centers and educational institutions can benefit from the proposed model to identify dyslexia in the initial stages. The interpretability of the proposed model can be improved by integrating vision transformers-based feature extraction.",
+      "tldr": "The findings supported the significance of the proposed DDM in detecting dyslexia with limited computational resources and the interpretability of the proposed model can be improved by integrating vision transformers-based feature extraction.",
+      "citation_count": 6,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.7717/peerj-cs.2077",
+      "retrieved_at": "2025-11-28T22:29:17.083832"
+    },
+    "dfdb316cf788e99fdc69498192a4b66b132e24a7": {
+      "paper_id": "dfdb316cf788e99fdc69498192a4b66b132e24a7",
+      "title": "Diagnosing Dyslexia in Early School-Aged Children Using the LSTM Network and Eye Tracking Technology",
+      "url": "https://www.semanticscholar.org/paper/dfdb316cf788e99fdc69498192a4b66b132e24a7",
+      "authors": [
+        "Z. Gomolka",
+        "Ewa Żesławska",
+        "Barbara Czuba",
+        "Yuriy Kondratenko"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-09-07",
+      "journal": "Applied Sciences",
+      "doi": "10.3390/app14178004",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "Dyslexia, often referred to as a specific reading disability, affects many students around the world. It is a neurological disorder that affects the ability to recognise words, and it causes difficulties in writing and reading comprehension. Previous computer-based methods for the automatic detection of dyslexia in children have had low efficiency due to the complexity of the test administration process and the low measurement reliability of the attention measures used. This paper proposes the use of a student’s mobile device to record the spatio-temporal trajectory of attention, which is then analysed by deep neural network long short-term memory (LSTM). The study involved 145 participants (66 girls and 79 boys), all of whom were children aged 9 years. The input signal for the neural network consisted of recorded observation sessions, which were packets containing the child’s spatio-temporal attention trajectories generated during task performance. The training set was developed using stimuli from Benton tests and an expert opinion from a specialist in early childhood psychology. The coefficients of determination of R2∼0.992 were obtained for the proposed model, giving an accuracy of 97.7% for the test set. The ease of implementation of this approach in school settings and its non-stressful nature make it suitable for use with children of different ages and developmental stages, including those who have not yet learned to read. This enables early intervention, which is essential for effective educational and emotional support for children with dyslexia.",
+      "tldr": "The use of a student’s mobile device to record the spatio-temporal trajectory of attention, which is then analysed by deep neural network long short-term memory (LSTM) makes this approach suitable for use with children of different ages and developmental stages, including those who have not yet learned to read.",
+      "citation_count": 5,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.3390/app14178004",
+      "retrieved_at": "2025-11-28T22:29:17.083832"
+    },
+    "2a801cf4af87701ee571248887ceb45b0b6d07da": {
+      "paper_id": "2a801cf4af87701ee571248887ceb45b0b6d07da",
+      "title": "Eye-tracking based Detection of Developmental Dyslexia in Children Using Convolutional-Transformer Network",
+      "url": "https://www.semanticscholar.org/paper/2a801cf4af87701ee571248887ceb45b0b6d07da",
+      "authors": [
+        "Xin Li",
+        "Zhongjie Li",
+        "Feiyang Xu"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-05-08",
+      "journal": "2024 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD)",
+      "doi": "10.1109/CSCWD61410.2024.10580657",
+      "arxiv_id": "N/A",
+      "keywords": [
+        "Computer Science"
+      ],
+      "abstract": "Objective. Developmental Dyslexia (DD) is a special learning disability (SLD), in which it is difficult for children to read, spell and write fluently, seriously affecting children’s related reading skills. Therefore, it is significant for early intervention to quickly and accurately detect children with DD in a no-feeling method. However, most existing detection methods include oral and written assessments, analysis based on brain image (e.g. MRI, fMRI, EEG, etc.), which either require the involvement of domain experts or have low accuracy and are not conducive to large-scale applications. Approach. In this study, inspired by computer vision, we present a novel convolutional-transformer network architecture based on Eye-tracking to improve the diagnosis accuracy of developmental dyslexia in children, which is evaluated on 187 subjects by tracking their eye movements while reading. Main results. To our knowledge, the proposed model achieved a state-of-the-art (SOTA) classification accuracy of 98.21% on the cross-subject dyslexia detection task for the public dataset SDUETDR. Significance. The proposed model can be used in schools as a diagnostic and screening tool for children with developmental dyslexia.",
+      "tldr": "",
+      "citation_count": 2,
+      "publication_types": [
+        "JournalArticle",
+        "Conference"
+      ],
+      "pdf_url": "https://doi.org/10.1109/CSCWD61410.2024.10580657",
+      "retrieved_at": "2025-11-28T22:29:17.083832"
+    },
+    "a86af4ee706bd5d5c0d5f1d7f108fe5b3fb05d10": {
+      "paper_id": "a86af4ee706bd5d5c0d5f1d7f108fe5b3fb05d10",
+      "title": "Framework of Dyslexia Detection Using Machine Learning Algorithms",
+      "url": "https://www.semanticscholar.org/paper/a86af4ee706bd5d5c0d5f1d7f108fe5b3fb05d10",
+      "authors": [
+        "st K.Purnachand",
+        "K.Manvitha",
+        "Sai Anurag",
+        "Ayyalasomayajula",
+        "G.Meghana"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-04-12",
+      "journal": "2024 10th International Conference on Communication and Signal Processing (ICCSP)",
+      "doi": "10.1109/ICCSP60870.2024.10544038",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "A neurologically based learning disability, dyslexia affects 12% of the global population, particularly young children (7–13 years old). The degree of difficulty a child has with reading, spelling, and speaking varies from person to person with dyslexia due to genetic differences in brain development. It effects can fluctuate depending on the types of dyslexia. The lack of intelligence or willingness to study is not the cause. Dyslexia is not curable, but early diagnosis can help individuals with dyslexia to manage their symptoms. Recent studies have identified several genes that may incline an individual to developing dyslexia. Individuals with dyslexia need early identification and intervention to succeed academically and realize their full potential. To help identify dyslexia, we developed a predictive machine learning model and an online gamified exam. Our findings demonstrate that dyslexia can be detected using a computational approach. More people have already utilized an online screening tool based on our methods. The objective of our project is to build a framework which consider few assessment measures to analyze their level of dyslexia. These tests make it easy to recognize dyslexic people quickly.",
+      "tldr": "",
+      "citation_count": 1,
+      "publication_types": [
+        "Conference"
+      ],
+      "pdf_url": "https://doi.org/10.1109/ICCSP60870.2024.10544038",
+      "retrieved_at": "2025-11-28T22:29:17.083832"
+    },
+    "f2c51d91258fdcf18c1fcde85169b8c6dbb6f5da": {
+      "paper_id": "f2c51d91258fdcf18c1fcde85169b8c6dbb6f5da",
+      "title": "Early Detection of 5 Neurodevelopmental Disorders of Children and Prevention of Postnatal Depression With a Mobile Health App: Observational Cross-Sectional Study",
+      "url": "https://www.semanticscholar.org/paper/f2c51d91258fdcf18c1fcde85169b8c6dbb6f5da",
+      "authors": [
+        "F. Denis",
+        "Florian Le Goff",
+        "Madhu Desbois",
+        "Agnes Gepner",
+        "Guillaume Feliciano",
+        "Denise Silber",
+        "J. Zeitoun",
+        "Guedalia Peretz Assuied"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-03-19",
+      "journal": "JMIR Public Health and Surveillance",
+      "doi": "10.2196/58565",
+      "arxiv_id": "N/A",
+      "keywords": [
+        "Medicine"
+      ],
+      "abstract": "Background Delay in the diagnosis of neurodevelopmental disorders (NDDs) in toddlers and postnatal depression (PND) is a major public health issue. In both cases, early intervention is crucial but too rarely implemented in practice. Objective Our goal was to determine if a dedicated mobile app can improve screening of 5 NDDs (autism spectrum disorder [ASD], language delay, dyspraxia, dyslexia, and attention-deficit/hyperactivity disorder [ADHD]) and reduce PND incidence. Methods We performed an observational, cross-sectional, data-based study in a population of young parents in France with at least 1 child aged <10 years at the time of inclusion and regularly using Malo, an “all-in-one” multidomain digital health record electronic patient-reported outcome (PRO) app for smartphones. We included the first 50,000 users matching the criteria and agreeing to participate between May 1, 2022, and February 8, 2024. Parents received periodic questionnaires assessing skills in neurodevelopment domains via the app. Mothers accessed a support program to prevent PND and were requested to answer regular PND questionnaires. When any PROs matched predefined criteria, an in-app recommendation was sent to book an appointment with a family physician or pediatrician. The main outcomes were the median age of the infant at the time of notification for possible NDD and the incidence of PND detection after childbirth. One secondary outcome was the relevance of the NDD notification by consultation as assessed by health professionals. Results Among 55,618 children median age 4 months (IQR 9), 439 (0.8%) had at least 1 disorder for which consultation was critically necessary. The median ages of notification for probable ASD, language delay, dyspraxia, dyslexia, and ADHD were 32.5 (IQR 12.8), 16 (IQR 13), 36 (IQR 22.5), 80 (IQR 5), and 61 (IQR 15.5) months, respectively. The rate of probable ADHD, ASD, dyslexia, language delay, and dyspraxia in the population of children of the age included between the detection limits of each alert was 1.48%, 0.21%, 1.52%, 0.91%, and 0.37%, respectively. Sensitivity of alert notifications for suspected NDDs as assessed by the physicians was 78.6% and specificity was 98.2%. Among 8243 mothers who completed a PND questionnaire, highly probable PND was detected in 938 (11.4%), corresponding to a reduction of –31% versus our previous study without a support program. Suspected PND was detected a median 96 days (IQR 86) after childbirth. Among 130 users who filled in the satisfaction survey, 99.2% (129/130) found the app easy to use and 70% (91/130) reported that the app improved follow-up of their child. The app was rated 4.8/5 on Apple’s App Store. Conclusions Algorithm-based early alerts suggesting NDDs were highly specific with good sensitivity as assessed by real-life practitioners. Early detection of 5 NDDs and PNDs was efficient and led to a possible 31% reduction in PND incidence. Trial Registration ClinicalTrials.gov NCT06301087; https://www.clinicaltrials.gov/study/NCT06301087",
+      "tldr": "Algorithm-based early alerts suggesting NDDs were highly specific with good sensitivity as assessed by real-life practitioners and led to a possible 31% reduction in PND incidence.",
+      "citation_count": 1,
+      "publication_types": [
+        "Study",
+        "JournalArticle",
+        "Review"
+      ],
+      "pdf_url": "https://doi.org/10.2196/58565",
+      "retrieved_at": "2025-11-28T22:29:17.083832"
+    },
+    "ae367d8075c8f122146766b43b99529260dfe44b": {
+      "paper_id": "ae367d8075c8f122146766b43b99529260dfe44b",
+      "title": "Early Detection of Dyslexia Using Multimodal Analysis of Behavioral, Neurophysiological and Linguistic Markers",
+      "url": "https://www.semanticscholar.org/paper/ae367d8075c8f122146766b43b99529260dfe44b",
+      "authors": [
+        "Garima Swami",
+        "Yogesh K M"
+      ],
+      "publication_year": 2025,
+      "publication_date": null,
+      "journal": "Proceedings of the 3rd International Conference on Futuristic Technology",
+      "doi": "10.5220/0013615600004664",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": ": Dyslexia is a complex neurodevelopmental learning disorder characterized by persistent difficulties in reading, spelling, and writing, which can significantly impact academic performance, self-esteem, and overall quality of life. Despite its prevalence, dyslexia often goes undiagnosed due to the limitations of traditional diagnostic methods, which are typically timeconsuming, subjective, and require substantial resources. Early identification and targeted interventions are critical to mitigating the negative effects of dyslexia and improving learning outcomes. This paper explores the potential of artificial intelligence (AI) technologies to revolutionize the detection and support of dyslexic learners through automation and precision. It proposes an innovative system that integrates advanced AI methodologies, including machine learning, natural language processing, and adaptive learning systems, to deliver a robust and scalable solution. By leveraging multimodal data such as eye-tracking metrics, phonological assessments, and text-based evaluations, the system offers a holistic approach to dyslexia diagnosis and support.",
+      "tldr": "An innovative system that integrates advanced AI methodologies, including machine learning, natural language processing, and adaptive learning systems, to deliver a robust and scalable solution to dyslexia diagnosis and support is proposed.",
+      "citation_count": 0,
+      "publication_types": [
+        "Conference"
+      ],
+      "pdf_url": "https://doi.org/10.5220/0013615600004664",
+      "retrieved_at": "2025-11-28T22:29:17.083832"
+    },
+    "9efcd0f2feebc247f168d1c05b14461ec089b12f": {
+      "paper_id": "9efcd0f2feebc247f168d1c05b14461ec089b12f",
+      "title": "Detection of Dyslexia and Dyscalculia in Children",
+      "url": "https://www.semanticscholar.org/paper/9efcd0f2feebc247f168d1c05b14461ec089b12f",
+      "authors": [
+        "Jawahar Jonathan",
+        "Bharathi K",
+        "Haripriya Khajuria",
+        "Lavanya J C",
+        "M. Jyoshitha",
+        "Meghna Keshri"
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-03-28",
+      "journal": "Computer Science &amp; Engineering: An International Journal",
+      "doi": "10.5121/cseij.2025.15103",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "Learning disabilities represent a prevalent category of developmental challenges seen in children. The process of learning is pivotal for a child's holistic growth. Children encounter hurdles in their daily tasks such as reading, verbal expression, organizational skills, and similar activities. These specific learning impediments are categorized into dyslexia, dysgraphia, and dyscalculia. Dyslexia refers to difficulties in reading and distinguishing speech sounds. Dysgraphia and dyscalculia pertain to challenges in written expression and mathematical computations, respectively. Timely identification and assessment are crucial for early intervention and treatment. The forthcoming article outlines methodologies and approaches employed in identifying dyslexia. Its key contribution lies in a comparative examination of diverse machine learning algorithms utilized for dyslexia diagnosis, encompassing SVM, KNN, and random forest.",
+      "tldr": "",
+      "citation_count": 0,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.5121/cseij.2025.15103",
+      "retrieved_at": "2025-11-28T22:29:17.083832"
     }
   }
 }
