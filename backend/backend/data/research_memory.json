@@ -301,6 +301,286 @@
         "6aa2f7195ae8d0a4eb9c63a02d5495fbecd41c82",
         "5879ea12e106e1c243d78e337144e1bc09e21213"
       ]
+    },
+    {
+      "session_id": "session-1766302378",
+      "query": "Rewetting study on nuclear fuel bundle",
+      "timestamp": "2025-12-21T13:03:32.147128",
+      "paper_count": 6,
+      "paper_ids": [
+        "14c99cb24863d3dc14e092ad35f1534e7d558bf6",
+        "d67bb79f27216841e90c98f90fe666c865dd7faa",
+        "623cfaac88aaff49401dbac09203ff86cfb29d52",
+        "1c79943c4ff533cfba0bbc27ab020b92fb642fe4",
+        "fa2101fcb1184d2fa1cf1b93fb7ff58e3b8a69d1",
+        "cb56909f750fe0dab7e144509ae67d36bc307c32"
+      ]
+    },
+    {
+      "session_id": "session-1766306513",
+      "query": "Rewetting study on nuclear fuel bundle",
+      "timestamp": "2025-12-21T14:12:27.746293",
+      "paper_count": 6,
+      "paper_ids": [
+        "14c99cb24863d3dc14e092ad35f1534e7d558bf6",
+        "d67bb79f27216841e90c98f90fe666c865dd7faa",
+        "623cfaac88aaff49401dbac09203ff86cfb29d52",
+        "1c79943c4ff533cfba0bbc27ab020b92fb642fe4",
+        "fa2101fcb1184d2fa1cf1b93fb7ff58e3b8a69d1",
+        "cb56909f750fe0dab7e144509ae67d36bc307c32"
+      ]
+    },
+    {
+      "session_id": "session-1766307234",
+      "query": "transformers",
+      "timestamp": "2025-12-21T14:25:52.799384",
+      "paper_count": 10,
+      "paper_ids": [
+        "41a66997ce0a366bba3becf7c3f37c9aebb13fbd",
+        "afeeb8f5018eebb1a1d334b94dbbfc48d167efef",
+        "ca9f5b3bf0f54ad97513e6175b30497873670fed",
+        "10bd38673951f5d7729568284093cbd80482ab16",
+        "4a111f7a3b56d0468f13104999844885157ef17d",
+        "f5ac95fa58815a35622a60f42a5729f518e57cdf",
+        "53e9cf17eb4e54c80cfc5c5b20809527fbabd94b",
+        "5a20aa49b81b4e14fdb36814e557b3da60259ce9",
+        "c0f9315d8175b76097eadff3a2686ef203e6ee6b",
+        "189fde3f4dfa105bb51472a8945618f395919560"
+      ]
+    },
+    {
+      "session_id": "session-1766307635",
+      "query": "transformers",
+      "timestamp": "2025-12-21T14:32:24.307634",
+      "paper_count": 10,
+      "paper_ids": [
+        "41a66997ce0a366bba3becf7c3f37c9aebb13fbd",
+        "afeeb8f5018eebb1a1d334b94dbbfc48d167efef",
+        "ca9f5b3bf0f54ad97513e6175b30497873670fed",
+        "10bd38673951f5d7729568284093cbd80482ab16",
+        "4a111f7a3b56d0468f13104999844885157ef17d",
+        "f5ac95fa58815a35622a60f42a5729f518e57cdf",
+        "53e9cf17eb4e54c80cfc5c5b20809527fbabd94b",
+        "5a20aa49b81b4e14fdb36814e557b3da60259ce9",
+        "c0f9315d8175b76097eadff3a2686ef203e6ee6b",
+        "189fde3f4dfa105bb51472a8945618f395919560"
+      ]
+    },
+    {
+      "session_id": "session-1766308262",
+      "query": "Rewetting study on nuclear fuel bundle",
+      "timestamp": "2025-12-21T14:41:32.637725",
+      "paper_count": 6,
+      "paper_ids": [
+        "14c99cb24863d3dc14e092ad35f1534e7d558bf6",
+        "d67bb79f27216841e90c98f90fe666c865dd7faa",
+        "623cfaac88aaff49401dbac09203ff86cfb29d52",
+        "1c79943c4ff533cfba0bbc27ab020b92fb642fe4",
+        "fa2101fcb1184d2fa1cf1b93fb7ff58e3b8a69d1",
+        "cb56909f750fe0dab7e144509ae67d36bc307c32"
+      ]
+    },
+    {
+      "session_id": "session-1766308743",
+      "query": "Rewetting study on nuclear fuel bundle",
+      "timestamp": "2025-12-21T14:49:32.953500",
+      "paper_count": 6,
+      "paper_ids": [
+        "14c99cb24863d3dc14e092ad35f1534e7d558bf6",
+        "d67bb79f27216841e90c98f90fe666c865dd7faa",
+        "623cfaac88aaff49401dbac09203ff86cfb29d52",
+        "1c79943c4ff533cfba0bbc27ab020b92fb642fe4",
+        "fa2101fcb1184d2fa1cf1b93fb7ff58e3b8a69d1",
+        "cb56909f750fe0dab7e144509ae67d36bc307c32"
+      ]
+    },
+    {
+      "session_id": "session-1766308927",
+      "query": "Rewetting study on nuclear fuel bundle",
+      "timestamp": "2025-12-21T14:52:36.377469",
+      "paper_count": 6,
+      "paper_ids": [
+        "14c99cb24863d3dc14e092ad35f1534e7d558bf6",
+        "d67bb79f27216841e90c98f90fe666c865dd7faa",
+        "623cfaac88aaff49401dbac09203ff86cfb29d52",
+        "1c79943c4ff533cfba0bbc27ab020b92fb642fe4",
+        "fa2101fcb1184d2fa1cf1b93fb7ff58e3b8a69d1",
+        "cb56909f750fe0dab7e144509ae67d36bc307c32"
+      ]
+    },
+    {
+      "session_id": "session-1766309598",
+      "query": "Crew Module Thermal Protection System(TPS)",
+      "timestamp": "2025-12-21T15:04:08.980185",
+      "paper_count": 10,
+      "paper_ids": [
+        "985b019c82766037b02deaa3dd2626961ee9091d",
+        "99d1ba66e5c625d9be1dbbb2050ed8121d1660de",
+        "139ba0191341d186828db5e23f405fcb43ee84ca",
+        "921f974eb45b3edf4746764e89fe8a9867ac16c3",
+        "e6ff39dcd8fc36e4d883a9814d27a862b3ca4cab",
+        "6798afdae0d411d54e23577bec00623ec96785ac",
+        "5b989ecf039684594c3eda6d739e8dc2b4916fa2",
+        "9d649a3549017b58cebfd3720f977a2a64c6218d",
+        "2d1389d745d728ffbf2c79dd73641cff71ea806b",
+        "c6333d456fcfc3cca00555ea0a20280300151ebb"
+      ]
+    },
+    {
+      "session_id": "session-1766309969",
+      "query": "Crew Module Thermal Protection System(TPS)",
+      "timestamp": "2025-12-21T15:10:23.089681",
+      "paper_count": 10,
+      "paper_ids": [
+        "985b019c82766037b02deaa3dd2626961ee9091d",
+        "99d1ba66e5c625d9be1dbbb2050ed8121d1660de",
+        "139ba0191341d186828db5e23f405fcb43ee84ca",
+        "921f974eb45b3edf4746764e89fe8a9867ac16c3",
+        "e6ff39dcd8fc36e4d883a9814d27a862b3ca4cab",
+        "6798afdae0d411d54e23577bec00623ec96785ac",
+        "5b989ecf039684594c3eda6d739e8dc2b4916fa2",
+        "9d649a3549017b58cebfd3720f977a2a64c6218d",
+        "2d1389d745d728ffbf2c79dd73641cff71ea806b",
+        "c6333d456fcfc3cca00555ea0a20280300151ebb"
+      ]
+    },
+    {
+      "session_id": "session-1766314441",
+      "query": "marketing analysis trends in indian markets",
+      "timestamp": "2025-12-21T16:24:37.183513",
+      "paper_count": 7,
+      "paper_ids": [
+        "04d9ef6121ef73e9c832eee0ba77ca946bb7d953",
+        "f1ec97686dcae94f3069d154a1d6d4176222a628",
+        "e265739d0626a8f827f6d8de0c37e39e0d761990",
+        "a425982103bf5e11d0839b5e66bf3f925043bed7",
+        "573b186495818e6017e990d5be596099ac661618",
+        "c798b0303f329dccf46ace19cff1a9e2fe0f69ae",
+        "98bd416c46f7a662a40ed7f7a29dffb88aa7b3bb"
+      ]
+    },
+    {
+      "session_id": "session-1766314916",
+      "query": "AI in healthcare",
+      "timestamp": "2025-12-21T16:33:29.009060",
+      "paper_count": 10,
+      "paper_ids": [
+        "0893549771094fac547432cb4f84e9605c911a86",
+        "25361e9582996220625a1823d931b4ed5f5558d3",
+        "70a82befa02fea869b427024ec12146b719f03f6",
+        "d7be5cfac7e5c2ef237b36c9eafa829ffc89250a",
+        "32866c9d54511e6994b70d7df502a866d23d52ec",
+        "d205780b68275f3ff10df8535eb40704855ea6df",
+        "6e74dce9494778ebf61bb200047d2ddea97e3595",
+        "fe5cf165f6e61b26ae21d3887451e688ede2c791",
+        "5879ea12e106e1c243d78e337144e1bc09e21213",
+        "1bf74e900525bc11cf88bc1e7ffff5daac716b4d"
+      ]
+    },
+    {
+      "session_id": "session-1766319858",
+      "query": "AI in healthcare",
+      "timestamp": "2025-12-21T17:55:36.734859",
+      "paper_count": 10,
+      "paper_ids": [
+        "0893549771094fac547432cb4f84e9605c911a86",
+        "25361e9582996220625a1823d931b4ed5f5558d3",
+        "70a82befa02fea869b427024ec12146b719f03f6",
+        "d7be5cfac7e5c2ef237b36c9eafa829ffc89250a",
+        "32866c9d54511e6994b70d7df502a866d23d52ec",
+        "32866c9d54511e6994b70d7df502a866d23d52ec",
+        "d205780b68275f3ff10df8535eb40704855ea6df",
+        "6e74dce9494778ebf61bb200047d2ddea97e3595",
+        "fe5cf165f6e61b26ae21d3887451e688ede2c791",
+        "5879ea12e106e1c243d78e337144e1bc09e21213"
+      ]
+    },
+    {
+      "session_id": "session-1766320774",
+      "query": "AI in healthcare",
+      "timestamp": "2025-12-21T18:11:15.433550",
+      "paper_count": 10,
+      "paper_ids": [
+        "0893549771094fac547432cb4f84e9605c911a86",
+        "25361e9582996220625a1823d931b4ed5f5558d3",
+        "70a82befa02fea869b427024ec12146b719f03f6",
+        "d7be5cfac7e5c2ef237b36c9eafa829ffc89250a",
+        "32866c9d54511e6994b70d7df502a866d23d52ec",
+        "d205780b68275f3ff10df8535eb40704855ea6df",
+        "6e74dce9494778ebf61bb200047d2ddea97e3595",
+        "fe5cf165f6e61b26ae21d3887451e688ede2c791",
+        "5879ea12e106e1c243d78e337144e1bc09e21213",
+        "1bf74e900525bc11cf88bc1e7ffff5daac716b4d"
+      ]
+    },
+    {
+      "session_id": "session-1766321013",
+      "query": "AI in healthcare",
+      "timestamp": "2025-12-21T18:14:55.830333",
+      "paper_count": 10,
+      "paper_ids": [
+        "0893549771094fac547432cb4f84e9605c911a86",
+        "25361e9582996220625a1823d931b4ed5f5558d3",
+        "70a82befa02fea869b427024ec12146b719f03f6",
+        "d7be5cfac7e5c2ef237b36c9eafa829ffc89250a",
+        "d205780b68275f3ff10df8535eb40704855ea6df",
+        "6e74dce9494778ebf61bb200047d2ddea97e3595",
+        "fe5cf165f6e61b26ae21d3887451e688ede2c791",
+        "1bf74e900525bc11cf88bc1e7ffff5daac716b4d",
+        "5879ea12e106e1c243d78e337144e1bc09e21213",
+        "6aa2f7195ae8d0a4eb9c63a02d5495fbecd41c82"
+      ]
+    },
+    {
+      "session_id": "session-1766321327",
+      "query": "AI in healthcare",
+      "timestamp": "2025-12-21T18:19:52.285254",
+      "paper_count": 10,
+      "paper_ids": [
+        "0893549771094fac547432cb4f84e9605c911a86",
+        "25361e9582996220625a1823d931b4ed5f5558d3",
+        "70a82befa02fea869b427024ec12146b719f03f6",
+        "d7be5cfac7e5c2ef237b36c9eafa829ffc89250a",
+        "32866c9d54511e6994b70d7df502a866d23d52ec",
+        "32866c9d54511e6994b70d7df502a866d23d52ec",
+        "d205780b68275f3ff10df8535eb40704855ea6df",
+        "6e74dce9494778ebf61bb200047d2ddea97e3595",
+        "fe5cf165f6e61b26ae21d3887451e688ede2c791",
+        "1bf74e900525bc11cf88bc1e7ffff5daac716b4d"
+      ]
+    },
+    {
+      "session_id": "session-1766321718",
+      "query": "AI in healthcare",
+      "timestamp": "2025-12-21T18:27:02.317616",
+      "paper_count": 10,
+      "paper_ids": [
+        "0893549771094fac547432cb4f84e9605c911a86",
+        "25361e9582996220625a1823d931b4ed5f5558d3",
+        "70a82befa02fea869b427024ec12146b719f03f6",
+        "d7be5cfac7e5c2ef237b36c9eafa829ffc89250a",
+        "32866c9d54511e6994b70d7df502a866d23d52ec",
+        "d205780b68275f3ff10df8535eb40704855ea6df",
+        "6e74dce9494778ebf61bb200047d2ddea97e3595",
+        "fe5cf165f6e61b26ae21d3887451e688ede2c791",
+        "1bf74e900525bc11cf88bc1e7ffff5daac716b4d",
+        "5879ea12e106e1c243d78e337144e1bc09e21213"
+      ]
+    },
+    {
+      "session_id": "session-1766326865",
+      "query": "marketing analysis trends in indian markets",
+      "timestamp": "2025-12-21T19:51:43.982824",
+      "paper_count": 7,
+      "paper_ids": [
+        "04d9ef6121ef73e9c832eee0ba77ca946bb7d953",
+        "f1ec97686dcae94f3069d154a1d6d4176222a628",
+        "e265739d0626a8f827f6d8de0c37e39e0d761990",
+        "a425982103bf5e11d0839b5e66bf3f925043bed7",
+        "573b186495818e6017e990d5be596099ac661618",
+        "c798b0303f329dccf46ace19cff1a9e2fe0f69ae",
+        "98bd416c46f7a662a40ed7f7a29dffb88aa7b3bb"
+      ]
     }
   ],
   "papers": {
@@ -1883,6 +2163,391 @@
       ],
       "pdf_url": "https://doi.org/10.53294/ijfbpr.2024.5.1.0032",
       "retrieved_at": "2025-11-30T14:09:21.912024"
+    },
+    "14c99cb24863d3dc14e092ad35f1534e7d558bf6": {
+      "paper_id": "14c99cb24863d3dc14e092ad35f1534e7d558bf6",
+      "title": "Radiative heat transfer analysis of 37-pin fuel bundle of Indian pressurized heavy water reactor under heat-up condition: experimental, numerical and analytical study",
+      "url": "https://www.semanticscholar.org/paper/14c99cb24863d3dc14e092ad35f1534e7d558bf6",
+      "authors": [
+        "K. Ajay",
+        "Ravi Kumar",
+        "Akhilesh Gupta"
+      ],
+      "publication_year": 2020,
+      "publication_date": "2020-10-09",
+      "journal": "Energy Sources, Part A: Recovery, Utilization, and Environmental Effects",
+      "doi": "10.1080/15567036.2020.1819479",
+      "arxiv_id": "N/A",
+      "keywords": [
+        "Materials Science"
+      ],
+      "abstract": "ABSTRACT Radiative heat transfer between the different components of the nuclear reactor channel (fuel pins, pressure tube (PT) and calandria tube (CT)) is the predominant mechanism of heat transfer in a channel when coolant flow is ceased. In this paper, the thermal behavior of the channel of Indian PHWR that has thirty-seven fuel elements is analyzed for a postulated accident such as loss of coolant accident (LOCA) coupled with the failure of the emergency core cooling system. (ECCS). The analysis has been performed using experimental, numerical and analytical techniques. The experiment is performed under the pseudo-steady-state condition, and the temperature profiles for the different parts of a simulated channel are obtained. The numerical analysis of the above problem is carried out using the ANSYS® Fluent 19.0. The code calculation is compared with the exact solution which is obtained using the radiosity network method. There is a reasonably good agreement between these three types of analysis. The results from these analyzes show that the temperature gradient (along the radial direction) is developed in the fuel bundle simulator (FBS) from the center fuel element to the outer ring fuel element. Also, an insignificant circumferential temperature gradient is observed in the FBS, PT and CT.",
+      "tldr": "",
+      "citation_count": 6,
+      "publication_types": null,
+      "pdf_url": "https://doi.org/10.1080/15567036.2020.1819479",
+      "retrieved_at": "2025-12-21T13:03:12.400758"
+    },
+    "d67bb79f27216841e90c98f90fe666c865dd7faa": {
+      "paper_id": "d67bb79f27216841e90c98f90fe666c865dd7faa",
+      "title": "Scale-resolving simulations of the flow in a nuclear fuel bundle with a channel spacer grid using partially averaged Navier–Stokes and large-eddy simulation",
+      "url": "https://www.semanticscholar.org/paper/d67bb79f27216841e90c98f90fe666c865dd7faa",
+      "authors": [
+        "C. Matozinhos",
+        "Yassin A. Hassan"
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-01-01",
+      "journal": "Physics of Fluids",
+      "doi": "10.1063/5.0131109",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "The objective of this study is to evaluate the capabilities of the Partially Averaged Navier–Stokes (PANS) method in simulations of the flow through a rod bundle representative of a nuclear fuel assembly with a channel-type spacer grid. In the PANS bridging turbulence model, filters can be applied to obtain any level of resolution from Reynolds Averaged Navier–Stokes (RANS) to Direct Numerical Simulation (DNS). The closure model is sensitive to the length-scale cutoff by means of unresolved to total kinetic energy ratio ( fk) and unresolved to total dissipation ratio ([Formula: see text]). Simulations are conducted to study the effect of the cutoff of length scale on the results obtained for flow statistics at selected locations in the domain. The results obtained with different PANS filters are compared with Unsteady RANS (URANS), Large Eddy Simulation (LES), and experiments. The mean and fluctuating flow components are computed at a representative plane located at the inter-channel between rods. Other flow quantities analyzed include the pressure drop upstream and downstream of the spacer grid, the turbulent kinetic energy, and the unresolved eddy viscosity. Additionally, we use the Lumley triangle to study turbulence anisotropy and to compare the nature of the energy content captured with LES and one of the PANS models. It is shown that the PANS model with [Formula: see text], which resolves [Formula: see text] of the turbulent kinetic energy content, captures the most relevant flow physics and is a suitable modeling approach for this application.",
+      "tldr": "",
+      "citation_count": 5,
+      "publication_types": null,
+      "pdf_url": "https://doi.org/10.1063/5.0131109",
+      "retrieved_at": "2025-12-21T13:03:12.400758"
+    },
+    "623cfaac88aaff49401dbac09203ff86cfb29d52": {
+      "paper_id": "623cfaac88aaff49401dbac09203ff86cfb29d52",
+      "title": "Modeling and Visualization of Coolant Flow in a Fuel Rod Bundle of a Small Modular Reactor",
+      "url": "https://www.semanticscholar.org/paper/623cfaac88aaff49401dbac09203ff86cfb29d52",
+      "authors": [
+        "S. Dmitriev",
+        "T. Demkina",
+        "A. Dobrov",
+        "D. Doronkov",
+        "D. Kuritsin",
+        "D. Nikolaev",
+        "A. Pronin",
+        "Anton Riazanov",
+        "D. Solntsev"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-10-08",
+      "journal": "Fluids",
+      "doi": "10.3390/fluids9100235",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "This article presents the results of an experimental study of the coolant flow in a fuel rod bundle of a nuclear reactor fuel assembly of a small modular reactor for a small ground-based nuclear power plant. The aim of the work is to experimentally determine the hydrodynamic characteristics of the coolant flow in a fuel rod bundle of a fuel assembly. For this purpose, experimental studies were conducted in an aerodynamic model that included simulators of fuel elements, burnable absorber rods, spacer grids, a central displacer, and stiffening corners. During the experiments, the water coolant flow was modeled using airflow based on the theory of hydrodynamic similarity. The studies were conducted using the pneumometric method and the contrast agent injection method. The flow structure was visualized by contour plots of axial and tangential velocity, as well as the distribution of the contrast agent. During the experiments, the features of the axial flow were identified, and the structure of the cross-flows of the coolant was determined. The database obtained during the experiments can be used to validate CFD programs, refine the methods of thermal-hydraulic calculation of nuclear reactor cores, and also to justify the design of fuel assemblies.",
+      "tldr": "",
+      "citation_count": 3,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.3390/fluids9100235",
+      "retrieved_at": "2025-12-21T13:03:12.400758"
+    },
+    "1c79943c4ff533cfba0bbc27ab020b92fb642fe4": {
+      "paper_id": "1c79943c4ff533cfba0bbc27ab020b92fb642fe4",
+      "title": "Volumetric Measurements of Mean Velocity Vector and Reynolds Stress Tensor for CFD Validation: Magnetic Resonance Velocimetry in a Nuclear Fuel Assembly Model with Mixing Grids",
+      "url": "https://www.semanticscholar.org/paper/1c79943c4ff533cfba0bbc27ab020b92fb642fe4",
+      "authors": [
+        "K. John",
+        "Swantje Romig",
+        "Markus Rehm",
+        "Hidajet Hadžić",
+        "Peter Pohl",
+        "Sven Grundmann",
+        "M. Bruschewski"
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-01-22",
+      "journal": "Flow, Turbulence and Combustion",
+      "doi": "10.1007/s10494-025-00636-9",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "Experimental studies in industrial-relevant geometries are of great value for validating computational fluid dynamics (CFD). This study provides such data using Magnetic Resonance Velocimetry (MRV) in a replica of the single-phase and isothermal OECD/NEA-KAERI rod bundle benchmark exercise based on the MATiS-H test facility at the Korea Atomic Energy Research Institute (KAERI). The geometry is a 5 × 5 nuclear fuel assembly model of a pressurized water reactor with a split-type mixing grid inducing a swirling flow in each sub-channel. The Reynolds number based on the hydraulic diameter is 50,250. Recent studies demonstrated that MRV enables a comprehensive validation of CFD results in industrial-relevant test cases by providing time-averaged, three-dimensional measurement data from complex opaque structures. Nevertheless, there was still some potential left to improve the accuracy of the measurement. This study uses a newly developed MRV method to accurately measure the mean velocity vectors and the Reynolds stress tensor in three dimensions. The measurement volume reaches from shortly upstream to 10 times the hydraulic diameter downstream of the mixing grid. The estimated mean measurement uncertainty of the velocity data is 1.9% based on the bulk velocity of 1.72 m/s. In the case of the Reynolds stress data, the estimated mean uncertainty for each component is between 0.7 and 1.8% based on the square of the bulk velocity. The comparison to previously published Laser Doppler velocimetry measurements confirms the high accuracy of the reported 3D MRV data. The study includes a detailed description of the technique and boundary conditions. The measurement data is available to interested parties upon request.",
+      "tldr": "",
+      "citation_count": 1,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.1007/s10494-025-00636-9",
+      "retrieved_at": "2025-12-21T13:03:12.400758"
+    },
+    "fa2101fcb1184d2fa1cf1b93fb7ff58e3b8a69d1": {
+      "paper_id": "fa2101fcb1184d2fa1cf1b93fb7ff58e3b8a69d1",
+      "title": "Features of the coolant flow in the fuel rod bundle of the fuel assembly of the RITM reactor of a nuclear icebreaker",
+      "url": "https://www.semanticscholar.org/paper/fa2101fcb1184d2fa1cf1b93fb7ff58e3b8a69d1",
+      "authors": [
+        "С.М. Дмитриев",
+        "Т.Д. Демкина",
+        "А.А. Добров",
+        "Д.В. Доронков",
+        "И.В. Каратушина",
+        "А.Н. Пронин",
+        "А.В. Рязанов",
+        "Д.Н. Солнцев"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-08-14",
+      "journal": "MORSKIE INTELLEKTUAL`NYE TEHNOLOGII)&lt;/msg&gt;",
+      "doi": "10.37220/mit.2024.65.3.035",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "В статье приведены результаты экспериментального изучения особенностей течения теплоносителя в твэльном пучке ТВС кассетной активной зоны ректора РИТМ атомного ледокола. Целью работы является экспериментальное исследование гидродинамических характеристик потока, движущегося в пучке твэлов. Для достижения этой цели была проведена серия экспериментов на масштабной модели, включающей пучок твэлов-имитаторов, имитаторы стержней выгорающего поглотителя, дистанционирующих решеток, центрального вытеснителя, уголков жесткости. Исследования проводили с использованием пневмометрического метода в характерных сечениях по длине модели. Особенности течения теплоносителя визуализированы картограммами аксиальной и тангенциальной скорости потока рабочей среды. В ходе экспериментов были выявлены особенности течения аксиального потока, а также определена структура поперечных течений теплоносителя. Результаты экспериментов использованы при обосновании конструкции твэльного пучка ТВС. Полученная в ходе проведения экспериментов база опытных данных может использоваться для валидации CFD-программы ЛОГОС и уточнения методик теплогидравлического расчета активных зон в поячеечном приближении.\n The article presents the results of an experimental study of the peculiarities of coolant flow in the fuel rod bundle of the fuel assembly of the cassette core of the RITM rector of a nuclear icebreaker. The purpose of the work is to experimentally study the hydrodynamic characteristics of a flow moving in a fuel rod bundle. To achieve this goal, a series of experiments was carried out on a scale model, including a bundle of simulating fuel rods, simulators of burnable absorber rods, spacer grids, a central displacer, and stiffener corners. The studies were carried out using the pneumometric method in characteristic sections along the length of the model. Features of the coolant flow are visualized by cartograms of the axial and tangential flow velocity of the working medium. During the experiments, the features of the axial flow were identified, and the structure of the transverse coolant flows was determined. The experimental results were used to substantiate the design of the FA fuel rod bundle. The experimental data base obtained during the experiments can be used to validate the LOGOS CFD program and refine the methods for thermohydraulic calculation of cores in the cell-by-cell approximation.",
+      "tldr": "",
+      "citation_count": 0,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.37220/mit.2024.65.3.035",
+      "retrieved_at": "2025-12-21T13:03:12.400758"
+    },
+    "cb56909f750fe0dab7e144509ae67d36bc307c32": {
+      "paper_id": "cb56909f750fe0dab7e144509ae67d36bc307c32",
+      "title": "Numerical study of the fuel rod melting and molten material migration behavior using the MPS method",
+      "url": "https://www.semanticscholar.org/paper/cb56909f750fe0dab7e144509ae67d36bc307c32",
+      "authors": [
+        "Yonglin Li",
+        "Sufen Li",
+        "Xingfu Cai",
+        "Yonggang Huo"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-12-01",
+      "journal": "AIP Advances",
+      "doi": "10.1063/5.0240102",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "The catastrophic consequences of nuclear reactor core meltdowns necessitate a comprehensive understanding of fuel rod behavior during severe accidents. This study employs the moving particle semi-implicit (MPS) method to simulate fuel rod melting and molten material migration, capturing complex phenomena such as phase changes, chemical reactions, and fluid dynamics. The developed MPS code integrates models for heat transfer, eutectic reactions, and surface tension, allowing for detailed three-dimensional simulations. Validation of the code is achieved through comparisons with analytical solutions and experimental data from the FROMA experiments. Simulations of Al–Zn substitute material rods show accurate temperature responses and phase transitions, highlighting the impact of radiation heat transfer and molten pool depth on melting behavior. Additional simulations of a single rod and a 2 × 2 rod bundle in a pressurized water reactor under extreme conditions reveal the significant role of atomic diffusion. Mass transfer between the cladding and fuel pellet expands the melting area and facilitates the formation of low-melting-point substances. The high-temperature behavior of the rod bundle demonstrates characteristic patterns, including the downward migration of molten zirconium and the dissolution of unmelted cladding. Analysis of molten UO2 migration within the rod bundle channel illustrates the influence of initial temperature and volume on migration dynamics and Zr cladding dissolution rates. This study offers valuable insights into understanding and mitigating the risks associated with core meltdowns, thereby enhancing nuclear reactor safety.",
+      "tldr": "",
+      "citation_count": 0,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.1063/5.0240102",
+      "retrieved_at": "2025-12-21T13:03:12.400758"
+    },
+    "10bd38673951f5d7729568284093cbd80482ab16": {
+      "paper_id": "10bd38673951f5d7729568284093cbd80482ab16",
+      "title": "Vision Transformers Need Registers",
+      "url": "https://www.semanticscholar.org/paper/10bd38673951f5d7729568284093cbd80482ab16",
+      "authors": [
+        "Timothée Darcet",
+        "Maxime Oquab",
+        "J. Mairal",
+        "Piotr Bojanowski"
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-09-28",
+      "journal": "ArXiv",
+      "doi": "10.48550/arXiv.2309.16588",
+      "arxiv_id": "2309.16588",
+      "keywords": [
+        "Computer Science"
+      ],
+      "abstract": "Transformers have recently emerged as a powerful tool for learning visual representations. In this paper, we identify and characterize artifacts in feature maps of both supervised and self-supervised ViT networks. The artifacts correspond to high-norm tokens appearing during inference primarily in low-informative background areas of images, that are repurposed for internal computations. We propose a simple yet effective solution based on providing additional tokens to the input sequence of the Vision Transformer to fill that role. We show that this solution fixes that problem entirely for both supervised and self-supervised models, sets a new state of the art for self-supervised visual models on dense visual prediction tasks, enables object discovery methods with larger models, and most importantly leads to smoother feature maps and attention maps for downstream visual processing.",
+      "tldr": "This paper identifies and characterize artifacts in feature maps of both supervised and self-supervised ViT networks, and proposes a simple yet effective solution based on providing additional tokens to the input sequence of the Vision Transformer to fill that role.",
+      "citation_count": 590,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2309.16588",
+      "retrieved_at": "2025-12-21T14:24:02.382681"
+    },
+    "5b989ecf039684594c3eda6d739e8dc2b4916fa2": {
+      "paper_id": "5b989ecf039684594c3eda6d739e8dc2b4916fa2",
+      "title": "Statistical Design of Thermal Protection System Using Physics-Informed Neural Network",
+      "url": "https://www.semanticscholar.org/paper/5b989ecf039684594c3eda6d739e8dc2b4916fa2",
+      "authors": [
+        "K. R. Lyathakula",
+        "Aseem Muhammad",
+        "S. Cesmeci"
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-01-30",
+      "journal": "ArXiv",
+      "doi": "10.48550/arXiv.2501.18078",
+      "arxiv_id": "2501.18078",
+      "keywords": [
+        "Computer Science"
+      ],
+      "abstract": "Thermal protection systems (TPS) of space vehicles are designed computationally rather than experimentally. They are validated using ground experiments, but all aspects of the flight cannot be replicated on ground. This ground-to-flight mapping introduces uncertainties which need to be accounted for while designing any thermal protection system. Thus, precise computational models along with uncertainty quantification in the models are required to design the TPS. The focus of this study is to estimate the thermal material parameters of TPS based on the target reliability requirements using statistical methods. To perform uncertainty quantification (UQ) of a system, a simulated model of the system needs to be solved many times on statistical samples, increasing the computational time and cost of the overall process. A physics-informed neural network (PINN) model is used in the analysis instead of traditional physics based numerical solutions. The accuracy of PINN is comparable to that of the numerical solution. To find the parameter distribution, sampling of the parameter space is performed using Sequential Monte- Carlo (SMC) method. The sampling method is efficient as it generates samples based on the target distribution in parallel and it also generates diverse samples for proper UQ. Combining the use of both PINN predictive model and SMC sampling, the framework can approximate the parameter distributions that satisfy the TPS design reliability constraints. The framework achieved remarkable increases in the speed of performing the reliability analysis of the TPS. This reliability analysis can be used for design optimization of the TPS based on risk analysis along with other systems of the vehicle.",
+      "tldr": "Combining the use of both PINN predictive model and SMC sampling, the framework can approximate the parameter distributions that satisfy the TPS design reliability constraints.",
+      "citation_count": 0,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://arxiv.org/pdf/2501.18078.pdf",
+      "retrieved_at": "2025-12-21T15:03:25.220919"
+    },
+    "9d649a3549017b58cebfd3720f977a2a64c6218d": {
+      "paper_id": "9d649a3549017b58cebfd3720f977a2a64c6218d",
+      "title": "Characterization of Guided Waves in Thermal Protection System Using Semi-analytical Finite Element Method",
+      "url": "https://www.semanticscholar.org/paper/9d649a3549017b58cebfd3720f977a2a64c6218d",
+      "authors": [
+        "Hongyuan Wang",
+        "Hengda Zhang",
+        "Jian Wu",
+        "Delin Wu",
+        "Shenping Gao",
+        "Xiaobo Wang",
+        "Pian Jin",
+        "Dengfeng Xu",
+        "Xing-yan Yu",
+        "Kui Cheng",
+        "Lei Yao"
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-03-01",
+      "journal": "Journal of Physics: Conference Series",
+      "doi": "10.1088/1742-6596/2966/1/012006",
+      "arxiv_id": "N/A",
+      "keywords": [
+        "Physics"
+      ],
+      "abstract": "Thermal protection systems (TPSs) are essential to protect reusable hypersonic vehicles from harsh aerothermal environments. This paper investigates guided wave dispersion in TPS using semi-analytical finite element (SAFE) method for further non-destructive testing of the inter-laminar debonding. A theoretical model is developed to describe mode coupling of guided waves between the load-bearing substrate and thermal insulation material. SAFE method is then utilized to obtain 3-D dispersion curves of guided wave modes in typical TPS. Due to the material uncertainty, different damping situations of the thermal insulation material are considered in numerical simulation. Compared with the wavenumber loci of guided wave modes in the load-bearing substrate, those in the intact TPS vary dramatically around the critical frequency due to the coupling effect of the bonded thermal insulation material. Coupling regions of multiple guided wave modes are found under different damping situations. The results show that guided wave modes around the critical frequency are suitable for the evaluation of bonding condition between the load-bearing substrate and thermal insulation material. Overall, the dispersion and attenuation property of guided waves in typical TPS are analyzed. The proposed characterization method provides theoretical support for TPS non-destructive testing using laser-generated guided waves.",
+      "tldr": "",
+      "citation_count": 0,
+      "publication_types": [
+        "JournalArticle",
+        "Conference"
+      ],
+      "pdf_url": "https://doi.org/10.1088/1742-6596/2966/1/012006",
+      "retrieved_at": "2025-12-21T15:03:25.220919"
+    },
+    "2d1389d745d728ffbf2c79dd73641cff71ea806b": {
+      "paper_id": "2d1389d745d728ffbf2c79dd73641cff71ea806b",
+      "title": "Enhanced Ablative Performance of Additively Manufactured Thermoplastic Composites for Lightweight Thermal Protection Systems (TPS)",
+      "url": "https://www.semanticscholar.org/paper/2d1389d745d728ffbf2c79dd73641cff71ea806b",
+      "authors": [
+        "Teodor-Adrian Badea",
+        "Lucia Raluca Maier",
+        "Alexa-Andreea Crisan"
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-09-01",
+      "journal": "Polymers",
+      "doi": "10.3390/polym17182462",
+      "arxiv_id": "N/A",
+      "keywords": [
+        "Medicine"
+      ],
+      "abstract": "The research investigated the potential of five novel additively manufactured (AM) fiber-reinforced thermoplastic composite (FRTPC) configurations as alternatives for ablative thermal protection system (TPS) applications. The thermal stability and ablative behavior of ten samples developed via fused deposition modeling (FDM) three-dimensional (3D) printing out of fire-retardant thermoplastics were investigated using an in-house oxyacetylene torch bench. All samples featured an innovative internal thermal management architecture with three air chambers. Furthermore, the enhancement of thermal benefits was achieved through several approaches: ceramic coating, mechanical hybridization, or continuous fiber reinforcement. For each configuration, two samples were exposed to flame at 1450 ± 50 °C for 30 s and 60 s, respectively, with the front surface subjected to direct exposure at a distance of 100 mm during the ablation tests. Internal temperatures recorded at two back-side contact points remained below 50 °C, well under the 180 °C maximum allowable back-face temperature for TPS during testing. Continuous reinforced configurations 4 and 5 displayed higher thermal stability the lowest values in terms of thickness, mass loss, and recession rates. Both configurations showed half of the weight losses measured for the other tested configurations, ranging from approximately 5% (30 s) to 10–12% (60 s), confirming the trend observed in the thickness loss measurements. However, continuous glass-reinforced configuration 5 exhibited the lowest weight loss values for both exposure durations, benefiting from its non-combustible nature, low thermal conductivity, and high abrasion resistance intrinsic characteristics. In particular, the Al2O3 surface coated configuration 1 showed a mass loss comparable to reinforced configurations, indicating that an enhanced surface coat adhesion could provide a potential benefit. A key outcome of the study was the synergistic effect of the novel air chamber architecture, which reduces thermal conductivity by forming small internal air pockets, combined with the continuous front-wall fiber reinforcement functioning as a thermal and abrasion barrier. This remains a central focus for future research and optimization.",
+      "tldr": "",
+      "citation_count": 0,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://doi.org/10.3390/polym17182462",
+      "retrieved_at": "2025-12-21T15:03:25.220919"
+    },
+    "04d9ef6121ef73e9c832eee0ba77ca946bb7d953": {
+      "paper_id": "04d9ef6121ef73e9c832eee0ba77ca946bb7d953",
+      "title": "A Black Swan event-based hybrid model for Indian stock markets’ trends prediction",
+      "url": "https://www.semanticscholar.org/paper/04d9ef6121ef73e9c832eee0ba77ca946bb7d953",
+      "authors": [
+        "Samit Bhanja",
+        "Abhishek Das"
+      ],
+      "publication_year": 2022,
+      "publication_date": "2022-01-07",
+      "journal": "Innovations in Systems and Software Engineering",
+      "doi": "10.1007/s11334-021-00428-0",
+      "arxiv_id": "N/A",
+      "keywords": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "abstract": "Among all the application areas of the time-series prediction, stock market prediction is the most challenging task due to its dynamic nature, and dependency on many volatile factors. The unpredictable fatal events called Black Swan events also highly influence the stock market. If the successful stock trends prediction is achieved, then the investors can adopt a more appropriate trading strategy, and that can significantly reduce the risk of investment. In this work, a time-efficient hybrid stock trends prediction framework(HSTPF) is proposed to successfully predict the future trends of the stock market even during the periods of Black Swan events. Here, to improve the prediction accuracy of HSTPF, the Black Swan events analysis and features selection operations are performed, and also the performance of various machine learning classifiers are analyzed. A vast number of experiments are conducted on the two real-world stock market datasets S&P BSE SENSEX and Nifty 50, to analyze the performance of the proposed framework. The framework is applied for the single-step and multi-step ahead predictions. The experimental results show that the proposed framework produces over 86% of accuracy, and during the Black Swan events, its accuracy is almost 80% for single-step ahead predictions. For the multi-step ahead of predictions, the HSTPF is produced satisfactory results. The framework also outperforms other existing similar works even during the Black Swan events in terms of prediction accuracy, and its computational time is also very low.",
+      "tldr": "A time-efficient hybrid stock trends prediction framework (HSTPF) is proposed to successfully predict the future trends of the stock market even during the periods of Black Swan events and outperforms other existing similar works in terms of prediction accuracy.",
+      "citation_count": 30,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11334-021-00428-0.pdf",
+      "retrieved_at": "2025-12-21T16:24:13.891706"
+    },
+    "f1ec97686dcae94f3069d154a1d6d4176222a628": {
+      "paper_id": "f1ec97686dcae94f3069d154a1d6d4176222a628",
+      "title": "A Comprehensive Review of Sentiment Analysis on Indian Regional Languages: Techniques, Challenges, and Trends",
+      "url": "https://www.semanticscholar.org/paper/f1ec97686dcae94f3069d154a1d6d4176222a628",
+      "authors": [
+        "Sunil D. Kale",
+        "Rajesh Prasad",
+        "Girish P. Potdar",
+        "P. Mahalle",
+        "Deepak T. Mane",
+        "G. D. Upadhye"
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-08-31",
+      "journal": "International Journal on Recent and Innovation Trends in Computing and Communication",
+      "doi": "10.17762/ijritcc.v11i9s.7401",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "Sentiment analysis (SA) is the process of understanding emotion within a text. It helps identify the opinion, attitude, and tone of a text categorizing it into positive, negative, or neutral. SA is frequently used today as more and more people get a chance to put out their thoughts due to the advent of social media. Sentiment analysis benefits industries around the globe, like finance, advertising, marketing, travel, hospitality, etc. Although the majority of work done in this field is on global languages like English, in recent years, the importance of SA in local languages has also been widely recognized. This has led to considerable research in the analysis of Indian regional languages. This paper comprehensively reviews SA in the following major Indian Regional languages: Marathi, Hindi, Tamil, Telugu, Malayalam, Bengali, Gujarati, and Urdu. Furthermore, this paper presents techniques, challenges, findings, recent research trends, and future scope for enhancing results accuracy.",
+      "tldr": "This paper comprehensively reviews SA in the following major Indian Regional languages: Marathi, Hindi, Tamil, Telugu, Malayalam, Bengali, Gujarati, and Urdu.",
+      "citation_count": 5,
+      "publication_types": [
+        "JournalArticle",
+        "Review"
+      ],
+      "pdf_url": "https://ijritcc.org/index.php/ijritcc/article/download/7401/6206",
+      "retrieved_at": "2025-12-21T16:24:13.891706"
+    },
+    "d205780b68275f3ff10df8535eb40704855ea6df": {
+      "paper_id": "d205780b68275f3ff10df8535eb40704855ea6df",
+      "title": "Managing Risk and Quality of AI in Healthcare: Are Hospitals Ready for Implementation?",
+      "url": "https://www.semanticscholar.org/paper/d205780b68275f3ff10df8535eb40704855ea6df",
+      "authors": [
+        "Arian Ranjbar",
+        "E. Mork",
+        "Jesper Ravn",
+        "Helga Brøgger",
+        "Per Myrseth",
+        "Hans Peter Østrem",
+        "Harry Hallock"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-04-01",
+      "journal": "Risk Management and Healthcare Policy",
+      "doi": "10.2147/RMHP.S452337",
+      "arxiv_id": "N/A",
+      "keywords": [
+        "Medicine"
+      ],
+      "abstract": "Abstract Artificial intelligence (AI) provides a unique opportunity to help meet the demands of the future healthcare system. However, hospitals may not be well equipped to handle safe and effective development and/or procurement of AI systems. Furthermore, upcoming regulations such as the EU AI Act may enforce the need to establish new management systems, quality assurance and control mechanisms, novel to healthcare organizations. This paper discusses challenges in AI implementation, particularly potential gaps in current management systems (MS), by reviewing the harmonized standard for AI MS, ISO 42001, as part of a gap analysis of a tertiary acute hospital with ongoing AI activities. Examination of the industry agnostic ISO 42001 reveals a technical debt within healthcare, aligning with previous research on digitalization and AI implementation. To successfully implement AI with quality assurance in mind, emphasis should be put on the foundation and structure of the healthcare organizations, including both workforce and data infrastructure.",
+      "tldr": "Challenges in AI implementation, particularly potential gaps in current management systems (MS), are discussed by reviewing the harmonized standard for AI MS, ISO 42001, as part of a gap analysis of a tertiary acute hospital with ongoing AI activities.",
+      "citation_count": 13,
+      "publication_types": [
+        "JournalArticle",
+        "Review"
+      ],
+      "pdf_url": "https://www.dovepress.com/getfile.php?fileID=98252",
+      "retrieved_at": "2025-12-21T16:32:04.315808"
+    },
+    "1bf74e900525bc11cf88bc1e7ffff5daac716b4d": {
+      "paper_id": "1bf74e900525bc11cf88bc1e7ffff5daac716b4d",
+      "title": "The unmet promise of trustworthy AI in healthcare: why we fail at clinical translation",
+      "url": "https://www.semanticscholar.org/paper/1bf74e900525bc11cf88bc1e7ffff5daac716b4d",
+      "authors": [
+        "Valerie K. Bürger",
+        "J. Amann",
+        "Cathrine K. T. Bui",
+        "Jana Fehr",
+        "V. Madai"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-04-18",
+      "journal": "Frontiers in Digital Health",
+      "doi": "10.3389/fdgth.2024.1279629",
+      "arxiv_id": "N/A",
+      "keywords": [
+        "Medicine",
+        "Computer Science"
+      ],
+      "abstract": "Artificial intelligence (AI) has the potential to revolutionize healthcare, for example via decision support systems, computer vision approaches, or AI-based prevention tools. Initial results from AI applications in healthcare show promise but are rarely translated into clinical practice successfully and ethically. This occurs despite an abundance of “Trustworthy AI” guidelines. How can we explain the translational gaps of AI in healthcare? This paper offers a fresh perspective on this problem, showing that failing translation of healthcare AI markedly arises from a lack of an operational definition of “trust” and “trustworthiness”. This leads to (a) unintentional misuse concerning what trust (worthiness) is and (b) the risk of intentional abuse by industry stakeholders engaging in ethics washing. By pointing out these issues, we aim to highlight the obstacles that hinder translation of Trustworthy medical AI to practice and prevent it from fulfilling its unmet promises.",
+      "tldr": "It is shown that failing translation of healthcare AI markedly arises from a lack of an operational definition of “trust” and “trustworthiness”, which leads to unintentional misuse concerning what trust (worthiness) is and the risk of intentional abuse by industry stakeholders engaging in ethics washing.",
+      "citation_count": 10,
+      "publication_types": [
+        "JournalArticle"
+      ],
+      "pdf_url": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2024.1279629/pdf",
+      "retrieved_at": "2025-12-21T16:32:04.315808"
     }
   }
 }

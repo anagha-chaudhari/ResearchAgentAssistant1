@@ -1,13 +1,13 @@
 import google.generativeai as genai
 import json
 import re
-
+from tools.section_assembler import assemble_sections
 class SummarizerAgent:
     def __init__(self, gemini_api_key, model_name="gemini-2.5-flash-lite"):
         genai.configure(api_key=gemini_api_key)
         self.model = genai.GenerativeModel(model_name)
 
-    def summarize(self, paper_list, rag=None):
+    def summarize(self, topic: str, paper_list, rag=None):
         summaries = []
         all_gaps = []
         all_methods = []
@@ -39,7 +39,11 @@ class SummarizerAgent:
         all_citations = list({c.strip() for c in all_citations if c.strip()})
 
         proposed_methodology = self._propose_methodology(all_gaps, all_methods, all_baselines, all_datasets)
-
+        section_content= assemble_sections(topic,paper_list)
+        section_content["datasets"] = all_datasets
+        section_content["baselines"] = all_baselines
+        section_content["research_gaps"] = all_gaps
+        section_content["methodology"] = proposed_methodology
         return {
             "per_paper": summaries,
             "collected_gaps": all_gaps,
@@ -48,6 +52,7 @@ class SummarizerAgent:
             "collected_datasets": all_datasets,
             "collected_citations": all_citations,
             "proposed_methodology": proposed_methodology,
+            "section_content": section_content
         }
 
     def _summarize_single_paper(self, paper,extra_context: str = ""):

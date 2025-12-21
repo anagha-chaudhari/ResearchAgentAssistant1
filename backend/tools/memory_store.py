@@ -16,6 +16,7 @@ def _get_topic_bucket(topic: str) -> Dict[str, Any]:
             "gaps": [],
             "citations": [],
             "experiment_plan": None,
+            "section_content": {}
         }
     return _MEMORY_DB[topic]
 
@@ -60,6 +61,10 @@ def save_experiment_plan(topic: str, plan: Dict[str, Any]) -> Dict[str, Any]:
     bucket["experiment_plan"] = plan
     return {"status": "ok"}
 
+def save_section_content(topic: str, section_content: Dict[str, Any]):
+    bucket = _get_topic_bucket(topic)
+    bucket["section_content"] = section_content
+    return {"status": "ok"}
 
 # ---------- READ OPERATIONS ----------
 
@@ -89,3 +94,55 @@ def get_experiment_plan(topic: str) -> Dict[str, Any]:
     if not bucket or not bucket["experiment_plan"]:
         return {"status": "not_found", "experiment_plan": None}
     return {"status": "ok", "experiment_plan": bucket["experiment_plan"]}
+
+def get_section_content(topic: str):
+    bucket = _MEMORY_DB.get(topic)
+    if not bucket or not bucket.get("section_content"):
+        return {"status": "not_found", "section_content": {}}
+    return {"status": "ok", "section_content": bucket["section_content"]}
+
+
+def save_section_content(topic: str, section_content: Dict[str, Any]):
+    bucket = _get_topic_bucket(topic)
+    bucket["section_content"] = section_content
+    return {"status": "ok"}
+
+
+def save_datasets(topic: str, datasets: List[str]):
+    bucket = _get_topic_bucket(topic)
+    bucket["datasets"] = datasets
+    return {"status": "ok"}
+
+
+def save_methodology(topic: str, methodology: str):
+    bucket = _get_topic_bucket(topic)
+    bucket["methodology"] = methodology
+    return {"status": "ok"}
+
+
+def save_baselines(topic: str, baselines: List[str]):
+    bucket = _get_topic_bucket(topic)
+    bucket["baselines"] = baselines
+    return {"status": "ok"}
+
+
+def get_section_content(topic: str):
+    bucket = _MEMORY_DB.get(topic)
+    if not bucket or not bucket.get("section_content"):
+        return {"status": "not_found", "section_content": {}}
+    return {"status": "ok", "section_content": bucket["section_content"]}
+
+
+def get_datasets(topic: str):
+    bucket = _MEMORY_DB.get(topic)
+    return bucket.get("datasets", []) if bucket else []
+
+
+def get_methodology(topic: str):
+    bucket = _MEMORY_DB.get(topic)
+    return bucket.get("methodology", "") if bucket else ""
+
+
+def get_baselines(topic: str):
+    bucket = _MEMORY_DB.get(topic)
+    return bucket.get("baselines", []) if bucket else []

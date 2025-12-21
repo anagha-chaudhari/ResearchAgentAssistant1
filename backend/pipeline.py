@@ -21,7 +21,6 @@ from fastapi import APIRouter
 router = APIRouter()
 
 
-
 report_writer=ReportWriterAgent()
 PROCESS_PIPELINE={}
 # ---------- ENV VARS ----------
@@ -38,8 +37,6 @@ if not all([SEMANTIC_SCHOLAR_API_KEY, GEMINI_API_KEY]):
 
 class ReportRequest(BaseModel):
     topic: str
-
-
 
 # ---------- MODELS ----------
 class PipelineRequest(BaseModel):
@@ -114,6 +111,10 @@ def _sync_analysis_to_memory_store(
         )
     if citations_bucket:
         memory_store.save_citations(topic, citations_bucket)
+        
+    section_content = analysis.get("section_content")
+    if section_content:
+        memory_store.save_section_content(topic, section_content)
 
 
 # ---------- PIPELINE ENDPOINT ----------
@@ -194,7 +195,10 @@ async def run_pipeline(req: PipelineRequest):
         datasets = retrieval.search_datasets(topic, num_results=5)
 
     # ---------- 3. Summarization ----------
-    analysis = summarizer.summarize(papers, rag=rag)
+    analysis = summarizer.summarize(paper_list=papers, topic=topic,rag=rag)
+    if "section_content" in analysis:
+        memory_store.save_section_content(topic, analysis["section_content"])
+        
     PROCESS_PIPELINE[session_id]=3
     # ---------- 4. Evaluation ----------
     is_valid, evaluation_report, recommendations = evaluator.evaluate_analysis(
@@ -219,11 +223,26 @@ async def run_pipeline(req: PipelineRequest):
     report_markdown = await report_writer.run(
         {"topic": topic, "format": "markdown"}
     )
-    save_report(topic,report_markdown['content'])
+    if report_markdown.get("status") != "ok":
+        return {
+            "status": "error",
+            "message": "Markdown report generation failed",
+            "details": report_markdown
+        }
+    save_report(topic, report_markdown["content"])
+    
     report_latex = await report_writer.run(
         {"topic": topic, "format": "latex"}
     )
-    save_report(topic,report_latex['content'])
+    if report_latex.get("status") != "ok":
+        return {
+            "status": "error",
+            "message": "LaTeX report generation failed",
+            "details": report_latex
+        }
+
+    save_report(topic, report_latex["content"])
+
     PROCESS_PIPELINE[session_id]=6
     
     return {
