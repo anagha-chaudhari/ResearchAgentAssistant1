@@ -7,7 +7,7 @@ class SummarizerAgent:
         genai.configure(api_key=gemini_api_key)
         self.model = genai.GenerativeModel(model_name)
 
-    def summarize(self, paper_list):
+    def summarize(self, paper_list, rag=None):
         summaries = []
         all_gaps = []
         all_methods = []
@@ -16,7 +16,14 @@ class SummarizerAgent:
         all_citations = []
 
         for paper in paper_list:
-            result = self._summarize_single_paper(paper)
+            context = ""
+            if rag is not None and paper.get("paper_id"):
+                context = rag.get_context(
+                    query=f"Key contributions, methods, datasets, results and limitations for: {paper.get('title','')}",
+                    paper_id=paper.get("paper_id"),
+                    top_k=6,
+                )
+            result = self._summarize_single_paper(paper,extra_context=context)
             summaries.append(result)
             all_gaps.extend(result.get("gaps", []))
             all_methods.extend(result.get("methods", []))
@@ -43,7 +50,8 @@ class SummarizerAgent:
             "proposed_methodology": proposed_methodology,
         }
 
-    def _summarize_single_paper(self, paper):
+    def _summarize_single_paper(self, paper,extra_context: str = ""):
+        context_block = f"\n\nFull‑text context snippets from the paper:\n{extra_context}\n" if extra_context else ""
         prompt = f"""
 Analyze the following research paper's fields and provide structured JSON output as below.
 
@@ -54,6 +62,7 @@ Authors: {', '.join(paper.get('authors', []))}
 Year: {paper.get('publication_year', '')}
 Abstract: {paper.get('abstract', '')}
 TLDR: {paper.get('tldr', '')}
+{context_block}
 
 JSON format only:
 {{

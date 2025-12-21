@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import time
 
-API_URL = "https://aimrs-research-backend.hf.space"
+API_URL = "http://127.0.0.1:8000"
 
 st.set_page_config(page_title="AI Research Assistant", layout="wide")
 
@@ -104,8 +104,12 @@ if st.button("🔄 Load Report History"):
         st.error(f"Failed to load history: {str(e)}")
 
 # ---------------- INPUT ----------------
-topic = st.text_input(" Enter Research Topic", placeholder="topic...")
-run_btn = st.button("🚀 Run Research")
+with st.form("research_form"):
+    topic = st.text_input(
+        " Enter Research Topic",
+        placeholder="topic..."
+    )
+    run_btn = st.form_submit_button("🚀 Run Research")
 
 # ---------------- STEPPER PROGRESS TRACKER ----------------
 def render_stepper(step):

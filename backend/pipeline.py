@@ -15,6 +15,12 @@ from tools import memory_store
 from tools.report_history import save_report            
 from fastapi.responses import FileResponse
 from fastapi.middleware.cors import CORSMiddleware
+from agents.rag_agent import ResearchRAG
+from fastapi import APIRouter
+
+router = APIRouter()
+
+
 
 report_writer=ReportWriterAgent()
 PROCESS_PIPELINE={}
@@ -33,24 +39,12 @@ if not all([SEMANTIC_SCHOLAR_API_KEY, GEMINI_API_KEY]):
 class ReportRequest(BaseModel):
     topic: str
 
-# ---------- FastAPI APP ----------
-app = FastAPI(title="Research API")
-
-# (optional) allow local frontends / notebooks
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
 
 
 # ---------- MODELS ----------
 class PipelineRequest(BaseModel):
     topic: str
-    task_type: str = "thermal_simulation"
-    max_papers: int = 8
+    max_papers: int = 10
     years_back: int = 3
 
 
@@ -123,7 +117,7 @@ def _sync_analysis_to_memory_store(
 
 
 # ---------- PIPELINE ENDPOINT ----------
-@app.post("/run_pipeline")
+@router.post("/run_pipeline")
 async def run_pipeline(req: PipelineRequest):
     """
     Full pipeline:
@@ -162,6 +156,7 @@ async def run_pipeline(req: PipelineRequest):
 
     designer = DesignerAgent()
     report_writer = ReportWriterAgent()
+    rag=ResearchRAG(gemini_api_key=GEMINI_API_KEY)
 
     topic = req.topic.strip()
     if not topic:
@@ -182,6 +177,13 @@ async def run_pipeline(req: PipelineRequest):
             "status": "error",
             "message": "No papers retrieved from Semantic Scholar.",
         }
+    
+    rag.ingest_papers(papers)
+    core_paper_ids= [p["paper_id"] for p in papers if p.get("paper_id")]
+    stats = rag.get_coverage_stats()
+    print(f"[RAG] Coverage: {stats['full_text_papers']}/{stats['total_papers_indexed']} full-text, "
+      f"{stats['abstract_only_papers']} abstract-only, {stats['total_chunks']} chunks total")
+
 
     # Store raw papers in JSON memory file
     json_memory.store_papers(session_id, topic, papers)
@@ -192,7 +194,7 @@ async def run_pipeline(req: PipelineRequest):
         datasets = retrieval.search_datasets(topic, num_results=5)
 
     # ---------- 3. Summarization ----------
-    analysis = summarizer.summarize(papers)
+    analysis = summarizer.summarize(papers, rag=rag)
     PROCESS_PIPELINE[session_id]=3
     # ---------- 4. Evaluation ----------
     is_valid, evaluation_report, recommendations = evaluator.evaluate_analysis(
@@ -210,7 +212,6 @@ async def run_pipeline(req: PipelineRequest):
     design_result = await designer.run(
         {
             "topic": topic,
-            "task_type": req.task_type,
         }
     )
     PROCESS_PIPELINE[session_id]=5
@@ -247,7 +248,7 @@ async def run_pipeline(req: PipelineRequest):
     }
     
 #endpoint for downloading markdown
-@app.post("/download")
+@router.post("/download")
 async def download_report(req: ReportRequest):
     result = await report_writer.run({
         "topic": req.topic,
@@ -270,7 +271,7 @@ async def download_report(req: ReportRequest):
         filename=filename
     )
 #endpoint for downloading zip file(overleaf)
-@app.post("/download-zip")
+@router.post("/download-zip")
 async def download_overleaf(req: ReportRequest):
 
     import zipfile
@@ -322,12 +323,12 @@ async def download_overleaf(req: ReportRequest):
         filename=zip_name
     )
 #endpoint to save history 
-@app.get("/history")
+@router.get("/history")
 async def get_history():
     from tools.report_history import load_reports
     return {"history":load_reports()}
 #progress tracker
-@app.get("/progress/{id}")
+@router.get("/progress/{id}")
 def get_progress(id: str):
     return {
         "id":id,

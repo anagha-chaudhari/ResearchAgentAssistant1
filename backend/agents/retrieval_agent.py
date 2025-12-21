@@ -35,7 +35,7 @@ class RetrievalAgent:
                 best_papers = filtered
                 break
             year_window = 8
-        
+         
         sorted_papers = sorted(
             best_papers, 
             key=lambda x: (x.get('citationCount', 0), x.get('year', 0)), 
@@ -101,7 +101,7 @@ class RetrievalAgent:
         for _ in range(2):
             params = {
                 "query": topic,
-                "fields": "paperId,title,url,abstract,authors,year,citationCount,tldr,externalIds,publicationTypes,publicationDate,journal,fieldsOfStudy",
+                "fields": "paperId,title,url,abstract,authors,year,citationCount,tldr,externalIds,publicationTypes,publicationDate,journal,fieldsOfStudy,openAccessPdf,isOpenAccess",
                 "limit": self.max_results,
                 "offset": offset,
                 "year": f"{from_year}-{datetime.now().year}"
@@ -178,7 +178,12 @@ class RetrievalAgent:
         return structured_papers
 
     def _construct_pdf_url(self, paper):
-        """Construct PDF URL from available identifiers"""
+        """Construct PDF URL from available identifiers,prioritizing open access"""
+        if paper.get('isOpenAccess') and paper.get('openAccessPdf'):
+            open_pdf = paper['openAccessPdf'].get('url')
+            if open_pdf:
+                return open_pdf
+            
         external_ids = paper.get('externalIds', {})
         
         # Try ArXiv first
