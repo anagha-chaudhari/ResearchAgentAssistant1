@@ -581,6 +581,24 @@
         "c798b0303f329dccf46ace19cff1a9e2fe0f69ae",
         "98bd416c46f7a662a40ed7f7a29dffb88aa7b3bb"
       ]
+    },
+    {
+      "session_id": "session-1766337936",
+      "query": "Sentiment analysis neural networking",
+      "timestamp": "2025-12-21T22:56:35.949930",
+      "paper_count": 10,
+      "paper_ids": [
+        "d9116e21b9a4dbd5a7c75c99612d41fe70ba460d",
+        "12b70cbb4f888429f9395dcc8e3f3704570a0764",
+        "295015c27183a866d2611f1391029f8308de3852",
+        "cf594f16ff3032ef597ca7ad4c60eb638a37de86",
+        "90177c93412c8ea1540af5d1664550bb6b969cb9",
+        "200b88dd80eb673ec23a8ad614ec3785a4bc2068",
+        "4919795d4f10ba69dda33332867c9cbbb66584a2",
+        "edced6aaa31f664553e7cb3e7086f53f2b5e1b10",
+        "9af9860e131db1281461109f45e9794b067254ec",
+        "b31017046a9be919a2e200b25eb00da0f9fb4694"
+      ]
     }
   ],
   "papers": {
@@ -2548,6 +2566,282 @@
       ],
       "pdf_url": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2024.1279629/pdf",
       "retrieved_at": "2025-12-21T16:32:04.315808"
+    },
+    "d9116e21b9a4dbd5a7c75c99612d41fe70ba460d": {
+      "paper_id": "d9116e21b9a4dbd5a7c75c99612d41fe70ba460d",
+      "title": "An Empirical Study on Developing Stacking Ensemble Model for Bangla Sports Sentiment Analysis",
+      "url": "https://www.semanticscholar.org/paper/d9116e21b9a4dbd5a7c75c99612d41fe70ba460d",
+      "authors": [
+        "Kamrul Golder",
+        "Md. Shymon Islam",
+        "Fahim Faisal Tarun",
+        "Plabon Biswas",
+        "Shahanaj Akter"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-06-24",
+      "journal": "2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+      "doi": "10.1109/ICCCNT61001.2024.10723935",
+      "arxiv_id": "N/A",
+      "keywords": [
+        "Computer Science"
+      ],
+      "abstract": "Bangladeshi people have a strong connection with sports, evident in the multitude of comments made before and after games regarding their favorite teams. Sports sentiment analysis is conducted to understand public sentiments in the realm of sports. In this work, we proposed a new sports based sentiment dataset extracted from YouTube comments covering football, cricket, traditional local games and others, totaling 82,612 instances which is publicly available in the repository https://github.com/cseku170202/Bangla-Sports-Sentiment-Analysis. Our empirical study considered the use of various trendy machine learning (ML) and deep learning (DL) methods. Specifically, we utilized Convolutional Neural Network (CNN) and Transformer Neural Network (TNN) as deep learning methods and Multinomial Naive Bayes (MNB), Random Forest (RF), and KNearest Neighbors (KNN) as machine learning techniques. Furthermore, we examined 48 different stacking ensemble models by combining these machine learning and deep learning algorithms. Subsequently, our proposed stacking model achieved the highest accuracy of 81%, demonstrating its capability to identify sports sentiments with remarkable F1-score of 0.82. To explain model’s interpretability, we utilized several Explainable AI techniques to better understand the impact of the base model in the stacking model output.",
+      "tldr": "",
+      "citation_count": 6,
+      "publication_types": [
+        "JournalArticle",
+        "Conference"
+      ],
+      "pdf_url": "https://doi.org/10.1109/ICCCNT61001.2024.10723935",
+      "retrieved_at": "2025-12-21T22:55:42.633371"
+    },
+    "12b70cbb4f888429f9395dcc8e3f3704570a0764": {
+      "paper_id": "12b70cbb4f888429f9395dcc8e3f3704570a0764",
+      "title": "A systematic review of NLP methods for Sentiment classification of Online News Articles",
+      "url": "https://www.semanticscholar.org/paper/12b70cbb4f888429f9395dcc8e3f3704570a0764",
+      "authors": [
+        "Oruganti John Prasad",
+        "Subham Nandi",
+        "Varun Dogra",
+        "Dammu Sai Diwakar"
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-07-06",
+      "journal": "2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+      "doi": "10.1109/ICCCNT56998.2023.10308056",
+      "arxiv_id": "N/A",
+      "keywords": [
+        "Computer Science"
+      ],
+      "abstract": "Natural language processing (NLP) has developed into an essential field that includes sentiment analysis of news articles. It consists of the automatic identification of sentiment in articles using NLP models, which might give businesses, decision-makers, and the general public information that is helpful. Many NLP models have been published in this field for the sentiment analysis of online news articles. Some of the models in this area include VADER, TextBlob, Support Vector Machines (SVM) and Naive Bayes, Recurrent Neural Networks (RNNs), and Transformer-based models. The rule-based technology VADER provides sentiment scores to the text’s words. TextBlob classifies a text’s sentiment using machine learning methods. The methods for probabilistic machine learning Text are categorized using Naive Bayes and SVM based on the frequency of phrases. RNNs analyze text one word at a time and use the previous words to predict how the next word will sound. Transformer-based models can be customized for sentiment analysis and come pre-trained on a lot of text, including BERT, RoBERTa, and GPT-2. The model selection depends on the project’s unique requirements. Overall, NLP models for sentiment analysis of online news articles have the potential to offer insightful information for decision-making across a range of fields. In this paper, the review of different approaches and models for performing sentiment classification on online news articles is provided and the reader may be able to find the application of sentiment analysis in the domains of their interest.",
+      "tldr": "",
+      "citation_count": 6,
+      "publication_types": [
+        "JournalArticle",
+        "Conference",
+        "Review"
+      ],
+      "pdf_url": "https://doi.org/10.1109/ICCCNT56998.2023.10308056",
+      "retrieved_at": "2025-12-21T22:55:42.633371"
+    },
+    "295015c27183a866d2611f1391029f8308de3852": {
+      "paper_id": "295015c27183a866d2611f1391029f8308de3852",
+      "title": "Revolutionizing Customer Experience Through NLP and Sentiment Analysis Strategies",
+      "url": "https://www.semanticscholar.org/paper/295015c27183a866d2611f1391029f8308de3852",
+      "authors": [
+        "Ridhi Deora",
+        "Sivakumar Ramakrishnan",
+        "Rahul Prathikantam",
+        "Shantanu Seth"
+      ],
+      "publication_year": 2025,
+      "publication_date": "2025-02-06",
+      "journal": "2025 2nd International Conference on Computational Intelligence, Communication Technology and Networking (CICTN)",
+      "doi": "10.1109/cictn64563.2025.10932467",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "The objective of this paper is to highlight Bidirectional Long Short-Term Memory (BiLSTM) neural network’s role in improving Customer Experience (CX). Sentiment Analysis (SA) and Natural Language Processing (NLP) are used as primary methodology for interpreting real-time customer feedback and preferences. BiLSTM models can comprehend contextual understanding at a high level because it analyzes text bidirectionally. They are good models for reviews, social media post, or chat log analyses. This research work analyzes the effectiveness of BiLSTM for sentiment-driven decision-making, in real-time analysis of feedback, and customer engagement based on their personalized characteristics. As shown in the results section, although the model excelled at positivity detection, limitations with neutrality and negativity detection existed, attributed to imbalances within the dataset. Some integration concerns and scalability challenges along with some ethical issues concerning the algorithms like mitigating bias have been analyzed. The research offers a systematic framework to deploy BiLSTM towards customer-centric innovation.",
+      "tldr": "",
+      "citation_count": 5,
+      "publication_types": [
+        "Conference",
+        "Review"
+      ],
+      "pdf_url": "https://doi.org/10.1109/cictn64563.2025.10932467",
+      "retrieved_at": "2025-12-21T22:55:42.633371"
+    },
+    "cf594f16ff3032ef597ca7ad4c60eb638a37de86": {
+      "paper_id": "cf594f16ff3032ef597ca7ad4c60eb638a37de86",
+      "title": "Potential Approach for Text-Based Emotion Detection Using NLP Coupled With Deep Learning of Sentiment Analysis",
+      "url": "https://www.semanticscholar.org/paper/cf594f16ff3032ef597ca7ad4c60eb638a37de86",
+      "authors": [
+        "Gurpreet Singh",
+        "Deependra Singh",
+        "Ruchi Sharma",
+        "K. Bhardwaj"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-06-24",
+      "journal": "2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+      "doi": "10.1109/ICCCNT61001.2024.10726266",
+      "arxiv_id": "N/A",
+      "keywords": [
+        "Computer Science"
+      ],
+      "abstract": "Sentiment analysis is a valuable method for gauging people’s sentiments and emotions towards various subjects. Within this realm, emotion detection stands out by predicting specific emotions rather than categorizing them broadly as positive, negative, or neutral. While previous research has predominantly focused on emotion recognition through speech and facial expressions, text-based emotion detection poses distinct challenges due to the absence of cues like tonal stress and facial expressions. Addressing these challenges, natural language processing (NLP) techniques have been employed in the past, including the keyword approach, lexicon-based approach, and machine learning approach. However, keyword- and lexicon-based strategies have limitations, particularly in handling semantic relations. In this study, a propose novel hybrid model that combines machine learning and deep learning, specifically utilizing a sequential neural network architecture. The model includes embedding layers, flattening, and dense layers. The effectiveness of our approach is demonstrated through training on a diverse dataset encompassing sentences, tweets, and dialogs. Remarkably, our model achieves a high accuracy of the validation data, underscoring its efficacy in text-based emotion detection without relying on existing content.",
+      "tldr": "",
+      "citation_count": 3,
+      "publication_types": [
+        "JournalArticle",
+        "Conference"
+      ],
+      "pdf_url": "https://doi.org/10.1109/ICCCNT61001.2024.10726266",
+      "retrieved_at": "2025-12-21T22:55:42.633371"
+    },
+    "90177c93412c8ea1540af5d1664550bb6b969cb9": {
+      "paper_id": "90177c93412c8ea1540af5d1664550bb6b969cb9",
+      "title": "Sentiment Analysis of Hybrid Network Model",
+      "url": "https://www.semanticscholar.org/paper/90177c93412c8ea1540af5d1664550bb6b969cb9",
+      "authors": [
+        "Wenqian Shang",
+        "Hongzhan Zhen",
+        "Wanyu Zhang"
+      ],
+      "publication_year": 2023,
+      "publication_date": "2023-07-05",
+      "journal": "2023 26th ACIS International Winter Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing (SNPD-Winter)",
+      "doi": "10.1109/SNPD-Winter57765.2023.10224037",
+      "arxiv_id": "N/A",
+      "keywords": [
+        "Computer Science"
+      ],
+      "abstract": "The existing text sentiment analysis models based on deep learning and neural network usually have problems such as incomplete text feature extraction and failure to consider the impact of key information on text sentiment tendency. Based on the parallel hybrid network and the two-way attention mechanism, an improved text sentiment analysis model is proposed. The model first takes the word vector trained by the BERT language model as the input, and then extracts the global and local features of the context simultaneously through the parallel hybrid neural network constructed by the Convolution Neural Network (CNN) and The Bidirectional Gated Recurrent Unit (BiGRU), so as to improve the feature extraction ability of the model. It also integrates the dual-way attention mechanism to strengthen the key information in the global feature and local feature, and the feature vectors obtained by feature fusion are used for sentiment analysis. The experimental results on the ChnSentiCorp hotel review data set and the NLPcc2013-NLPcc2014 microblog review data set show that the model has significantly improved the classification accuracy compared with the benchmark model.",
+      "tldr": "",
+      "citation_count": 3,
+      "publication_types": [
+        "JournalArticle",
+        "Conference",
+        "Review"
+      ],
+      "pdf_url": "https://doi.org/10.1109/SNPD-Winter57765.2023.10224037",
+      "retrieved_at": "2025-12-21T22:55:42.633371"
+    },
+    "200b88dd80eb673ec23a8ad614ec3785a4bc2068": {
+      "paper_id": "200b88dd80eb673ec23a8ad614ec3785a4bc2068",
+      "title": "A Hybrid Ensemble Model for Drug Recommendation with Sentiment Analysis from Textual Reviews",
+      "url": "https://www.semanticscholar.org/paper/200b88dd80eb673ec23a8ad614ec3785a4bc2068",
+      "authors": [
+        "Nirmal Kumar K",
+        "Gokul Yesudas",
+        "Muhammed Azeem Yoonus",
+        "Faheem V",
+        "Siji Rani S"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-06-24",
+      "journal": "2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT)",
+      "doi": "10.1109/ICCCNT61001.2024.10723850",
+      "arxiv_id": "N/A",
+      "keywords": [
+        "Computer Science"
+      ],
+      "abstract": "The usage of online recommender systems in health-care, pharmaceuticals, and hospitals is growing. Nowadays, the vast majority of consumers research potential prescriptions online before consulting their doctors for a variety of medical issues. Modern drug recommendation systems frequently pay no attention to the unique needs of a patient and don’t wait for the expectations of the patient. To this, we propose a novel hybrid ensemble model that incorporates Deep Learning, Machine Learning, and Sentiment Analysis. The contribution of the TensorFlow/Keras neural network is in drug review analysis for sentiment, meanwhile LightGBM classifier that offers an alternative approach is another part of the network. Besides TextBlob and a dictionary-based annotation approach, machine learning taking place during classification brings value to sentiment analysis. Forecasts of authorities are pooled, weighted by review influence, and clashed to produce drug-specific studies. This multi-faceted strategy is better compartmentalized and tailor to each patient’s needs, taking emotional state into account, thereby patients are able to access more accurate drug advice and healthcare professionals to make informed decision. Qualitative analysis of the efficiency the model will be carried out using the confusion matrices. Thus, by means of the research on hand, we expect the transformation of the drug recommendation system taking into consideration and patient-individualized system, which will contribute to the improvement of healthcare delivery.",
+      "tldr": "",
+      "citation_count": 2,
+      "publication_types": [
+        "JournalArticle",
+        "Conference",
+        "Review"
+      ],
+      "pdf_url": "https://doi.org/10.1109/ICCCNT61001.2024.10723850",
+      "retrieved_at": "2025-12-21T22:55:42.633371"
+    },
+    "4919795d4f10ba69dda33332867c9cbbb66584a2": {
+      "paper_id": "4919795d4f10ba69dda33332867c9cbbb66584a2",
+      "title": "Sentiment Analysis With Lipschitz Recurrent Neural Networks Based Generative Adversarial Networks",
+      "url": "https://www.semanticscholar.org/paper/4919795d4f10ba69dda33332867c9cbbb66584a2",
+      "authors": [
+        "Mahmudul Hasan",
+        "Sachin Shetty"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-02-19",
+      "journal": "2024 International Conference on Computing, Networking and Communications (ICNC)",
+      "doi": "10.1109/ICNC59896.2024.10555933",
+      "arxiv_id": "N/A",
+      "keywords": [
+        "Computer Science"
+      ],
+      "abstract": "This paper applies a novel sentiment analysis method to the IMDB movie review dataset by integrating Lipschitz Recurrent Neural Networks (LRNN) into a Generative Adversarial Network (GAN) architecture. Traditional sentiment analysis techniques frequently struggle with instability and disappearing gradients during model training. Our method reduces these problems by using LRNN's stability and effectiveness, improving sentiment analysis's precision and resilience. The GAN framework efficiently synthesizes and discriminates between real and generated sentiment-laden textual data. It consists of a generator and discriminator that are both equipped with LRNN. The discriminator distinguishes between real and fake data and rates the sentiment correctness of the generated text, while the generator concentrates on producing realistic, sentiment-laden prose. A typical issue in traditional GAN models, the gradient vanishing problem is addressed by integrating LRNN in both the generator and discriminator, stabilizing the training process and enhancing performance. With an accuracy of 91.30 % on the IMDB dataset, our results significantly improve sentiment analysis accuracy, surpassing some well-known models. This indicates that LRNN-based GAN models can effectively handle challenging sentiment analysis tasks. Subsequent investigations will delve into the utilization of this paradigm in industry-specific settings like healthcare, banking, and education, as well as its incorporation into chatbot platforms. This work advances sentiment analysis techniques by providing a reliable and effective method for analyzing sentiments in big datasets.",
+      "tldr": "",
+      "citation_count": 1,
+      "publication_types": [
+        "JournalArticle",
+        "Conference",
+        "Review"
+      ],
+      "pdf_url": "https://doi.org/10.1109/ICNC59896.2024.10555933",
+      "retrieved_at": "2025-12-21T22:55:42.633371"
+    },
+    "edced6aaa31f664553e7cb3e7086f53f2b5e1b10": {
+      "paper_id": "edced6aaa31f664553e7cb3e7086f53f2b5e1b10",
+      "title": "NLP-Based Sentiment Analysis using Deep Learning Methods",
+      "url": "https://www.semanticscholar.org/paper/edced6aaa31f664553e7cb3e7086f53f2b5e1b10",
+      "authors": [
+        "Dheeraj Kumar",
+        "Sandeep Bhatia",
+        "Dr. Hardeep Singh Dhillon",
+        "A. Goel"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-12-16",
+      "journal": "2024 1st International Conference on Advances in Computing, Communication and Networking (ICAC2N)",
+      "doi": "10.1109/ICAC2N63387.2024.10894873",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "Opinion mining systems rely heavily on sentiment analysis because to the vast amount of data and opinions that are generated, exchanged, and sent on a regular basis through the internet and other media. This study presents a deep learning network-based sentiment analysis categorization that was created and compares the results across multiple deep learning networks. Using the Multilayer Perceptron, a benchmark for other networks' performance was established (MLP). Built and implemented on the 50K movie review file IMDB dataset were a hybrid model of long short-term memory (LSTM) and convolutional neural network (CNN), as well as an LSTM recurrent neural network. Reviews for the dataset were 50% positive and 50% negative. After Word2Vec performed its initial pre-processing on the data, word embedding was applied. The hybrid CNN_LSTM model outperformed the MLP and the separate CNN and LSTM networks, as seen by the findings. While CNN reported an accuracy of 88.9%, MLP and LSTM reported accuracy of 87.78% and 87.68, respectively. 89.4% accuracy was reported by CNN_LSTM. Results further show that the proposed deep learning models have performed better than SVM, Naïve Bayes, and RNTN models based on English datasets presented in previous works.",
+      "tldr": "",
+      "citation_count": 1,
+      "publication_types": [
+        "Conference",
+        "Review"
+      ],
+      "pdf_url": "https://doi.org/10.1109/ICAC2N63387.2024.10894873",
+      "retrieved_at": "2025-12-21T22:55:42.633371"
+    },
+    "9af9860e131db1281461109f45e9794b067254ec": {
+      "paper_id": "9af9860e131db1281461109f45e9794b067254ec",
+      "title": "A Comparative Analysis of RNNs, GRUs and LSTMs in Machine Translation and Sentiment Analysis",
+      "url": "https://www.semanticscholar.org/paper/9af9860e131db1281461109f45e9794b067254ec",
+      "authors": [
+        "Amit Gupta",
+        "Bhavya Shastri",
+        "Utsav Nautiyal",
+        "Kanupriya",
+        "Navin Garg"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-05-03",
+      "journal": "2024 4th International Conference on Pervasive Computing and Social Networking (ICPCSN)",
+      "doi": "10.1109/ICPCSN62568.2024.00054",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "Machine translation is the act of translating from one language to another using a computer program or algorithm. The need for translation from one language to another to facilitate communication between different cultures and peoplei s one that we have had since antiquity. Traditional methods of translation are quite slow and cumbersome and are susceptible to biases from the translator. The advent of computers has led us to explore ways in which this process may be automated. Another long-standing problem is the detection and classification of emotions in textual data. The capacity to detect and recognize human emotions is one that is particularly fascinating and important in the field of Artificial Intelligence. Both problems are NLP(natural language processing) problems that involve analyzing textual data which is inherently sequential in nature. Traditional deep neural networks have proven inefficient and inaccurate in tasks involving sequential data such as natural language processing, time series analysis etc. Over the years numerous deep learning models have been developed to address these issues. The advent of RNNs(Recurrent Neural Networks), LSTMs(Long Short-Term Memory) and GRUs(Gated Recurrent Units), which are all deep neural networks built to handle sequential data, has made great progress in machine translation and sentiment analysis. Each of these models has its own unique characteristics and features. This paper aims to compare each model in terms of accuracy, performance, architecture, computational complexity, etc. and thus outline situations in which each model may prove suitable based on its particular set of strengths and weaknesses.",
+      "tldr": "",
+      "citation_count": 1,
+      "publication_types": [
+        "Conference"
+      ],
+      "pdf_url": "https://doi.org/10.1109/ICPCSN62568.2024.00054",
+      "retrieved_at": "2025-12-21T22:55:42.633371"
+    },
+    "b31017046a9be919a2e200b25eb00da0f9fb4694": {
+      "paper_id": "b31017046a9be919a2e200b25eb00da0f9fb4694",
+      "title": "Optimized Attention-Driven Bidirectional Convolutional Neural Network",
+      "url": "https://www.semanticscholar.org/paper/b31017046a9be919a2e200b25eb00da0f9fb4694",
+      "authors": [
+        "T. Mahalakshmi",
+        "Zulaikha Beevi S. (fd7ea200-e5dd-486b-a51e-c890c3e",
+        "M. Navaneethakrishnan",
+        "Puppala Ramya",
+        "Sanjay Nakharu Prasad Kumar"
+      ],
+      "publication_year": 2024,
+      "publication_date": "2024-07-17",
+      "journal": "International Journal of Business Data Communications and Networking",
+      "doi": "10.4018/ijbdcn.349572",
+      "arxiv_id": "N/A",
+      "keywords": null,
+      "abstract": "This paper devises an optimization-based technique for sentiment analysis using the set of reviews. The major processes involved for the developed sentiment analysis approach are tokenization and sentiment classification. Initially, the input reviews are considered from the database and are subjected to the tokenization process. The tokenization process is performed using Bidirectional Encoder Representations from Transformer (BERT) where the input review data is partitioned into individual words, named as tokens. Finally, sentiment classification is carried out using Attention-based Bidirectional CNN-RNN Deep Model (ABCDM), which is trained by proposed Chimp Deer Hunting Optimization (CDHO) approach. Accordingly, the proposed CDHO algorithm is newly designed by incorporating Chimp Optimization Algorithm (ChOA) and Deer Hunting Optimization Algorithm (DHOA). The proposed CDHO-based ABCDM provided enhanced performance with highest precision of 93.5%, recall of 94.5% and F-measure of 94%.",
+      "tldr": "An optimization-based technique for sentiment analysis using the set of reviews by incorporating Chimp Optimization Algorithm and Deer Hunting Optimization Algorithm and the proposed CDHO-based ABCDM provided enhanced performance with highest precision.",
+      "citation_count": 1,
+      "publication_types": [
+        "JournalArticle",
+        "Review"
+      ],
+      "pdf_url": "https://doi.org/10.4018/ijbdcn.349572",
+      "retrieved_at": "2025-12-21T22:55:42.633371"
     }
   }
 }
