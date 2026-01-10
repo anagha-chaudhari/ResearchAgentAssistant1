@@ -112,6 +112,7 @@ All generated reports are saved and displayed under Previous Reports for future 
 </p>
 
 ## How to Clone & Run the Project
+
 1️⃣ Clone the Repository
 
     git clone https://github.com/Kritik2310/AI-Research-Paper-Generator.git
