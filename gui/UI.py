@@ -5,12 +5,11 @@ import os
 
 API_URL = os.getenv(
     "BACKEND_URL",
-    "http://localhost:8080"   
+    "http://localhost:8080"
 )
 
 st.set_page_config(page_title="AI Research Assistant", layout="wide")
 
-# -----CSS ---------
 st.markdown("""
 <style>
 .main-title { text-align:center; font-size:40px; font-weight:700; margin-bottom:5px; }
@@ -83,12 +82,10 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# ---------------- HEADER ----------------
 st.markdown("<div class='main-title'>AI Research Paper Assistant</div>", unsafe_allow_html=True)
 st.markdown("<div class='sub-title'>Multi-Agent IEEE Research Paper Generator</div>", unsafe_allow_html=True)
 st.markdown("---")
 
-# ---------------- SESSION STATE ----------------
 if "current_markdown" not in st.session_state:
     st.session_state.current_markdown = None
 if "current_topic" not in st.session_state:
@@ -98,7 +95,6 @@ if "history" not in st.session_state:
 if "progress_step" not in st.session_state:
     st.session_state.progress_step = 0
 
-# ---------------- LOAD HISTORY FROM BACKEND ----------------
 if st.button("🔄 Load Report History"):
     try:
         res = requests.get(f"{API_URL}/history", timeout=30)
@@ -107,7 +103,6 @@ if st.button("🔄 Load Report History"):
     except Exception as e:
         st.error(f"Failed to load history: {str(e)}")
 
-# ---------------- INPUT ----------------
 with st.form("research_form"):
     topic = st.text_input(
         " Enter Research Topic",
@@ -115,7 +110,6 @@ with st.form("research_form"):
     )
     run_btn = st.form_submit_button("🚀 Run Research")
 
-# ---------------- STEPPER PROGRESS TRACKER ----------------
 def render_stepper(step):
     steps = ["Retrieval", "Summary", "Evaluation", "Design", "Report"]
     html = "<div class='stepper'>"
@@ -138,7 +132,7 @@ def render_stepper(step):
     stepper_placeholder.markdown(html, unsafe_allow_html=True)
 
 stepper_placeholder = st.empty()
-# ---------------- RUN PIPELINE WITH LIVE TRACKING ----------------
+
 if run_btn:
     st.session_state.progress_step = 1
     render_stepper(1)
@@ -192,8 +186,7 @@ if run_btn:
 
         except Exception as e:
             st.error(str(e))
-            
-# ---------------- COLLAPSIBLE HISTORY PANEL ----------------
+
 st.markdown("---")
 
 with st.expander("Previous Reports", expanded=False):
@@ -215,24 +208,24 @@ with st.expander("Previous Reports", expanded=False):
                         st.session_state.current_topic = item["topic"]
     else:
         st.info("No previous reports yet.")
-        
-# ---------------- PREVIEW ----------------
+
 if st.session_state.current_markdown:
     st.markdown("---")
     st.markdown("<h2 style='text-align:center;'>📄 Research Paper Preview</h2>", unsafe_allow_html=True)
+
+    formatted_md = st.session_state.current_markdown.replace("\n", "<br>")
 
     st.markdown(
         f"""
         <div class="preview-wrapper">
             <div class="preview-box">
-                {st.session_state.current_markdown.replace("\n", "<br>")}
+                {formatted_md}
             </div>
         </div>
         """,
         unsafe_allow_html=True
     )
 
-# ---------------- DOWNLOAD PANEL ----------------
 if st.session_state.current_markdown:
     st.subheader("⬇️ Download Report")
 
