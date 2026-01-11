@@ -1,12 +1,12 @@
 FROM python:3.10-slim
 
+ENV PYTHONUNBUFFERED=1
+
 WORKDIR /app
 
-# Copy correct requirements file
 COPY backend/requirements.txt ./requirements.txt
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy code
 COPY backend ./backend
 COPY agents ./agents
 COPY tools ./tools
