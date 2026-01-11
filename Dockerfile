@@ -6,7 +6,7 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy all backend code
+# Copy code
 COPY backend ./backend
 COPY agents ./agents
 COPY tools ./tools
@@ -15,8 +15,8 @@ COPY pipeline.py ./app.py
 # Create directories
 RUN mkdir -p backend/data outputs
 
-# Expose port
-EXPOSE 7860
+# Cloud Run uses port 8080
+EXPOSE 8080
 
-# Run FastAPI
-CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "7860"]
+# Use PORT provided by Cloud Run
+CMD exec uvicorn app:app --host 0.0.0.0 --port ${PORT:-8080}
