@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import time
 
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://researchagentassistant1-216682589764.asia-south1.run.app/"
 
 st.set_page_config(page_title="AI Research Assistant", layout="wide")
 
