@@ -1,8 +1,12 @@
 import streamlit as st
 import requests
 import time
+import os
 
-API_URL = "https://researchagentassistant1-216682589764.asia-south1.run.app/"
+API_URL = os.getenv(
+    "BACKEND_URL",
+    "http://localhost:8080"   
+)
 
 st.set_page_config(page_title="AI Research Assistant", layout="wide")
 
